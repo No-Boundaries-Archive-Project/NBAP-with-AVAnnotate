@@ -80,10 +80,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "David Roussève"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "David RoussÃ¨ve"
         },
         {
@@ -101,7 +97,7 @@
       ]
     },
     "created_at": "2025-10-05T19:49:11.422Z",
-    "updated_at": "2026-01-12T22:41:22.777Z",
+    "updated_at": "2026-01-12T22:44:07.119Z",
     "generate_pages_site": true
   },
   "annotations": {},
