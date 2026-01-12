@@ -1,5 +1,5894 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wind blowing. Gesel and David are outside walking along the sidewalk in front of a Spanish Colonial-style house. David stops in front of a fern bush and appears to sniff it. Birds chirp. Gesel stops in front of another fern bush ahead of David and pulls a leaf to her nose. David approaches Gesel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "44bcd24a-3031-4fad-bdba-fe56c5424fb4"
+    },
+    {
+      "start_time": 8,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "that a fern?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "22f5c0f4-6023-4f0b-a196-1e70531be259"
+    },
+    {
+      "start_time": 12,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David rubs his fingers on the leaves then holds them to his face, appearing to sniff them. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "3297abd6-da6a-4de1-bd17-27aa6a3629ac"
+    },
+    {
+      "start_time": 19,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(unintelligible)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "f70986c7-ee94-4395-ba5f-29d480152ef5"
+    },
+    {
+      "start_time": 20,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "99c2dc7c-aef7-47d5-aec7-705b992bf08a"
+    },
+    {
+      "start_time": 21,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Both Gesel and David turn into the front walkway of the home. Flower bushes line the driveway. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "5219b3a6-d512-41f6-a844-947e37755a9a"
+    },
+    {
+      "start_time": 24,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[pointing to a rosebush] Oh, look at that. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "620a485d-971c-4236-a53e-140b7ed87546"
+    },
+    {
+      "start_time": 25,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David and Gesel each stop to smell a flower."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "5e67680e-ccc1-49ae-b796-81f6360e59e4"
+    },
+    {
+      "start_time": 34,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, look at that. [points to a rose] (unintelligible)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c26e0d4b-7e49-48b1-90ac-05aacb3b8a73"
+    },
+    {
+      "start_time": 35,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(unintelligible) (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "4b486289-4627-4a47-9771-7305d72cd25f"
+    },
+    {
+      "start_time": 41,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beautiful flowers, man."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ddbffcab-d56e-45ba-97a4-04fc545b34ca"
+    },
+    {
+      "start_time": 48,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel and David turn and walk up the steps to the front porch of the house. Gesel presses the doorbell. The camera zooms in slightly on Gesel and David. A dog barks from inside the house. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "4e2c94f2-dc02-4075-aef1-86d59462cb02"
+    },
+    {
+      "start_time": 68,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The front door opens. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "848b00f5-2cbe-4172-b037-2c82c3be0231"
+    },
+    {
+      "start_time": 69,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[waves right arm in a single arc] Hey!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6902cab8-e4b4-4b60-9093-09c7f694d325"
+    },
+    {
+      "start_time": 69,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Howdy, hi."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ab109dc5-6d1f-4e0b-8e51-db5975a6eddb"
+    },
+    {
+      "start_time": 68,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(dog barking) My name is Gesel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ca5f8b5b-67ed-44a4-b14c-1eb735f58997"
+    },
+    {
+      "start_time": 70,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The dog continues barking as the man pulls the dog back inside the house. David looks back at the camera and smiles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "437a66de-ac9c-4024-b604-4dd399c57070"
+    },
+    {
+      "start_time": 75,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cheles, you better get up here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "25822814-f032-409e-9bcb-51104cf9f0db"
+    },
+    {
+      "start_time": 77,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The camera cuts to a living room."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "b2333486-b9e7-4e6a-b8a9-4a437004daf6"
+    },
+    {
+      "start_time": 77,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Have a seat, I got a couple chairs here. Um, (unintelligible)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a182feec-3cdd-43fd-b4a1-42a8f024f309"
+    },
+    {
+      "start_time": 78,
+      "end_time": 88,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The camera pans across the room to a dog. The dog barks. The camera pans across a white wall then down a hallway. The dog continues barking. At the end of the hallway is a door standing halfway open. The camera operator begins walking down the hallway. Clunky footsteps are heard on a hardwood floor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "18fa3cdb-109b-4479-8e4a-03193e3f8c01"
+    },
+    {
+      "start_time": 90,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, what's uh--of the"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c255258a-de92-4a83-9931-cdc071beb5f8"
+    },
+    {
+      "start_time": 92,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The camera turns left and enters a room that appears to be a home office."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "e6896b01-c112-42b2-bea6-789841ba8e5d"
+    },
+    {
+      "start_time": 92,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, okay. I just wanted to make sure he's not out in the front with, uh--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a9a4edc8-2fd5-4e1e-ab7a-07532752f021"
+    },
+    {
+      "start_time": 95,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The camera continues turning and shows David and Gesel seated adjacent to the third speaker. The third speaker is seated in an office chair. He is holding a soda can in his left hand. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "2f02de75-e815-4048-9146-320e7beb700b"
+    },
+    {
+      "start_time": 95,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gettin' bit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a69949be-23b7-4720-82be-4bfe2f47c789"
+    },
+    {
+      "start_time": 96,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "167471f9-0657-4f73-9c22-359f9b565ff8"
+    },
+    {
+      "start_time": 96,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "With, uh--exactly!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "774302ac-8544-4237-8970-fc6e84441e96"
+    },
+    {
+      "start_time": 98,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The 3rd speaker leans forward while laughing and looking at David."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "4f80c03d-be59-4d5d-bdfa-69247152e185"
+    },
+    {
+      "start_time": 99,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[laughing] Remember that last time, [laughing] Robbie was like--. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "621d3696-9807-49bd-b9d7-c43660026ca1"
+    },
+    {
+      "start_time": 101,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The 3rd speaker leans back in his chair, still smiling, and recrosses his legs. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "86fbd1f2-7690-424b-a4cd-ca75242f6223"
+    },
+    {
+      "start_time": 104,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hee-- [imitates a dog snarling and pawing the air]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        }
+      ],
+      "uuid": "c7aa45a5-c01d-4189-be11-751b35894caf"
+    },
+    {
+      "start_time": 104,
+      "end_time": 107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "620b3786-8a49-4be6-9c70-83bb78e2a1ff"
+    },
+    {
+      "start_time": 107,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, she-- she startled him, but he ran out of the room."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "7bd1768d-a0b9-4ac6-980d-db99d74bb9fa"
+    },
+    {
+      "start_time": 109,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He ran out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b2f03076-c96f-4df6-9b36-7b8923fd7166"
+    },
+    {
+      "start_time": 110,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm glad, uhm, he went that way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "db039c4b-c720-4a30-8dd2-2c60a17ce086"
+    },
+    {
+      "start_time": 111,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, huh. He ran, yeah. [leans forward to adjust glasses]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "2a76054f-e087-4c9a-a854-aa21a852d94e"
+    },
+    {
+      "start_time": 114,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "bf4868ea-e120-4ab5-ba74-1d425c128328"
+    },
+    {
+      "start_time": 114,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Otherwise, yeah, 'cause she'd be kind of a like a, a tidbit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6b747348-7538-4c2e-93dd-ac3782fe7a45"
+    },
+    {
+      "start_time": 116,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She'd be a snack, uh-huh. He'd be like-- [smacks his hands together imitating jaws snapping shut]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "90e816d6-9f2c-4d73-b7ce-5d2e9fd62d98"
+    },
+    {
+      "start_time": 120,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's it-- what's the dog's name? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "202b65c3-e08f-4aed-b6c7-87037b9605e6"
+    },
+    {
+      "start_time": 120,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finished."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "03abcb52-55b9-48ce-be3f-b7d1eb2c6c18"
+    },
+    {
+      "start_time": 121,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "His name's Mojo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "9d89e391-0587-4436-a241-9d96d890f455"
+    },
+    {
+      "start_time": 122,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mojo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6716205f-82cb-49bf-8955-3e52a97c200d"
+    },
+    {
+      "start_time": 122,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, he's a big boy. Yeah. We're [gestures to David] big dog fans."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "67cd638f-a927-4111-bbb0-1fca80a5ba38"
+    },
+    {
+      "start_time": 128,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh-huh. [nods, smiling]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "dd03336f-bcad-41dd-b880-18f419777549"
+    },
+    {
+      "start_time": 128,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "71749a86-af27-42da-94c4-b726e98989a3"
+    },
+    {
+      "start_time": 128,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(unintelligible)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "82d460c6-5c3c-444f-bcc4-0b60b210602e"
+    },
+    {
+      "start_time": 129,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera cuts to Gesel and 3rd Speaker facing away from the camera. They are in the same room, but they are now standing in front of a table. Gesel hands the 3rd speaker a piece of paper."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "2bdf424a-4abf-4ceb-a674-e114a1a12c26"
+    },
+    {
+      "start_time": 129,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, let's do this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "8ff92b81-b8dc-4b79-8bd9-728bde26feb6"
+    },
+    {
+      "start_time": 129,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, so I won't be grabbin' it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "d4950f40-f156-4793-a804-2690a35100e3"
+    },
+    {
+      "start_time": 131,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is this, uh, any--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "14dbe0e9-a756-4d5d-89ca-245ce04ecdd0"
+    },
+    {
+      "start_time": 131,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's all on here. I don't--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "688f0078-507b-45ce-9754-890cdd4f5bf6"
+    },
+    {
+      "start_time": 133,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On this one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ead76a4e-0878-445f-885f-2f1419f7208e"
+    },
+    {
+      "start_time": 134,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "034aadf5-9847-4b48-878d-1fecf9ddc8c2"
+    },
+    {
+      "start_time": 134,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "99c1e33c-7df2-4788-aa24-f5ed5e4b58da"
+    },
+    {
+      "start_time": 134,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The third speaker lays down the piece of paper on the table and leans over it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "77fb99b7-1120-4064-8b2f-6d2fa116103f"
+    },
+    {
+      "start_time": 137,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now. What did I just do?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a4fb103a-169a-46de-a4d5-33ef7866e5b0"
+    },
+    {
+      "start_time": 141,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "df2d2cc3-0757-4a97-ae23-917ca06e9d9d"
+    },
+    {
+      "start_time": 142,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The camera arcs around the 3rd Speaker's right shoulder to show a microphone with a black pop filter attached affixed to the table."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "ddd23c5f-81bd-4970-992f-e5de8b138112"
+    },
+    {
+      "start_time": 148,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Seems to work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "aeb4b97c-61a7-4dda-8f5e-27ab54a3dd5a"
+    },
+    {
+      "start_time": 150,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(laughs)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "44b0605d-01aa-4eec-9e85-aa57f4f1695b"
+    },
+    {
+      "start_time": 150,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The camera arcs around to show Gesel and 3rd Speaker's faces."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "d82ec579-785c-4ac6-8263-1d93876ed311"
+    },
+    {
+      "start_time": 151,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, now we won't have any wrinkly stuff (unintelligible)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "8788110a-99f1-499b-989e-8b90d5ba02f2"
+    },
+    {
+      "start_time": 152,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, right, right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b1610e6e-b850-469d-bd95-485033085fcc"
+    },
+    {
+      "start_time": 154,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, as long as you don't hit this [taps the pop filter in front of the microphone], ya know what I mean? Ah, you're a little bit [adjusts the pop filter] that actually should work pretty good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "f4999c68-9105-433e-a8d3-134996e77f4d"
+    },
+    {
+      "start_time": 161,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is this too much light? I mean, like, too much heat? Or are you fine with it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "7b8e547a-c866-4371-9aa9-5bf0a77d534e"
+    },
+    {
+      "start_time": 164,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's fine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "38448009-ca5d-41a9-b02e-e107a796816a"
+    },
+    {
+      "start_time": 166,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She's--she likes heat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "55c090bd-698e-4741-a0ae-8826b4cc026f"
+    },
+    {
+      "start_time": 169,
+      "end_time": 169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aye yeet(??)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c40d0b78-db5b-436e-84d7-4a3fbbd35b4a"
+    },
+    {
+      "start_time": 169,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The third speaker steps behind Gesel and walks over to a stereo in the corner. He raises his right arm in the air, presses some buttons on the stereo, and snaps his fingers. Gesel holds a clipboard in her right hand."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "eb44c729-ef12-4872-9c5b-e1d1af335971"
+    },
+    {
+      "start_time": 177,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, um, if, if I can, can you just start reading? I'm just gonna get some level stuff."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "fe57158d-8315-4231-804e-b0387e13e62a"
+    },
+    {
+      "start_time": 183,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm-hmm. Mm-hmm. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "f8011e42-5239-4c5f-8164-e73279578d13"
+    },
+    {
+      "start_time": 184,
+      "end_time": 186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The 3rd speaker puts on headphones and presses buttons on the stereo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "19b99489-80c5-4232-9c49-cb9ec0586005"
+    },
+    {
+      "start_time": 186,
+      "end_time": 246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Funny how it's the little things we remember about the moments we'd rather forget. I remember a magnificent sun, and white steps [holds up left hand] that [flattens hand and waves it in emphasis] glistened like magical porcelain. [wiggles fingers in a soft fist shape] Maybe I remember these things in order to forget the feeling of my heart being crushed. I loved Katherine with all my heart. And I had never known a thrill like running up the steps in front of that courthouse with my arm around her. She was so excited that when I placed my hand on her chest, next to that red flower she insisted on wearing, I could feel her heart [opens hand, facing out] pounding [hand returns to soft fist] through the faded lace of her grandmother's wedding dress. We were [swallows] halfway up the steps when the long line of couples waiting in the sun began to turn and walk away."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6400a55d-a567-41f2-aa98-0158b22b4cef"
+    },
+    {
+      "start_time": 247,
+      "end_time": 248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, question for you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "f5127d93-ccea-4844-8019-d9f02b229cf9"
+    },
+    {
+      "start_time": 248,
+      "end_time": 248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[turns toward 3rd Speaker] Mm-hmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "4d1bd4da-b103-4ea7-b84e-93508136e32d"
+    },
+    {
+      "start_time": 248,
+      "end_time": 252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Does anything get really loud or really soft from that? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "2786de67-fc5e-4a97-a8b2-7d317573296a"
+    },
+    {
+      "start_time": 252,
+      "end_time": 253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[shakes head]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "fef448fc-77bc-473e-abd5-667fdbe26fae"
+    },
+    {
+      "start_time": 252,
+      "end_time": 253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "--or is, it's generally that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "5232fc0a-6694-4fd5-8087-1979032acea1"
+    },
+    {
+      "start_time": 253,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's somewhere in there, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "d80e9ba6-f799-407e-a7e9-c29590484aff"
+    },
+    {
+      "start_time": 255,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. [turns to David]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ffe3ff81-ee71-4594-8b81-635118d0fedc"
+    },
+    {
+      "start_time": 255,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[nods, looking in Gesel's direction] Uh-huh. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "7637cdd6-b47c-41ff-b326-663462191d04"
+    },
+    {
+      "start_time": 256,
+      "end_time": 259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[turns back to stereo] Um, then I guess we can start."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "41325f14-99fc-4074-bc62-a8dbfbf9228a"
+    },
+    {
+      "start_time": 260,
+      "end_time": 264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, Gesel, that first sentâuh, start that one off really kind of informally. Justâ"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "453e689f-2a9d-4589-a996-59d48d9cae3e"
+    },
+    {
+      "start_time": 264,
+      "end_time": 265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Funny how it'sâ"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "992a500f-4010-4e45-97ec-ce121bd3410b"
+    },
+    {
+      "start_time": 265,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Funny how it's the little things. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "91602b57-9868-42c1-bc3f-03dcc7fe0bd6"
+    },
+    {
+      "start_time": 267,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[nodding] Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "2c6e58c4-2acc-4d73-ac2d-a76db8d817c0"
+    },
+    {
+      "start_time": 268,
+      "end_time": 269,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kinda matter of fact."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6fb15284-0032-4a6c-b674-c2fb60d6dab5"
+    },
+    {
+      "start_time": 270,
+      "end_time": 271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you have something I could stand on?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "7d1b5776-88c9-4ce3-b460-05dca6ef029f"
+    },
+    {
+      "start_time": 272,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6da4990b-561b-4e15-b8f3-a11baaef4f0a"
+    },
+    {
+      "start_time": 273,
+      "end_time": 274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is the mic too high for you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "875e3787-0222-4e5e-a3af-5e77926d4d58"
+    },
+    {
+      "start_time": 274,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is the mic too high? I can lower the mic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "49644bea-8895-44d2-a8b6-28741ef06a41"
+    },
+    {
+      "start_time": 276,
+      "end_time": 278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, okay. If I could have it lowered a little bit that would be great."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "7de902b0-b5fe-4673-b139-c23f36648ea4"
+    },
+    {
+      "start_time": 277,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3rd Speaker reaches down and makes a twisting motion with his arm. The microphone lowers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "7185792b-5777-4802-8128-45a8c15a870c"
+    },
+    {
+      "start_time": 280,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just saw the [points to something at eye-level] thing--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "68f3bbb3-64dc-4059-bb8a-e63d58372b49"
+    },
+    {
+      "start_time": 281,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera cuts to a sideview of Gesel speaking into the microphone. The 3rd Speaker is standing to the left of Gesel. He is wearing headphones and pressing buttons on the stereo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "29903a13-e68c-49a9-9ec1-b3509716bf37"
+    },
+    {
+      "start_time": 283,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel turns toward the camera and holds the clipboard up, blocking her face from view."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "1afc64fa-9710-4ddd-8f64-b78281297e9d"
+    },
+    {
+      "start_time": 285,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David Rousseve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "1ffa0595-3393-4e5e-8dca-9223046161d4"
+    },
+    {
+      "start_time": 286,
+      "end_time": 286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel pulls the clipboard down and flashes an open-mouth grin at the camera. She turns back to the 3rd speaker. The 3rd Speaker turns and looks in David's direction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "d5b53768-df2d-4247-99d5-c2c55fb460c0"
+    },
+    {
+      "start_time": 291,
+      "end_time": 291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "70c27ebb-ea2e-47de-84cb-1e7ef5849497"
+    },
+    {
+      "start_time": 291,
+      "end_time": 292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, yeah. I better be quiet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "2abb354f-70bd-4f1f-82df-99812e94d437"
+    },
+    {
+      "start_time": 292,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "1a607bbb-d16a-4760-b5b3-ffc20661fc14"
+    },
+    {
+      "start_time": 294,
+      "end_time": 295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gah-lee! [sound of paper rattling offscreen]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "964f3547-f0da-4476-8599-3b7d0453f336"
+    },
+    {
+      "start_time": 295,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Camera Operator"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "274e4e9f-6c75-4a02-82b1-72492bea9b3d"
+    },
+    {
+      "start_time": 296,
+      "end_time": 299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, we might have to have youâwell, yeah, just sit real still."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "91ec6eb9-0827-42cb-927c-e0d49a8792ef"
+    },
+    {
+      "start_time": 299,
+      "end_time": 299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "317dca84-8ecc-455b-94f7-065348aabb13"
+    },
+    {
+      "start_time": 299,
+      "end_time": 303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "8f68e77b-97f6-4eb4-97ec-c1070974b850"
+    },
+    {
+      "start_time": 302,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's just like in kindergarten. Alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "57208a06-929b-4bc5-b27d-2b72a38ee71a"
+    },
+    {
+      "start_time": 309,
+      "end_time": 315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. Um. We're rolling. So, uh, start when you're ready."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "52d33a00-46cf-4c2a-8cb4-6a086dc4d1ef"
+    },
+    {
+      "start_time": 320,
+      "end_time": 509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Funny how it's the little things we remember about the moments we'd rather forget. I remember a [raises right hand toward the lower right corner of the clipboard] magnificent [forms a soft fist] sun. And, and white steps [fans out fingers] that glistened like magical porcelain. [wiggles fingers in emphasis, then spreads her hand.] Maybe I remember these things [flips hand upward, then gently shakes her hand repeatedly towards her chest] in order to forget the feeling of my heart being crushed. [waving hand up and down] I loved Katherine with all my heart and I had never [lifts voice, raises hand slightly] known [drops her hand] a thrill like [spreads her hand and pounds the air for emphasis] running up the steps in front of that courthouse with my arm around her. She was so excited that when I placed my hand on her chest, next to that red flower she insisted on wearing, I could feel her heart pounding through the faded lace of her grandmother's wedding dress. We were halfway up the steps when the long line of couples waiting in the sun began to turn and walk away. I do not know how to describe a look [nods head in emphasis] of utter devastation. The stoop of the shoulders, the tremble of the fingers, the reflection in the eyes of a heart the does not know if the next beat is worth taking. But that is what I saw in those couples. And right then and there, we knew. The weddings had been stopped. And that ours was, once again, forbidden. I don't know how long we stood there, unable to move, before Katherine managed to put her head on my shoulder. Then I remember the feel of her tears as they [inhales] rolled down my breast leaving tracks over my heart before they splattered onto those magical steps that no longer wished our feet to be there. Eventually, we made it home. We got drunk on a bottle of wine, listened to Nat King Cole. As I fell asleep in Katherine's arms, with her palm stroking my face, I wasn't thinking about the [pauses] politics of it. Or the biology of it. Or the right and wrong of it. No, I was too crushed for any of that to matter. That night, all I could think was, but I just wanted to love her. I fell asleep and dreamed about slaves jumping the broom to marry. But I suppose I was really dreaming about just how far this hatred could go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "89666754-6472-4210-ab7f-750e5fb03939"
+    },
+    {
+      "start_time": 512,
+      "end_time": 513,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. That's it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a046d21d-cd88-4397-8473-ddd16010f7bd"
+    },
+    {
+      "start_time": 516,
+      "end_time": 516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was kind of aâ"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ff840d80-e234-40d8-9833-db4d13f826c3"
+    },
+    {
+      "start_time": 517,
+      "end_time": 517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera cuts to a later moment in time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "48598cc1-e0f0-4e63-8fb7-7f717b746336"
+    },
+    {
+      "start_time": 517,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "âoff the syllables a bit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "3bdf26f3-225e-44bb-bd92-1feb22f02716"
+    },
+    {
+      "start_time": 518,
+      "end_time": 519,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm-hmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6febe2d2-ab60-4521-a4b9-311ee5e52c66"
+    },
+    {
+      "start_time": 519,
+      "end_time": 529,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And just go for a more natural flow. The tone of it is natural, but now we want to get the flow of it. And I think that's part of it, that if they--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "da6588e2-0c46-46da-ac34-3c1c5d2378f9"
+    },
+    {
+      "start_time": 529,
+      "end_time": 530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(unintelligible)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "65b66e56-72da-41fc-a76e-b4099e5ff3ed"
+    },
+    {
+      "start_time": 530,
+      "end_time": 549,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"We knew the wedding had been stopped, and that ours was once again forbidden.\" It's also getting a sense of the sentence that the word is in. But that was getting there. Yeah, I think it could even have just a tiny bit more energy but not be any faster."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a2bfc73c-a621-4759-bf97-d1ffee289dd3"
+    },
+    {
+      "start_time": 549,
+      "end_time": 556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[nodding]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "1a4243dc-baa0-4b6c-8da1-2614b124737e"
+    },
+    {
+      "start_time": 552,
+      "end_time": 558,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. We don't wanna give you too many more things to think of. (laughs)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "87a9b5dc-3041-4cdc-9e88-5b3452d4879a"
+    },
+    {
+      "start_time": 557,
+      "end_time": 558,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel performs a silly dance by dropping her shoulders side-to-side in an exaggerated motion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "137a137e-3735-455a-9aef-6bcb7fbf5508"
+    },
+    {
+      "start_time": 558,
+      "end_time": 567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera cuts to show Gesel approaching the microphone again. She abruptly raises her hands in the air just below her face with fingers spread, takes a deep breath, then drops her hands and closes them together in front of her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "51b33474-9632-4aa6-a1e0-63fe2f90d997"
+    },
+    {
+      "start_time": 558,
+      "end_time": 565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's do it. Take two. Whoops. Rolling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "People",
+          "tag": "3rd Speaker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "1725d95d-ac62-430d-bf39-dc262ff42b84"
+    },
+    {
+      "start_time": 569,
+      "end_time": 754,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Funny how it's the little things we remember about the moments we'd rather forget. I remember a magnificent sun and white steps that glistened like magical porcelain. Maybe I remember these things in order to forget the feeling of my heart being crushed. I loved Katherine with all my heart. And I had never known a thrill like running up the steps in front of that courthouse with my arm around her. She was so excited that when I placed my hand on her chest, next to that red flower she insisted on wearing, I could feel her heart, pounding, through the faded lace of her grandmother's wedding dress. We were halfway up the steps when the long line of couples waiting in the sun began to turn and walk away. I do not know how to describe a look of utter devastation. The stoop of the shoulders, the tremble of the fingers, the reflection in the eyes of a heart that does not know if the next beat is worth taking. But that is what I saw in those couples. And right then and there, we knew. The weddings had been stopped. And that ours was, once again, forbidden. I don't know how long we stood there, unable to move, before Katherine managed to put her head on my shoulder. Then I remember the feel of her tears as they rolled down my breast, leaving tracks over my heart. Before they splattered onto those magical steps that no longer wished our feet to be there. Eventually, we made it home. We got drunk on a bottle of wine, listened to Nat King Cole. As I fell asleep in Katherine's arms, with her palm stroking my face, I wasn't thinking about the politics of it, or the biology of it, or the right and wrong of it. I was too crushed for any of that to matter. That night, all I could think was, but I just wanted to love her. I fell asleep and dreamed about slaves jumping the broom to marry. But I suppose I was really dreaming about just how far this hatred could go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "7f2a3cfa-8cb4-481b-8d07-bda9d5e6f477"
+    },
+    {
+      "start_time": 759,
+      "end_time": 759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The end."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b9c850d8-a72b-4937-8429-f5bdbc3289ec"
+    },
+    {
+      "start_time": 761,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The camera cuts to a brightly lit facility. The camera operator walks down a hallway with a glass door at the end. The camera operator walks through the glass door and out onto a balcony that overlooks a parking lot. The operator returns through the glass door and walks back down the hallway, which opens into an atrium. The camera operator turns to his left and approaches two doors with vertical windows. The camera zooms through one window to show Gesel, David, and Taisha Paggett in a room with a marley floor. The door opens and the camera operator walks through."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "cb6045bc-e1a3-42ec-81ad-d9e9b2340fee"
+    },
+    {
+      "start_time": 819,
+      "end_time": 831,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel lies down on the ground at the foot of Taisha lying sprawled on the floor with their right knee cocked to the side on the ground."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "3b9c9086-683a-4a2e-a469-6a46f52a66d8"
+    },
+    {
+      "start_time": 825,
+      "end_time": 830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know. You wanna switch her legs?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "e9acedef-afe1-4da4-b75d-efafd0002f13"
+    },
+    {
+      "start_time": 830,
+      "end_time": 831,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think so."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6dc5c6ad-287e-40bb-91fc-1f52563ef925"
+    },
+    {
+      "start_time": 831,
+      "end_time": 833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Taisha straightens out their right leg in front of their self and cocks their left knee to the side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "730166c5-7768-4552-bc10-56768627dc4d"
+    },
+    {
+      "start_time": 833,
+      "end_time": 835,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cause I'm gonna go for whatever leg is closest to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ac0c0033-0ef0-4eae-b288-1802e2b1ec2e"
+    },
+    {
+      "start_time": 835,
+      "end_time": 839,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Uh-huh. Okay, that's good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "5422b6d1-ebdf-4dda-868e-46f1760c1104"
+    },
+    {
+      "start_time": 839,
+      "end_time": 846,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel rolls over to lie flat on her back with her wrists crossed over her chest. Her wrists are bound together. Her legs are stretched straight along the ground and her face tilts gently to the right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "5b43e496-8dd4-4b9b-9b68-7f70eed22a86"
+    },
+    {
+      "start_time": 846,
+      "end_time": 870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel rolls over slightly onto her left side and stretches her arms above her head towards the feet of the other dancer. She pushes herself toward the dancer as she pulls her wrists toward her chest. Then she reaches again and grabs a hold of the other dancer's right foot. She appears to pull the dancer's foot in order to pull herself closer to the dancer. She rests her head atop the other dancer's ankle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "7172514f-6e67-4eab-9e2b-42aa664ca1a9"
+    },
+    {
+      "start_time": 864,
+      "end_time": 869,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She continues pulling herself up by the other dancer's leg."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "c25a092c-2e5e-4509-b150-1ed986adee61"
+    },
+    {
+      "start_time": 868,
+      "end_time": 870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "See, I'm going to end up pulling myself to her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "46b4b317-073b-4bfa-8d54-f9fcd9544aba"
+    },
+    {
+      "start_time": 868,
+      "end_time": 872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. [crosstalk] One more time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "69e0337e-6747-4d0e-906b-8d55148c2624"
+    },
+    {
+      "start_time": 871,
+      "end_time": 872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel flails her legs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "71736da6-103e-4607-9262-03727b7cd2ec"
+    },
+    {
+      "start_time": 874,
+      "end_time": 879,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One more time. You wanna stop further away from her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "2c43dffa-fa36-4b90-9dca-fc876b843e73"
+    },
+    {
+      "start_time": 881,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, to reach her foot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "12c99b43-b588-4547-8976-7ce90305a3e7"
+    },
+    {
+      "start_time": 882,
+      "end_time": 883,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Uh-huh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "8a5f3bab-d84b-43a4-aa6e-75d1befd7f41"
+    },
+    {
+      "start_time": 884,
+      "end_time": 885,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "d8970a9f-8964-4c45-8855-06326237b8fb"
+    },
+    {
+      "start_time": 886,
+      "end_time": 888,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A little bit closer so you can get the ankle. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c94fc2cd-d161-4d54-b36a-9d687b471fee"
+    },
+    {
+      "start_time": 888,
+      "end_time": 53700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel grabs onto the other dancer's ankle and appears to struggle to pull herself closer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "07b8e931-2589-4ff4-8543-a3e2def5ca4d"
+    },
+    {
+      "start_time": 890,
+      "end_time": 895,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh-huh. And now from there is it possible to drag her?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "d9aa2342-0b83-4c27-adbd-463d9550b1c9"
+    },
+    {
+      "start_time": 895,
+      "end_time": 899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel drags the other dancer toward her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "a368a5c4-01a5-4c30-9f69-c1e7a5001598"
+    },
+    {
+      "start_time": 900,
+      "end_time": 901,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then take [crosstalk] yeah, uh-huh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "226d88d0-f217-409f-8f7a-19564c52aa69"
+    },
+    {
+      "start_time": 901,
+      "end_time": 908,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel rests her head on the other dancer's ankle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "4cced5c3-75c7-40c0-bf7c-ad3c50461737"
+    },
+    {
+      "start_time": 903,
+      "end_time": 910,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The more you can pull her towards you. Can you stop yourself with your feet in the floor? Taisha, are you okay?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ed3dd7a7-9235-47f2-a285-e05635ebc420"
+    },
+    {
+      "start_time": 910,
+      "end_time": 912,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I'm great."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Taisha Paggett"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "23c79190-6bc0-4d6d-ab56-3d08a968c81f"
+    },
+    {
+      "start_time": 912,
+      "end_time": 914,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Taisha Paggett"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "46938be9-23ee-4940-9e7c-39e4c519f6c1"
+    },
+    {
+      "start_time": 914,
+      "end_time": 915,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You want me to go back to my original position?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Taisha Paggett"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "82fa2ad6-fbb4-4290-af95-ae590d7b0cbe"
+    },
+    {
+      "start_time": 915,
+      "end_time": 915,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ah, no."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c83ca511-4b04-440c-af84-ca9df13c8e93"
+    },
+    {
+      "start_time": 918,
+      "end_time": 927,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera focuses on David RoussÃ¨ve. Gesel and Taisha are out of frame."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "5d2a3d89-b478-47ea-8466-d33d3a94ab2e"
+    },
+    {
+      "start_time": 927,
+      "end_time": 934,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The camera slowly turns back toward the dancers. Gesel is holding onto the other dancer's ankle and attempting to drag herself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "3dda46ff-5349-4113-a367-ca5ba8863bd7"
+    },
+    {
+      "start_time": 931,
+      "end_time": 932,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm not reallyâ"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "42c187e5-b648-4c0c-9806-bc7e5d6ba7b1"
+    },
+    {
+      "start_time": 934,
+      "end_time": 936,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Grab her a little bit higher and see if that helps."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "458a1f8c-b0d0-4f67-86a6-825d99d3e70a"
+    },
+    {
+      "start_time": 937,
+      "end_time": 939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Actually, can you go back to your original position?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c73f7ef7-c151-40f9-a51d-b1135b36a210"
+    },
+    {
+      "start_time": 939,
+      "end_time": 939,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Taisha Paggett"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "45e4ad46-aacf-449e-be21-c4658499ef24"
+    },
+    {
+      "start_time": 940,
+      "end_time": 946,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Taisha pushes theirself backwards across the floor approximately two feet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "88e7c960-6233-4946-a7ba-b14cc631e9bb"
+    },
+    {
+      "start_time": 940,
+      "end_time": 942,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, it's the bent leg."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6681fcc9-a0d9-48ac-a3fc-0ae165253412"
+    },
+    {
+      "start_time": 940,
+      "end_time": 946,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Once she gets there it's likeâthere's almost like an angle(??)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "f4d81d4e-1983-475f-b415-890ea3da2814"
+    },
+    {
+      "start_time": 947,
+      "end_time": 949,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(unintelligible)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Taisha Paggett"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "7f45e358-6b80-456e-9845-a844226405f8"
+    },
+    {
+      "start_time": 949,
+      "end_time": 951,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The original position had the other leg?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "854c5eea-b1ab-499c-bf22-09be3843199a"
+    },
+    {
+      "start_time": 951,
+      "end_time": 955,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, no. I just meant I had already pulled her once so she wasâ"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "eb4f517e-2554-4db7-8058-39e29a683966"
+    },
+    {
+      "start_time": 956,
+      "end_time": 956,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ddf4da5f-8e57-4f47-b533-c6606515233d"
+    },
+    {
+      "start_time": 956,
+      "end_time": 973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel grabs onto the other dancer's ankle and pulls herself closer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "12503313-7f13-435b-9fce-816a4616b369"
+    },
+    {
+      "start_time": 966,
+      "end_time": 968,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(unintelligible)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "bee28e5d-d37f-4116-8874-3962b8b65795"
+    },
+    {
+      "start_time": 971,
+      "end_time": 973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know what? Yeah, that's good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "d79854c6-b34a-4d79-8687-9cd5281e1505"
+    },
+    {
+      "start_time": 969,
+      "end_time": 981,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David stands up and walks over to Gesel and Taisha."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "d15f05a7-b715-4cca-8b2c-dd61dd41ae81"
+    },
+    {
+      "start_time": 973,
+      "end_time": 981,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Although, tryâwe'll figure out how to get the bent leg but switch the bend. Because then what you want to be able to do isâ"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "84829972-f649-45f3-84c6-64045c33e71f"
+    },
+    {
+      "start_time": 981,
+      "end_time": 995,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David lies down in the floor in front of Gesel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "fd07961a-f42d-48a7-aa95-2f3003098f23"
+    },
+    {
+      "start_time": 985,
+      "end_time": 995,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can grab her ankle, and her kneeâ(unintelligible)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "3658e061-db6f-4846-a0b1-04947c486341"
+    },
+    {
+      "start_time": 989,
+      "end_time": 995,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "David pulls the other dancer closer to him and drapes her right leg over his left hip while wrapping his right arm around the other dancer's torso."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "82d64b81-6a5e-4242-968f-8b6a17d1868c"
+    },
+    {
+      "start_time": 995,
+      "end_time": 1004,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera cuts to show David standing with Gesel sitting on the floor looking up at him. Taisha is still lying in their same position. David walks back over to his chair and sits down."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "b8571d5c-3f59-4435-ab05-5cd5ab539b64"
+    },
+    {
+      "start_time": 996,
+      "end_time": 1001,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think visually it wants to be the upstage leg that's bent."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "52c68320-253f-454c-a740-55ee2c678a2e"
+    },
+    {
+      "start_time": 1002,
+      "end_time": 1004,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You want me sliding, Marcus?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Taisha Paggett"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "04fb98d1-01e4-4a16-a5a9-d94173de3dd2"
+    },
+    {
+      "start_time": 1003,
+      "end_time": 1003,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera cuts to a later moment in time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "239cac5a-f278-4d00-b237-b6b5c159035d"
+    },
+    {
+      "start_time": 1003,
+      "end_time": 1023,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're gonna have to add a little drama for the desperation. (laughs) I'm thinking of making it more physically harder than it is. And then that's a good estimate of when you put your head on her chest. And then, boom, boom."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a1ac4712-8e8c-45ee-88b4-617e578d6359"
+    },
+    {
+      "start_time": 1024,
+      "end_time": 1030,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(unintelligible) (laughter)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Taisha Paggett"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "21df2235-cc46-4faa-a3fa-2670369c2477"
+    },
+    {
+      "start_time": 1030,
+      "end_time": 1038,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera cuts. Gesel and Taisha lie flat on their backs. Gesel's wrists and ankles are bound in chains. She raises her knees and lifts her chest, then attempts to pull herself up by stretching her arms down in front of her and raising her head off the floor. She falls back down to the floor. She attempts to pull herself to a seated position on the floor, then falls back and makes a grunting sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "0ca00a55-48df-49db-947b-411a030f1221"
+    },
+    {
+      "start_time": 1038,
+      "end_time": 1043,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel reaches her arms above her head toward Taisha's foot, then pulls her arms back into her chest, moving closer to Taisha by pressing her right heel into the floor. She repeats this action again, pressing her left elbow into the floor and raising herself slightly off the floor as she contracts her arms into her chest and moves closer to Taisha. She falls back to the floor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "7de5cd2a-e0c5-4402-9ba9-05544892847c"
+    },
+    {
+      "start_time": 1043,
+      "end_time": 1046,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel reaches for the dancers foot then drops her hands to the floor, grips the floor, and contracts her arms to her chest to pull herself closer to the dancer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "1ddc15e5-c076-4037-bef8-2b2194f3eacf"
+    },
+    {
+      "start_time": 1046,
+      "end_time": 1053,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel reaches and grabs onto Taisha's foot. She rolls over onto her back and pulls Taisha toward her. Gesel's mouth strains open and she grunts as she flips over on her side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "47ae53db-7fc3-41f1-baec-82afdc6d6f89"
+    },
+    {
+      "start_time": 1052,
+      "end_time": 1053,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Uh-huh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "4938b448-46b2-40dd-929d-6a9320e53f82"
+    },
+    {
+      "start_time": 1053,
+      "end_time": 1064,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel grabs onto Taisha's thigh and pulls herself closer to them. She rests her head on Taisha's right hip. She grips Taisha's torso and pulls herself up to the other Taisha's chest. She rests her head on Taisha's chest with her mouth gaping open. She sighs, as if catching her breath, and closes her eyes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "9e9385c2-d374-4cd0-8fd4-5244d3c1b497"
+    },
+    {
+      "start_time": 1064,
+      "end_time": 1078,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel contracts her body and pushes herself up on her left hip. She gazes down at Taisha's face. She appears to struggle as she pulls Taisha's left arm close to her face, as if the arm is very heavy, and pulls Taisha's body closer to hers. Taisha's body remains limp on the ground. Gesel unfurls her hand and holds Taisha's hand against her right cheek."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "caccf5fb-4b6c-4294-b53a-d993aacda336"
+    },
+    {
+      "start_time": 1078,
+      "end_time": 1094,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel slowly rubs Taisha's hand down her right cheek as she gazes toward the sky with her eyelids lowered. Gesel gradually contracts her torso as if completely exhausted."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "98792990-a56e-422a-8809-bde8247b8bd1"
+    },
+    {
+      "start_time": 1092,
+      "end_time": 1093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's good. Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6c1b2d55-29d3-42dc-8d71-3776cf6d8494"
+    },
+    {
+      "start_time": 1094,
+      "end_time": 1095,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel opens her eyes and looks at David. She lowers Taisha's hand and smiles."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "7488c894-24b9-487c-a976-0163f71a814b"
+    },
+    {
+      "start_time": 1095,
+      "end_time": 1095,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(unintelligible)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "833e73fa-ab23-46e7-8bb8-4f635a30c62d"
+    },
+    {
+      "start_time": 1095,
+      "end_time": 1099,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera cuts. Gesel is standing. She is wearing a long white dress with lace sleeves. Her wrists are bound and resting below her waist."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "5232ce5a-901c-4ecc-b492-7547923bc462"
+    },
+    {
+      "start_time": 1097,
+      "end_time": 1099,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you hold like you're hanging at the very beginning?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ac846287-19ee-44b7-9b5a-6a4d938329c9"
+    },
+    {
+      "start_time": 1099,
+      "end_time": 1102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel begins raising her arms above her head. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "81bcde36-69bc-47d3-996f-d849002d1d83"
+    },
+    {
+      "start_time": 1100,
+      "end_time": 1101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, we see that clearly, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "01bc6afb-20ab-403f-ab07-ba42c2719748"
+    },
+    {
+      "start_time": 1100,
+      "end_time": 1115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel adjusts her sleeves and wiggles her body with her arms overhead. She reaches her hands toward the ceiling and takes a gasping breath. She lowers her body by bending her knees slightly. Her arms remain in the air as if hanging from something above."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "5cddedf6-b7ef-4113-9a57-d6efdc95ea25"
+    },
+    {
+      "start_time": 1114,
+      "end_time": 1115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "56aa5ee5-3ca3-4f4b-81e1-b4db19e0841a"
+    },
+    {
+      "start_time": 1114,
+      "end_time": 1122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel lowers her arms and returns to a standing position. She adjusts the hem of her dress."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "669017e9-b34c-4ad8-b025-0f871e73a518"
+    },
+    {
+      "start_time": 1116,
+      "end_time": 1119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright. Ready?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "68d367cb-b7ac-44bc-9259-b577f7cef868"
+    },
+    {
+      "start_time": 1120,
+      "end_time": 1120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm-hmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gesel Mason"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ea0625ac-1a95-4cbd-9116-d6f615a327f2"
+    },
+    {
+      "start_time": 1121,
+      "end_time": 1148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel holds her bound wrists to her chest."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "89891010-5424-4c2b-a9fe-0d6704fd1525"
+    },
+    {
+      "start_time": 1127,
+      "end_time": 1130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, and sound goes in black."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c5db21c5-ee7e-461a-a6dd-fc473d6e241d"
+    },
+    {
+      "start_time": 1132,
+      "end_time": 1150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Over the louspeaker, a raspy voice from what might be an older gentleman from the south begins to speak as if recalling an old memory. Gesel begins taking tiny restrained steps to the right. Her ankles are bound in chains. The voice says \"Funny how it's the little things we remember about the times we want to forget.\" Gesel looks toward her left at the floor. Her fingers slowly extend into a prayer position. The voice continues, \"Guess my mind remembers the chirp of the crickets at sunset and the smell of sweet summer grass.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "c7662edc-8e68-4984-8288-cd452b0ccadd"
+    },
+    {
+      "start_time": 1148,
+      "end_time": 1154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel begins raising her arms and twisting her body as if attempting to free herself from a restraint."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "ffa8b704-05df-459d-9e85-e558254356c5"
+    },
+    {
+      "start_time": 1150,
+      "end_time": 1150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Grab."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c6bb112a-e357-41b7-8222-df836609809d"
+    },
+    {
+      "start_time": 1153,
+      "end_time": 1157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She raises her arms above her head and extends her fingertips toward the ceiling. The voice continues \"in hopes my heart might forget seeing my wife like that.\" Gesel raises her gaze to the ceiling and leans her head all the way back. She lowers her body by bending her knees."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "2f8b037b-4404-405f-9bed-54d84a42f1c6"
+    },
+    {
+      "start_time": 1154,
+      "end_time": 1156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lights are fading up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "bcecf6c1-8283-41a4-90d8-8ac8dbf58314"
+    },
+    {
+      "start_time": 1157,
+      "end_time": 1166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The raspy voice continues, \"But I could never forget that sight.\" Gesel's body twists slightly, as if she is hanging from something above. The raspy voice continues, \"or that it happend. Just 'cos we was so much in love.\" Gesel makes a coughing sound."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "bacc5ba9-eabb-4511-82c1-d7a5b7338a43"
+    },
+    {
+      "start_time": 1166,
+      "end_time": 1182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel begins slowly turning her body to the left. The raspy voice continues \"You see I never known nothing greater than the palm of Jesse's hand stroking my face as I fell asleep in her arms.\" Gesel begins slowly turning her body to the right. She makes a coughing sound. The voice continues, \"That's what got me through those hot days of pickin'.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "f22c54c7-0a91-435f-a643-938a956fcc5b"
+    },
+    {
+      "start_time": 1183,
+      "end_time": 1215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The raspy voice continues, \"At night when Jesse would blow,\" Gesel coughs and makes a jerking motion with her body. The voice continues \"the blisters on the back of my neck, and wipe my face with her palms,\" Gesel begins slowly rotating her body to the left, \"well, even the life of a slave somehow started to seem worth living.\" Gesel drops her arms and contracts her torso. Her upper body falls forward and rebounds slightly, as if from total exhaustion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "fc32e3b0-5aff-4080-bdb2-ef30f47e7db0"
+    },
+    {
+      "start_time": 1202,
+      "end_time": 1327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If Yesterday Could Only Be Tomorrow by Nat King Cole begins to play. The music is soft and romantic. It's long drawn out notes make the song slow and relaxing to listen to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "9411d242-19a3-472e-86c6-7ed5b9907fe9"
+    },
+    {
+      "start_time": 1215,
+      "end_time": 1234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel slowly tilts her gaze to the lower left corner of the room. She remains hunched over. She jerks, as if startled. She raises her eyebrows in a look of surprise or shock and her palms are spread with fingers elongated. She holds this position and slowly reaches her arms out in front of her, as if reaching for something in the left corner of the room. She appears to be struggling, as if reaching takes all her strength."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "9f8f3c88-35ba-4e47-817f-b518eadc2720"
+    },
+    {
+      "start_time": 1234,
+      "end_time": 1258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel extends her arms fully to the left corner of the room and holds them there. She wavers slightly, as if exhausted. She closes her eyes and begins slowly closing her palms. She pulls her arms back toward her torso as she begins to tilt her gaze up to the right and toward the ceiling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "0e5ddb10-af84-46fc-88b1-2fc0c32e1e94"
+    },
+    {
+      "start_time": 1259,
+      "end_time": 1276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel makes a gasping noise and tosses her head back to the ceiling. Her mouth is open and her hands are splayed out in front of her chest. She wavers and makes a choking sound. She continues making this choking sound as she slowly unbends her knees and rises onto her toes, creating the sense that her body is being pulled by something above her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "c46c9c11-c124-4993-b94e-543aabfdfbb0"
+    },
+    {
+      "start_time": 1277,
+      "end_time": 1290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel makes another choking sound and slowly begins lowering her heels and bending her knees. Her gaze remains toward the ceiling, but her upper body gets weaker. She leans to the left and continues wavering."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "a789c426-cd17-44d2-b67a-cc62b5519466"
+    },
+    {
+      "start_time": 1290,
+      "end_time": 1293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel suddenly gasps and pulls her hands close to her chest. Her hands are splayed out in front of her chest as she gazes at something in front of her. Her gaze appears to follow something as it moves across the floor in front of her to her right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "576f46eb-53a5-4108-b0c5-0cb18e4d2ec8"
+    },
+    {
+      "start_time": 1293,
+      "end_time": 1307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel jerks to her right and splays her hands again, as if startled by something right next to her. She gasps as she jerks her hands in front of her face, as if to shield herself from whatever she sees. She holds her left arm over her eyes as she remains hunched forward and slowly bends closer to the ground."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "f9d54066-0a17-40cb-a9b4-3e6af810ec8e"
+    },
+    {
+      "start_time": 1303,
+      "end_time": 1312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The raspy voiced older gentlemen begins to speak again \"I never understood how they could teach us about Jesus and then refuse to let us love.\"  The tension in Gesel's arms gradually releases and she returns to a hunched over position. She makes gutteral sounds deep withing her throat as if attempting to speak, but is unable to communicate any words. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "f124b7a5-771d-4de6-bf82-a3c85ebe545d"
+    },
+    {
+      "start_time": 1312,
+      "end_time": 1317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The raspy voice continues, \"But on that man's plantation...\"  Gesel suddenly jerks and raises her body all the way up, as if startled by something unseen beneath her. She splays her fingers out in response. The raspy voice continues, \"slaves was forbidden to marry.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "ab1f7670-d5fa-4284-bc73-e7887bbae4fd"
+    },
+    {
+      "start_time": 1317,
+      "end_time": 1325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel continues making gutteral noises. She suddenly jerks her body to a standing position and tosses her head back toward the ceiling. Her mouth is open and her hands are splayed out in front of her chest. She holds this position and continues making gutteral sounds as the raspy voice continues, \"But I loved Jesse with all my heart. And I wanted to hold her forever.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "23f741e2-7dc8-4d43-972e-70091d8e54e5"
+    },
+    {
+      "start_time": 1325,
+      "end_time": 1338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel continues making gutteral noises as her torso begins contracting again. The raspy voice continues, \"so while his family was away at church, all the slaves snuck out behind the last field of corn.\" Gesel slowly extends her body to the left. Her mouth is still open and she continues making gutteral sounds. Her gaze appears to fixate on something in the left corner of the room."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "1e4442a9-36c8-43cd-bfc7-36f9d3450113"
+    },
+    {
+      "start_time": 1337,
+      "end_time": 1362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The raspy voice continues, \"Oh, we put a broom on the ground. And while everybody was singing and clapping and dancing.\" Gesel maintains her gaze on the left corner of the room, but her body begins to relax. She slowly turns her gaze to something unseen in front of her as the raspy voice continues, \"me and Jesse, we held each other tight and jumped over that broom. Then Jesse, she looked into my eyes and she said, 'I love you.'\" Gesel maintains her gaze on something unseen in front of her. The raspy voice continues, \"and now forever I am your wife.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "32346df7-2918-4dbd-b2a4-f0a0f3b2c0b3"
+    },
+    {
+      "start_time": 1362,
+      "end_time": 1374,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's right hand begins trembling. The raspy voice continues, \"and you know what? That was the only time in my life.\" Gesel's mouth opens wider and her hands tremble harder. She makes sounds with her mouth that seem like she is trying to speak but no words are communicated, as the raspy voice continues, \"I knowed how it felt to be a full human being.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "0d902198-11d8-44a6-a372-04e7ac63cbd7"
+    },
+    {
+      "start_time": 1371,
+      "end_time": 1387,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel continues making gutteral sounds and her hands continue trembling. She opens and closes her mouth as if trying to speak. She slowly closes her eyes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "e3d650c2-649b-4e3e-aa2b-bfb76cab3f07"
+    },
+    {
+      "start_time": 1378,
+      "end_time": 1393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's hands begin to shake in small rapid movements. The shake begins in her arms and head, then in her whole body. She begins to gag and grunt. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "0452f53b-48cb-4e56-8980-8596d2ecbbc9"
+    },
+    {
+      "start_time": 1393,
+      "end_time": 1354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel begins hitting her hands repeatedlly against her thighs as her body violently shakes in respone to the rapid motion. She continues making gutteral sounds that get louder, as if in frustration. She begins jumping up and down as she repeatedly slaps her hands against her thighs. Her gutteral sounds turn into gasping shouts. Her frustration increases."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "af4ccc96-54cd-4dbd-b3d1-00dcd88528c0"
+    },
+    {
+      "start_time": 1354,
+      "end_time": 1432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She suddenly rises to a standing position and turns her gaze to the sky. Her mouth is wide open and she pants rapidly. Her palms are splayed out beneath her chin. Her upper body rocks as the raspy voice continues, \"Didn't take long for him to find out we had married. I come back from the fields on the prettiest summer evening, just dreamin' 'bout the time I would soon spend with Jesse.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "ae404326-e1a0-44ff-9f77-9496a10bb44d"
+    },
+    {
+      "start_time": 1432,
+      "end_time": 1448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's panting gets louder, then slows. The raspy voice continues, \"and there she was. Strung up by her hands with blood flowing down her back, like tears falling down the wrong side of her body.\" Gesel's panting slows to silence. She makes a coughing sound, then continues softly panting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "d4e634fc-ecd6-4b15-aa30-438e43561956"
+    },
+    {
+      "start_time": 1448,
+      "end_time": 1461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The raspy voice continues, \"They waited for me to see her.\" Gesel makes a gasping sound. \"Then they cut Jesse down.\" Gesel makes another gasping sound. The raspy voice continues, \"loaded her into the back\"--Gesel makes a gasping noise--\"of his rattiest wagon and took her off to be sold.\" Gesel continues panting. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "d687046d-5034-45d5-ae0c-6480024d957b"
+    },
+    {
+      "start_time": 1461,
+      "end_time": 1468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel reaches her bound wrists out in front of her. The raspy voice continues, \"I remember Jesse's lips was tremblin'.\" The extension of Gesel's arms pulls her upper body forward as she contracts her torso."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "406b3a68-0a41-4848-9740-596f15e97b9d"
+    },
+    {
+      "start_time": 1464,
+      "end_time": 1485,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The voice continues, \"as she looked into my eyes and raised up her arms.\" Gesel slowly turns her palms upward and extends her fingertips. \"Through chains, she turned over her hands and showed me the palms that would never again stroke my cheeks.\" The tension in Gesel's arms increases and her expression turns to a look of desperation. Her palms are splayed all the way out and pointed toward the audience. \"As if to say that for the rest of time, they would surely wish that they could.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "7fe9932c-17ba-49c8-b1e4-adf7c5fdb3fc"
+    },
+    {
+      "start_time": 1472,
+      "end_time": 1500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's expression softens and seems to focus on something in front of her. Her upper body trembles again, as if exhausted. Her gaze slowly turns toward the left corner of the room. Her extended arms slowly follow her gaze."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "65190965-2c70-467b-8090-839622d9d3cb"
+    },
+    {
+      "start_time": 1488,
+      "end_time": 1500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The raspy voice continues, \"I watched my whole life pull off and disappear in the back of that wagon.\" Gesel extends her arms toward the left corner of the room. She bends her knees bringing her body closer to the ground as the tension in her arms increases. The voice continues, \"and all I could think was, 'but I just wanted to love her.'\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "ca8d3bf0-b2d3-4dbd-a529-3f06036113b3"
+    },
+    {
+      "start_time": 1502,
+      "end_time": 1517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The raspy voice continues, \"I fell to my knees.\" Gesel slowly bends her knees further and drops her hips to the ground. She sits down while keeping her hands outstrenched to the left. Focus of her eyes looking out and past her hands. She slowly relaxes her body into the ground. The voice says, \"... and though I have lived for forty more years, I cannot remember if I ever got up again.\" Gesel continues panting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "c9ac8e90-b320-4b34-bc2f-74da4c357865"
+    },
+    {
+      "start_time": 1517,
+      "end_time": 1519,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's voice is heard over the loudspeaker. \"Funny how it's the little things we remember\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "7b32e4f2-1e71-455f-b479-347cc674a93b"
+    },
+    {
+      "start_time": 1519,
+      "end_time": 1522,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lights fading up on Taisha slowly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c5c3d0f2-e78b-480f-80bc-5cb11edf14d6"
+    },
+    {
+      "start_time": 1520,
+      "end_time": 1530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"about the moments we'd rather forget.\" Gesel's arms remain extended out in front of her toward the left corner of the room. Gesel's voice continues over the loudspeaker, \"I remember a magnificent sun. And white steps that glistened,\" Gesel slowly lowers her hands and pulls them into herself. Her voice continues, \"like magical porcelain.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "2e2533a4-14a9-42ed-8fba-9ad84b84fd69"
+    },
+    {
+      "start_time": 1532,
+      "end_time": 1544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel suddenly gasps and thrusts her head toward the ceiling. Her mouth is agape and her palms are facing each other, splayed close to her chest. Her voice continues, \"maybe I rememeber these things in order to forget the feeling of my heart being crushed.\" Gesel attempts to free her wrists from the ropes that bind them by pulling her elbows out and back toward her spine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "64512ddc-1a93-4be5-a6f5-c090362e1b7c"
+    },
+    {
+      "start_time": 1538,
+      "end_time": 1544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel's voice continues over the loudspeaker as she continues struggling to free her wrists from the ropes. \"I loved Katherine with all my heart. And I had never known a thrill like running up the steps\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "a4832f3f-7afa-4726-a15a-73cb82ae5359"
+    },
+    {
+      "start_time": 1544,
+      "end_time": 1547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel suddenly jerks and hides her face in the crease of her left elbow as if shielding her face from being struck by something. Her voice continues, \"in front of that courthouse with my arm around her.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "0fd0eaf8-351a-4523-8ed8-2032101761c8"
+    },
+    {
+      "start_time": 1546,
+      "end_time": 1554,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel closes her hands into tight fists which tremble. She remains shielding her face in her elbow. Her voice continues, \"She was so excited that when I placed by hand on her chest,\" Gesel begins shaking her forearms rapidly, as if attempting to free her wrists from the ropes. Her voice continues, \"next to that red flower she insisted on wearing\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "3297773c-bb9f-4311-b3ee-3e15b0c79716"
+    },
+    {
+      "start_time": 1554,
+      "end_time": 1562,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel makes a grunting sound, and her trembling slows. Her voice continues, \"I could feel her heart pounding through the faded lace of her grandmother's wedding dress.\" Gesel slowly turns her gaze toward the left corner of the room."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audio"
+        }
+      ],
+      "uuid": "a54276cd-108e-435e-8418-59a960d46742"
+    },
+    {
+      "start_time": 1561,
+      "end_time": 1569,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gesel remains seated. She extends her arms toward the left corner of the room. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "1ec5553c-46f2-463f-ad08-46b906ad50a5"
+    }
+  ],
   "event_id": "ec5eeb33-5f8c-4aa3-b2de-c312c312d15d",
   "set": "Annotation set 1",
   "source_id": "c2e20d2f-ba32-4ff3-9ed8-01851b9851ec"
