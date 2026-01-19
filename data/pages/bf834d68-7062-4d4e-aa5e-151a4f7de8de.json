@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Interviews",
+  "parent": "8bf7d6c2-2ecc-41b2-a5e6-098d803a73fe",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "interviews",
+  "created_at": "2026-01-19T21:27:23.146Z",
+  "created_by": "DataMuseology",
+  "updated_at": "2026-01-19T21:27:23.146Z",
+  "updated_by": "DataMuseology"
+}
