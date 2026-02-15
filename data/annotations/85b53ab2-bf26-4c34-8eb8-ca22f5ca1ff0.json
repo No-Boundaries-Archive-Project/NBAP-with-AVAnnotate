@@ -1,5 +1,1518 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Program text appears on the recording of performance, Jumping the Broom (2005). Choreography by David Rousseve. Text by David Rousseve. Music by Nat King Cole Trio \"If Yesterday Could Only Be Tomorrow. Recorded voices include David Rousseve and Gesel Mason. Lighting Desing by Cheles Rhynes. Performed by Gesel Mason"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "819d8288-1bb2-45e8-b6db-73869d20d886"
+    },
+    {
+      "start_time": 7,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stage is in a blackout as a raspy voice from what might be an older gentleman from the south begins to speak as if recalling an old memory \"Funny how it's the little things we remember about the times we want to forget. Guess my mind remembers the chirp of the crickets at sunset and the smell of sweet summer grass in hopes my heart might forget seeing my wife like that.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "ef105513-e703-4ad0-b140-aa302831ef1e"
+    },
+    {
+      "start_time": 28,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A warm spotlight begins to fade in on the left side of the stage to reveal the performer. The raspy voice continues saying \"But I can't never forget that sight\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "1861a47c-0654-43bf-98e2-c61502c998d8"
+    },
+    {
+      "start_time": 28,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer stands straight up with her arms pulled above her head. Her head is fallen back so she gazes up towards the ceiling.Her body slowly turns to left as if her arms are hanging from someting above. The voice continues saying \"or that it happened\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "b61ed55c-b6cc-40da-8efd-33f8fdf29fa7"
+    },
+    {
+      "start_time": 32,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer is wearing a tatered lace wedding gown. Her arms are exposed all the way up to the shoulder. On the right side of the dress is a red flower that sits on the performers chest. A rope ties her wrists together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "97b715bb-72d2-4c5f-8ad0-d04b951bd943"
+    },
+    {
+      "start_time": 37,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer makes a choking noise and her body jerks in response. Her body contiues back to turning. The voice says \"just 'cause we was so much in love\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "d016bf6a-e949-48e1-ba5f-e83ba4a9b422"
+    },
+    {
+      "start_time": 38,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer begins to slowly turn the opposite way. The voice says \" You see I never know nothing greater than the palm of Jesse's hand stroking my face as I fell asleep in her arms.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "f9468b70-6ae0-4c07-8fbb-36fcca20702d"
+    },
+    {
+      "start_time": 49,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer chokes again, her body contracting again in response. The voice says \"That's what got me through those hot days of picking\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "dc2d3939-6d53-43ca-ad6b-59f2ba7b110f"
+    },
+    {
+      "start_time": 59,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer turns her body back to the left. The voice says \"At night when Jesse blows all the blisters on the back of my neck and wipe my face with her palms, well even the life of a slave somehow started to seem worth living.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "9ef94d73-0b94-4039-af65-f6275086aa24"
+    },
+    {
+      "start_time": 60,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer's voice is strained as she makes a sounds that resembles a grunt and a gasp, attempting to breath."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Descrption"
+        }
+      ],
+      "uuid": "ac5c10d1-c7e7-4c4b-906c-a19c9c5162a5"
+    },
+    {
+      "start_time": 70,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performers arms are released from above her head. The weight of her arms pulls her upper body down. She leans over with exhaustion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "006055a6-e033-4a60-a1fb-154c8b547d43"
+    },
+    {
+      "start_time": 70,
+      "end_time": 204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If Yesterday Could Only Be Tomorrow by Nat King Cole begins to play. The music is soft and romantic. It's long drawn out notes make the song slow and relaxing to listen to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "ebf5de05-87ad-40ec-afe1-fdd48f326160"
+    },
+    {
+      "start_time": 74,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The warm spotlight begins to become brighter around the performer"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "56502dd6-a8da-4aba-a2fe-ed7114f660ff"
+    },
+    {
+      "start_time": 82,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer slowly struggles to lift her head to look towards the audience. Her body slowly shaking with fatigue"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "5c538efe-e41b-48eb-8180-f64aee880794"
+    },
+    {
+      "start_time": 91,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer begins to slowly turn her head to left, eyebrows furrowing, and her face beginning to scrunch together with frustration and fear."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "9b0e68bd-ac6d-4b80-9b20-7c6ac324f3a5"
+    },
+    {
+      "start_time": 101,
+      "end_time": 105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer laboriously lifts her arms to the right. Her gaze focused on something beyond her hands"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "8a9371f7-566e-44ac-a9be-6cde95cec4db"
+    },
+    {
+      "start_time": 106,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer begins to reach for something slowly starting with the fingers which then causes her arms and upper body to reach as well. Her look changes to a look of desperation"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "7207c5f9-77fb-4141-9709-aaa50758cdda"
+    },
+    {
+      "start_time": 116,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The fingers begin to curl into relaxed fists and she folds her body back down. She looks defeated by her body which seems to be barely able to keep her standing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "94c4a862-f13e-491a-a111-32c75f1166ab"
+    },
+    {
+      "start_time": 131,
+      "end_time": 131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performers hands are suddenly pulled behind her on the left. She gasps."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "6fc2ee01-e5cf-47f5-99c9-df4ee51e0c64"
+    },
+    {
+      "start_time": 132,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer slowly begins to release tension from her arms until they lay down in front of her. Her head and upper body slowly arch back and to the right until she begins to look to the right. She starts to reach to the right again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "dc467537-e910-43ab-aa59-ccec3ee7f5bb"
+    },
+    {
+      "start_time": 155,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer's arms are suddenly pulled behind her again to the left. She gasps."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "1a128d78-7682-40bc-8517-b4e08ee5314d"
+    },
+    {
+      "start_time": 160,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer is pulled back further, straining her left arm straight across her body. She gasps"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "43bed90d-9a18-456d-ae46-b01f8b0a2193"
+    },
+    {
+      "start_time": 163,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer's arms are pulled above her head. She gasps. Her body is bent over to the left, still slowly shaking with fatigue"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "a47854e2-35b2-4c0e-bcaf-174a6402f0cc"
+    },
+    {
+      "start_time": 164,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer makes guteral sounds deep within her throat, attempting to speak but is unable to communitcate any words"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "6d4abae4-5677-419b-a0be-0bca213d9c18"
+    },
+    {
+      "start_time": 175,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer's arms are dropped. The raspy voiced older gentlemen begins to speak again \"I never understood how they could teach us about Jesus and then refuse to let us love.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "0d93d220-c68d-4de4-80de-553e045cbc01"
+    },
+    {
+      "start_time": 177,
+      "end_time": 189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The perfomer gradually folds her body forward again. The voice sayis \"But on that man's plantation, slaves was forbidden to marry\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "f3eb4fe8-99db-4916-b8a8-8bf3dd5ead41"
+    },
+    {
+      "start_time": 190,
+      "end_time": 191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer's hands are quickly pulled towards her stomach. The voice says \"But I loved...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "b63b3d9e-6471-487a-9b0b-54ac443aa351"
+    },
+    {
+      "start_time": 192,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer arms tense quickly to her chest, the muscles of her shoulders are tensed up towards her ears. The voice says \"... Jesse with all my heart...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "b2916e2a-0518-41f0-94d1-104fb2380b0c"
+    },
+    {
+      "start_time": 193,
+      "end_time": 193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer chest pushes towards the ceiling, releasing her head back, keeping her hands near her chest. The voice says, \"... and I wanted to hold her forever.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "5a3906fa-3abb-479d-b848-057a9a9c54b0"
+    },
+    {
+      "start_time": 195,
+      "end_time": 204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The tension from the performer's arms and shoulders slowly releases. The voice says \"So while his family was away at church...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "53da72f9-8e70-4f55-80c3-a6f624347824"
+    },
+    {
+      "start_time": 204,
+      "end_time": 206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performers begins to lean her body towards stage right, head arching up and over towards the right. The voice says \"...all the slaves snuck out behind the last...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "bdc30da6-12cc-4a4d-8b02-9bfd904eb7c5"
+    },
+    {
+      "start_time": 207,
+      "end_time": 219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer's hands drop down and she begins to slowly fold forward again. The voice says \"...field of corn. Oh, we put a broom on the ground. And while everybody was singing and clapping and dancing.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "8ae224a9-2f21-4996-bb1d-55d17a7ec741"
+    },
+    {
+      "start_time": 219,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer begins to gather the bottom of her dress together. The voice says, \"and jumped over that broom.\" It is revealed that chains shackle her ankles together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "616d99c6-78a6-4ee5-84da-daf63e966bbc"
+    },
+    {
+      "start_time": 224,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer begins to roll her spine up until her head is released back, holding onto the above her knees. The voice says, \"then Jesse, she looked into my eyes and said 'I love you and now forever I am your wife'\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "64175191-ad5e-4537-bf17-9c9c18fbcb30"
+    },
+    {
+      "start_time": 237,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer drops the fabric and begins to slowly hunch forward. She looks towards the audience, eyebrows furrowed with frustation. The voiced continues with a small laugh saying \"and you know what, that was the only time in my life, I knowed how it felt to be a full human being.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "3b75e010-2f81-4be4-8fe4-4fd4a4e98799"
+    },
+    {
+      "start_time": 249,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer's hands begin to shake in small rapid movements. The shake then begins in her arms and head, then in her whole body. The performer begins to gag and grunt."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "1d565b1d-8e72-4497-8f83-90385c83abfb"
+    },
+    {
+      "start_time": 273,
+      "end_time": 303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer looks down at the ropes that tie her hands and tries to break them against her legs, hitting her thighs over and over again. She stomps her feet and flips her body up and down. She is yelling in frustration"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "2289695b-d60b-4690-8b23-447dd525a11d"
+    },
+    {
+      "start_time": 304,
+      "end_time": 323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer stands still, hands held tight near her neck as her fingers strentch up, her eyes looking up. She gasps for air in short breaths and shaking with fatigue. The voice says, \"Didn't take long for him to find out we had married. I come back from the fields on the prettiest summer evening, just dreaming 'bout the time I had soon spend with Jesse. And there she was...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "8e33d4f6-bc74-4269-b98e-22502464e327"
+    },
+    {
+      "start_time": 324,
+      "end_time": 340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer's breath begins to slow, her finger begin to curl into fists as the voice says \"...strung up by her hands with blood rolling down her back, like tears falling down the wrong side of her body. They waited for me to see her. Then they cut Jesse down...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "d22a00cc-3914-48c3-9b7e-f3530186a6d7"
+    },
+    {
+      "start_time": 340,
+      "end_time": 352,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer breathing continues to deepen as she hunches over, hands clutched towards her body, looking out towards the audience in desperation as the voice says \"...loaded her into the back of his raggidist wagon and took her off to be sold. I remember Jesse's lips was trembling as she looked into my eyes...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "6591dcfb-9290-486c-8cc4-4c3168fe7126"
+    },
+    {
+      "start_time": 353,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer straightens her arms, and raises her hands across from her face. The voice says, \"and rasied up her arms. Through chains she turned over her hands...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "d17cdebb-eaad-4b22-b2ad-762d2580ff51"
+    },
+    {
+      "start_time": 360,
+      "end_time": 380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer strenches her fingers towards the audience, bending her knees down, struggling to keep her arms up. Her face pleding with the audience in desperation. The voice says, \"... and showed me he palms that would never again stroke my cheeks as if to say that for the rest of time they would surely wish that they could. I watched my whole life pull off and disappear in the back of that wagon...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "f48aea39-18db-4977-b717-4a8a2982cc7f"
+    },
+    {
+      "start_time": 380,
+      "end_time": 393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer slowly reaches her body to the right. Bending her legs slowly to lower her body closer to the ground. The voice says,\"... and all I could think was 'but I just wanted to love her.' I fell to my knees...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "e2ff5953-7b79-4660-a24f-b6fd591877ca"
+    },
+    {
+      "start_time": 393,
+      "end_time": 404,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer drops her hips to the ground then sits down while keeping her hands outstrenched to the right. Focus of her eyes looking out and past her hands. She slowly relaxes her body into the ground. The voice says, \"... and though I have lived for forty more years, I cannot remember if I ever got up again.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "c4c41adf-16dd-4ec3-b844-6f7067f5c775"
+    },
+    {
+      "start_time": 405,
+      "end_time": 416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer slowly reaches her hands to the downstage right corner. Slowly moving past her legs to reach as far as she can without leaving the ground. A new voice of a women with a deeper tone begins to speak, \"Funny how it's the little things we remember about the moments we'd rather forget.\" Another light slowly reveals another women laying limp at the right side of the stage. The voice continues, \"I remember a magnificent sun and white steps that glistened like magical porcelain.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "6f95d65e-2cf0-427c-b46d-7505be5757c9"
+    },
+    {
+      "start_time": 417,
+      "end_time": 422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer sudders back slightly, as if something pulls her back. She goes back to reaching towards the other women. The voice says \"Maybe I remember these things in order to forget the feeling of my heart being crushed.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "07c74b85-9598-4739-8d29-ebf31f341cd8"
+    },
+    {
+      "start_time": 423,
+      "end_time": 423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer has her hand quickly pulled behind her. She bends her body back to the left. She faced turned up"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "959ee414-b920-44bc-b2ff-2b2c69d360f8"
+    },
+    {
+      "start_time": 424,
+      "end_time": 424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The women on the ground wears a brown suit with a black tight shirt. Her feet towards the performer. She is barefoot"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "c626e40c-2891-466b-8d7f-f196d08a9b9b"
+    },
+    {
+      "start_time": 426,
+      "end_time": 441,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer struggles to keep her body sitting up. She shakes slightly with exhaustion. The voice says, \"I loved Katherine with all my heart, and I had never known like running up the steps in front of that court house with my arm around her. She was so excited that when I placed my hand on her chest, next ot that redflower she insisted on wearing...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "7b9e5739-4778-4da6-abd8-e67924fdfdc6"
+    },
+    {
+      "start_time": 441,
+      "end_time": 444,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performers hands are suddenly pulled above her head, arms bent so her wrist hover only inches above her head. She continues to struggle in a small rocking motion. The voice says\"... I could feel her heart pounding through the faded...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "228e4fbe-d28e-4c7d-bcc0-daedaf7567e2"
+    },
+    {
+      "start_time": 445,
+      "end_time": 451,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer curls her fingers into her palms and begins to quickly shake her arms with tension. She then relaxes her hand down again. The voice says, \"...lace of her grandmother's wedding dress. We were half way up the stpes when the long line of couples waiting in the sun...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "f2bb3a5a-6908-4d65-ae9f-9e76578af131"
+    },
+    {
+      "start_time": 452,
+      "end_time": 454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer shifts her weight to the right and look towards the women again. The voice says, \"...began to turn and walk away.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "9490a221-5620-4da5-888e-2cb4ad90f551"
+    },
+    {
+      "start_time": 455,
+      "end_time": 458,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer attempts to raise her arms towards the women. Even though she moves her arms in a way that makes the look heavy. The voice says \"I do not know...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "92aee4c5-5643-41c7-ae20-de299a2d28b4"
+    },
+    {
+      "start_time": 459,
+      "end_time": 461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer swings her arms in a small circles, causing her to fall off balance towards the ground. The voice says, \"...how to describe a look of utter devastation.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "23561d9e-2bb2-42f9-addf-a1a0092b7c81"
+    },
+    {
+      "start_time": 461,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer begins to drag her body along the floor towards the women, pulling her body up and over her arms to inch along. The voice says, \"The stoop of the shoulder, the tremble...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "8a24642b-82f9-4e03-99c3-2e142d6754f8"
+    },
+    {
+      "start_time": 464,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer flips over her right shoulder onto her back. The voice says, \"... of the fingers,...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "4e83c1b6-2929-4a33-9ca3-bb6d48695979"
+    },
+    {
+      "start_time": 466,
+      "end_time": 477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer continues to ove along the ground inching towards the women. The vocie says, \"...the reflection in the eyes of a heart that does not if the next beat is worth taking. But that's what I saw in those couples.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "736fabce-e034-4351-827f-42120a37411b"
+    },
+    {
+      "start_time": 477,
+      "end_time": 481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer stiffens her torso and curls her head towards her hands. Frustrated by the ropes that contain her. She falls back to the ground. The voice says, \"And right then and there we knew, the weddings had been stopped...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "a9cfaa1f-2f89-44a4-b7b2-a0a8ce627276"
+    },
+    {
+      "start_time": 482,
+      "end_time": 487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer stiffens her torso again, fighting to break against the ropes. Then giving up and fall back down. The voice says, \"...and that ours had once again forbidden.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "bab3739d-36f3-4cf7-9790-3ba5635a738f"
+    },
+    {
+      "start_time": 488,
+      "end_time": 516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer begins to crawl again. Fliping her body to right then left and pushing her arms against the floor to move her body. Her legs begin to work and she pushes the heels of her feet against the floor. Her voice gasping choking with desperation. The voice says, \"I don't know how long we stood there, unable to move, before Katherine managed to put her head on my shoulder. Then I remember the feel of her tears as they rolled down my breasts, leaving tracks over my heart before they splattered on to those magical steps that no longer wished our feet to be there. Eventually we made it home. We got drunk on a bottle of wine while we listened to Nat King Cole.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "c876ea6f-76eb-4212-befc-0c2ebeef2f42"
+    },
+    {
+      "start_time": 518,
+      "end_time": 529,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer final reaches the women and grabs hold on her foot. Breathing heavily her hands move towards her ankle and her face begins to relax. The voice says, \"As I fell asleep in Katherine's arms with her palm stroking my face, I wasn't thinking about the politics of it, or the biology of it, or the right and wrong of it. I was too...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "62312253-e3be-4fe3-bacd-5c18c48193ea"
+    },
+    {
+      "start_time": 529,
+      "end_time": 611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"If Yesterday Could Only Be Tomorrow\" by Nat King Cole Trio begins to play again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "04135c05-a08c-4d1e-b8f3-8a610dee843b"
+    },
+    {
+      "start_time": 531,
+      "end_time": 542,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer pulls the women closer to her and turns on her stomach. Reaching her hands up along her body, pulling herself along the woman's body. The voice says, \"...crushed for any of that to matter. That night, all I could think was that I justed wanted to love her.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "071db840-c36e-4440-9c75-e390e835b23f"
+    },
+    {
+      "start_time": 543,
+      "end_time": 547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer looks at the woman's face, confused and disappointed, her hands rested against the women. The voice says, \"I fell alsee and dreamed about slaves jumping the broom to marry. But I suppose I was really dreaming about...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "8207c9e6-82e7-4dec-bc46-64f2db7925bf"
+    },
+    {
+      "start_time": 548,
+      "end_time": 553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer places her head gently onto the woman's chest, trying to listen for a heartbeat. The voice says, \"just how far this hatred could go.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "7f2e3544-d885-4edd-b267-f6680cac691e"
+    },
+    {
+      "start_time": 554,
+      "end_time": 565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer lifts her upper body, changing her expression to scared and frantic, gasping for air. She attempts to speak \"I love her\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "bcc873a6-ab15-4f6b-80e0-6f9afa91fb7b"
+    },
+    {
+      "start_time": 565,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer drags the woman's body closer to her by the woman's arm. Her words riddled with fatigue and desperatation \"I just.\" She continues to pull the women saying \"to love her\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "f6494899-570a-4ef9-ab97-97e93706923b"
+    },
+    {
+      "start_time": 571,
+      "end_time": 572,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer pulls the women on to her lap. The woman's head hanging heavy over the performer's legs"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "a53408e2-9e70-4cea-b927-63d0a247f663"
+    },
+    {
+      "start_time": 572,
+      "end_time": 588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performer brings the woman's hand to her cheek and begins to force her head up and down the woman's hand. Mimicking a stroking motion against her cheek. She says \"I just wanted to love her, I just wanted to love her, I just wanted to love her.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "6a64f309-bfe0-49d2-8904-27be18b148c3"
+    },
+    {
+      "start_time": 588,
+      "end_time": 588,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The spotlight around the performer and the woman fades to black"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "f26f28a8-1c1d-4cd5-a994-0953344525df"
+    },
+    {
+      "start_time": 588,
+      "end_time": 611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Applause"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Description"
+        }
+      ],
+      "uuid": "058b9179-8c17-419f-9c9f-9c661ef16283"
+    },
+    {
+      "start_time": 606,
+      "end_time": 611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Program text appears on the recording of performance, \"Jumping the Broom (2005). Choreography by David Rousseve. Text by David Rousseve. Music by Nat King Cole Trio \"If Yesterday Could Only Be Tomorrow.\" Recorded voices include David Rousseve and Gesel Mason. Lighting Desing by Cheles Rhynes. Performed by Gesel Mason\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b648afa5-7581-42de-997b-378b852a1867"
+    }
+  ],
   "event_id": "056becd4-518a-4271-9857-7a5a24ed0706",
   "set": "{2024} Annotation",
   "source_id": "b0d3ae17-4889-42c8-9b1e-08775468ab82"
