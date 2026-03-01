@@ -33,9 +33,33 @@
           "text": "  "
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Citation:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "No Boundaries Archive. Archival Item : Interview with Thomas DeFrantz 2015 [00015]. https://noboundariesarchive.com/Detail/objects/15 "
+        }
+      ]
     }
   ],
-  "citation": "Beahm, D. (2015, September 18). No Boundaries Archive. No Boundaries Archive : Archival Item : Interview with Thomas DeFrantz 2015 [00015] . https://noboundariesarchive.com/Detail/objects/15 ",
+  "citation": "",
   "label": "2015 Thomas DeFrantz Interview",
   "av_file_order": [
     "38077c27-95c4-4dde-8630-8d22cbc874cc"
@@ -43,6 +67,6 @@
   "rights_statement": "https://rightsstatements.org/vocab/InC-NC/1.0/",
   "created_at": "2026-01-19T21:50:18.618Z",
   "created_by": "DataMuseology",
-  "updated_at": "2026-03-01T01:07:27.191Z",
+  "updated_at": "2026-03-01T05:44:07.017Z",
   "updated_by": "townsendolivia2"
 }
