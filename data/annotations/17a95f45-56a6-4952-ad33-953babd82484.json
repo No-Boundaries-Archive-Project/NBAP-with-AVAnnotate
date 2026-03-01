@@ -1,5 +1,1623 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "... but yeah. Improvisation is such a deep part of my current practice, so it'll be what it is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "a9438d47-35a4-46bd-b2ab-2ff614386973"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She's going to be in here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Daniel Beahm",
+          "category": "People"
+        }
+      ],
+      "uuid": "448f98e9-ed6e-477d-9afb-bb2ca2aca9cb"
+    },
+    {
+      "start_time": 12,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. She didn't have too much, though, did she? But you said how you often word the flow chart is that kind of talk it through ... ?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "0a291fda-b89b-41b5-a637-b1beee0f9367"
+    },
+    {
+      "start_time": 30,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, a lot of conversations, a lot of visual dramaturgy, a lot of ... yeah, a lot of research, a lot of reading. All of that feels like it's really important to do as we figure out, yeah, just like what is this thing? And then, yeah, then moving into the conceptual space and just making sure that we have a deep understanding of what's happening. I just try to do as much research as possible before entering into the rehearsal space."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "82e28a82-3882-474c-9127-cd5f92ba40f7"
+    },
+    {
+      "start_time": 81,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So this is just the beginning? You have this performance, but this is the beginning of a rehearsal?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "d7b74d4f-9162-4704-9dde-9b1793db4e85"
+    },
+    {
+      "start_time": 86,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Negrophobia piece?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "5828433d-9412-41f2-832a-851856e2a60d"
+    },
+    {
+      "start_time": 93,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "b63e47f1-a21f-4cb7-a355-a99cd42e41ae"
+    },
+    {
+      "start_time": 93,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, it's something that I want to continue. I feel like everything that I do is on a continuum and performances just happen at certain points, depending on where I'm landing in my investigation. So it just seems like, okay, this is an interesting time to bring in other bodies to take witness to what's happening right now. But, yeah, it certainly is ... I mean, we're fresh at the beginning of this thing, but I've known Jerod/I'm a mess for, maybe two years now. So, just to see his career and what's he's doing with performance and yeah, I mean, he just brings like such an interesting flavor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "f0ac0e40-9ddd-4f49-8c1f-91acc734f330"
+    },
+    {
+      "start_time": 151,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So we're rolling, just so you know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Daniel Beahm",
+          "category": "People"
+        }
+      ],
+      "uuid": "796c5407-262c-4ed0-a526-5746e3f64c22"
+    },
+    {
+      "start_time": 154,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. I mean, literally, he was just in [Abisa 00:02:39] doing like go-going in [Abisa 00:02:41] for the past week."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "27acf968-2b3d-46a1-b7c6-534c57dd0450"
+    },
+    {
+      "start_time": 154,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "dd8ca9e7-e43e-4fee-a188-697d5596e741"
+    },
+    {
+      "start_time": 163,
+      "end_time": 214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So this is his life and then he goes to school and does a major shoot for W magazine and then it's like, \"Oh, yeah. I can do your show.\" I'm like, \"Thank you.\" So, yeah. It's been really good. He's only like a year or two younger than me, so some interesting stuff. And just this whole beautiful visual world that he brings to the work is just, I'm like, \"Wow.\" What he can do with a paintbrush and a face, I'm like, \"What? What?\" So yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "399bd2ac-2639-40bc-b783-c71c7f7e7018"
+    },
+    {
+      "start_time": 214,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's interesting. It's interesting, the #negrophobia is interesting because as part of my school, something came up, I've been calling it hophobia, and what I realized is that you can have IHOP, which is internalized ho phobia, fear of being perceived as a ho, for being a ho, for being perceived as a ho. So that has come out of my work, this idea of ho phobia. So it was interesting to hear you say negrophobia, because that's been something that's been percolating in my work, this idea of ho phobia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "f4752c6a-c6e0-476b-b1e0-899ad1b9e5a8"
+    },
+    {
+      "start_time": 263,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How did you come to that language?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "865e2ef7-ad2d-436a-9cbd-10e856f2b574"
+    },
+    {
+      "start_time": 267,
+      "end_time": 316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the piece that I did before this one, which is called antithesis, was also exploring a lot with women and sexuality and what's appropriate and what isn't. And it was called Women, Sex, and Desire, Sometimes you feel like a ho and sometimes you don't. And I'm the kind of person, I was like, \"Well, if I'm going to say some thing like sometimes you feel like a ho and sometimes you don't, then I need to talk to some hos. And so I was doing some work in D.C. with sex workers and whatnot and I'm also of the mind like there are not as many degrees of separation as people like to put between us and [crosstalk 00:05:16] ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "ad252228-9191-473f-8903-3d525b00bce1"
+    },
+    {
+      "start_time": 316,
+      "end_time": 317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Totally, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "666ee680-c258-40fd-966c-665854f94624"
+    },
+    {
+      "start_time": 317,
+      "end_time": 352,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And in all my work, I'm actually very interested in this, what we keep secret, what's considered taboo, which is also part of that secret, and how we create otherness. It's sort of like underneath all of these questions. And how do we live, love, and persevere, just in general. So when I did this work, again, it's like when you interact with other people, I just lean so much from them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "992c4e33-9a89-49ad-89fd-bb588503f44a"
+    },
+    {
+      "start_time": 352,
+      "end_time": 380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And also, it's just so interesting to see the questions that they struggle with. I was like that is everybody's question, like, \"What will my partner think of me if they know blank blank, blank, blank, blank? How do I, with my own self-image, did I sell out? Can you hold these questions, can you hold onto yourself even if this is the thing that you're doing?\" Like, how can you be like, \"Yeah. No, I have to do this and I'm okay\"?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "43164182-51c5-4ce9-8e7c-c88666bcdbc1"
+    },
+    {
+      "start_time": 380,
+      "end_time": 433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm interested in where there's this sort of larger question of trauma. I'm like, \"Who is actually traumatizing us?\" Do you know? Like, these things are going to keep happening, they happen, they change, they evolve, but they are still happening, so I'm like, the thing that I can control is me and my thinking, so how do I, when I see those images, when I hear that story again, when I feel like you want to leave something in the past, but it's like how do I every single time take that hold and move forward, not in a forgiving sort of way, and definitely honoring that moment and that life and that presence and all of that and that violence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "bcac9364-24d0-4cfb-9919-da560af8e634"
+    },
+    {
+      "start_time": 433,
+      "end_time": 478,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But how do I not keep re-traumatizing myself and compounding? Because then it's like it's impossible. Do you know? It's impossible. So, just that idea of a ho phobia and working with those women and then working with the women that I worked with to create the piece, just this deep fear of being perceived as a ho. Like, I don't want to be by my partner, by society, and so all of these things that end up being off-limits, and this is how I ended up getting to antithesis and this exploration of the erotic and the exploration of pleasure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "527eed1f-946c-4ed2-b178-1bcc18322f9e"
+    },
+    {
+      "start_time": 478,
+      "end_time": 513,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that's also generational, too, Is that a reclamation of the word? For me, it's more recognizing whether it's an internalized fear or something that you continue to impose on yourself. When is it put off limits because I'm afraid of being perceived as a ho? I'm afraid of being perceived as somebody who sells myself, I'm afraid of being perceived as somebody's who's less-than, who's giving herself away, who's ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "52b1c6aa-de63-4be4-a19c-a93983883017"
+    },
+    {
+      "start_time": 513,
+      "end_time": 576,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. I think, also we can't have this conversation without understand that there's a lot of subliminal messaging that's being pumped into young women and a lot of young women of color in the U.S., from the moment you enter into the world. So, with this fear of being perceived in a very specific way, there's also the complexities of wanting to be desirable, wanting to be beautiful, how do you discover your own sense of beauty, one that is of itself and unto itself and not necessarily derivative of a European aesthetic?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "5edb9f3c-7bc0-4a20-99bb-dab669361140"
+    },
+    {
+      "start_time": 576,
+      "end_time": 620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I mean so all of these questions begin to bubble up and cause a lot of really interesting, hard, complex self-questioning and a deep dilemma. I just wanted to sort of add that in there, because it's not as though this is a dialogue within a vacuum. There is all of these other side-optics that are playing a role in the way you have come to know yourself and to perceive yourself in the world."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "aa3b900c-a559-44e3-9a4a-de89f4ea5dce"
+    },
+    {
+      "start_time": 620,
+      "end_time": 691,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do we think that translates into this project, to this negrophobia, ho phobia, but not even so much that, but the side things that continue to influence the way that we think about the Black body, the Black body in performance, because trauma? The complexity of presenting the body in what spaces. What comes up when we think about, I guess, maybe the complexity of one presenting the Black body with a Black body in performance? What are some of these things?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "b2bfc458-78ac-4a93-82e1-2e703a844b0a"
+    },
+    {
+      "start_time": 691,
+      "end_time": 736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What comes up for me is context. Who am I in dialogue with? Whose eyes will be on the work? How is this work being framed? How does it need to be framed for a specific audience? Yeah, all of these are questions, which is why, for me, and sort of how I approach any project, I'm literally thinking about the site. I'm thinking about the weight, the history of the environment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "d6acd3ea-d9d9-48a5-8663-65f84f535b86"
+    },
+    {
+      "start_time": 736,
+      "end_time": 783,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then I'm thinking about, \"What do I add to that site? What do I bring to the space? What does it need? What has been here? What hasn't been here?\" All of that becomes context for me in how I'm seeing, in how I'm participating, how I'm choosing to present what I choose to present. Which is why Black Male Revisited, as it began in Miami, that project, what it was was in Miami."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "7a010cff-c655-49c7-8f9a-0b32a0597f1b"
+    },
+    {
+      "start_time": 783,
+      "end_time": 822,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Black Male Revisited, Revenge of the New Negro, that happened in Miami, and it happened there because there were a number of perimeters that situated itself inside of because it had to push against this environment that's specific to Miami. And then, what it became when it went to New York and re-situated in a [inaudible 00:13:31], suddenly Revenge of the New Negro became Experiment to Representations through the Ephemeral Form."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "944cc74a-ae36-44e4-b726-73a7ffc5dbc0"
+    },
+    {
+      "start_time": 822,
+      "end_time": 859,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then breaking this thing open for a number of other bodies to participate, and what does that mean to have all of these Brown and Black and queer bodies in a critical mass congregate in a major convening, discussing issues of masculinity and Black identity and all of this within a predominantly white, historically white presenting space."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "6d337a8e-5263-4d17-b70b-e6f9217e3c40"
+    },
+    {
+      "start_time": 859,
+      "end_time": 1008,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, I have to think. I can't help but be aware of the perimeters in which I'm situating a project. So continuing this thing, it goes to Miami, it becomes Black Male Revisited, Songs for the Dark Divine. I know I'm being curated as a part of a music series, so there is this idea of musicality and emotionality and all of this stuff that I'm thinking about. I'm thinking about surveillance and optics and how do people look at me and how do I look at them. What is a song, what is a song for the Dark Divine? Understanding how Philly can be super segregated, just all of these things play a part in the way I go into a venue and what I present. I rarely, if ever, am able to present the same thing twice. I don't know how to do that, because for me, live performance, it's living. And so, I feel like I have to honor the fact that this is a living thing. So I have to make sure that I've created each experience is of itself. There's something very unique about each moment, each presentation, that's different from what it was and what it will be. And so I think even for Unwrap and No Boundaries to be situated in Colorado, we're aware that we're pushing up against so much history, so much complexities around viewership of Black and Brown people, the consumption of those bodies."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "0076de23-e049-4160-a710-ef474c9d935e"
+    },
+    {
+      "start_time": 1008,
+      "end_time": 1047,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How does one begin to even move in the world and be ... Even something as simple as the altitude, so much that a part of innately ingrained in the environment is very separate from what Black and Brown people need to be comfortable in a space. You know what I mean, so it's just like a human being in Colorado, I'm like, \"Oh my goodness.\" Anyway, that's some other conversation, but you know what I mean."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "8f6a329a-c9e7-429e-94d1-02ec83f07b1a"
+    },
+    {
+      "start_time": 1047,
+      "end_time": 1093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And not to say that we can't push against that and make space. That's a part of the resistance, that's a part of the work that we're doing is creating space where space has historically been misrepresented or for individuals who have historically been misrepresented or left out of a particular dialogue. But yeah, I think there are a number of through-lines that are happening with your research and how I'm thinking, which is why I think this is such a really nice ... I don't know, it's such a nice platform to talk about this stuff."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "4dfe9e54-87f9-468f-8a9e-deb50f911dd6"
+    },
+    {
+      "start_time": 1093,
+      "end_time": 1123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well I was actually wondering if you would talk a little more about that, through the intersections that you see, because I've heard you say how, when we were talking about this just this morning, often a part of a panel to be invited to contribute, and a lot of times we're the one representative, or whatever."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "f10bffcd-f92b-4ba2-b71c-c79fb913bfc2"
+    },
+    {
+      "start_time": 1123,
+      "end_time": 1151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But what has been nice in terms of being a part of this? And also, the reasons why it's important to you. You spoke a little bit to the ways that it's intersecting with your work. Why is it nice to be a part of something like this and in what ways does it deal with some of the questions that you're also dealing with?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "0cfea5f1-aa86-4f60-a315-a9cf142ba863"
+    },
+    {
+      "start_time": 1151,
+      "end_time": 1237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. I think one of the first things that come to mind is the importance of travel and leaving my hub of making and research and that's very specific to an urban, dare I say, middle class, educated culture? I feel like there's a very specific way Black people perform themselves in Manhattan, in Brooklyn, in Harlem, in Philly. So, being aware of the performativity and how that affects me and what I make, and then, having the ability to distance myself from that, allows me this opportunity to become even more aware of that and to begin another dialogue in another environment with another set of questions that can only feed and inspire what I'm already cooking up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "9f18ff61-3c65-4384-b123-77675f514825"
+    },
+    {
+      "start_time": 1237,
+      "end_time": 1264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It only makes the work richer to know how these questions are being grappled with throughout the U.S. and the globe really, how artists in South Africa are thinking about ballet and European aesthetics on African bodies and the female body, as opposed to what's happening in The Netherlands and the U.S. and the Caribbean."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "0d41cdb1-f8d9-463b-8f1f-df12d8590223"
+    },
+    {
+      "start_time": 1264,
+      "end_time": 1314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I am fortunate enough to have had an opportunity to travel to some of these places and witness how this work is living on these different bodies and how we're all asking very similar questions, but the execution, which is the most fascinating part is what really continues to inspire me and make me ... I really light up because I'm like, \"Wow. I would have never approach this concept of Black identity from this particular angle or this particular vantage point,\" or whatever."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "fcc17198-2960-4f6b-b8b8-7ad316d3ad28"
+    },
+    {
+      "start_time": 1314,
+      "end_time": 1382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "An artists who I've been following for maybe two, three years now, her name is Dana Michelle, based in Quebec, is doing some really interesting work with her own body as a Black woman situated in Canada, really pushing forth some almost [Butos 00:22:23]/performance art/ absurdist, clown. I mean, just the way these forms are just really intricately mixing up all in one body, all converging in one body. Again, this idea of how the Black body as a container for so many different realms, so many varying dimensions and ways of being in the present moment, this cyclical, just constant consistency ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "74d3524f-c3ec-4a8d-8068-44f56df3d156"
+    },
+    {
+      "start_time": 1382,
+      "end_time": 1463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm tripping over my words, but just this ability to be in so many different psychic places simultaneously, I think that is something that I'm super curious about, because it's a way of performing that I have yet to see, I guess, be appropriated by European aesthetics or ways of being. I have yet to see it. I'm not saying that it's not happening. I just have yet to see that amount of complexity be carried simultaneously. And I think much of this has to do with our sheer history, just having ... W.B. DuBois talks about this, this double consciousness, and then you put the female perspective on that, it becomes this triple consciousness. All of these consciousness having to converge simultaneously."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "e7f05e32-777c-4ae8-bebb-7a949a09d72c"
+    },
+    {
+      "start_time": 1463,
+      "end_time": 1550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then so for you to put forth this proposal, certainly aware of your history, how it converges with the histories of these dynamic artists, historic artists, it just feels so relevant, so needed. But I am questioning, what is the conversation that we want to ... How do we want to go about shaping this thing so that young people 15, 20 years from now can look at this thing and be like, \"Oh, this is how this really pertains to what I'm thinking of, how I'm moving in the world\"? How does this framework create a kind of map that allows all of these folks to have a way to locate themselves and these ideas?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "eeb0e704-0d5a-4163-b570-30d5fe86728f"
+    },
+    {
+      "start_time": 1550,
+      "end_time": 1571,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the things you talked about and that you noted in the project as well is the curatorial aspect. And I'm curious what you find when thinking about that in this project?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "802cc361-304c-45ba-b353-ceb3ba6d56a9"
+    },
+    {
+      "start_time": 1571,
+      "end_time": 1637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of course. I would love to talk about that. There's this idea of time that's being curated, of generations. Like the time signatures of all of these works and juxtaposing that to this sort of intergenerational academic posse that you have cycling around this project. It's very thoughtful. Some of the leading scholars working today are thinking about these things and pushing your ideas, challenging your ideas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "a4cf3aaa-ab62-4b86-8857-2e66a68d0ddf"
+    },
+    {
+      "start_time": 1637,
+      "end_time": 1708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is not easy material, by no means, to take on. And so it requires a very deep analysis, and I think you've done a terrific job of bringing in some folks who are coming from a number of vantage points into this dialogue, challenging you, challenging each other, maybe even challenging the forum itself, which is, I feel like, sort of my role within this. I feel the way in which I'm thinking about performance and dance, I don't know if it's the same way as the way you're thinking about it, especially in my execution and how I use dance, literally just as a texture within a performance. The dance is not the performance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "a65e3a8f-d388-4e50-9b89-163576f1f2c7"
+    },
+    {
+      "start_time": 1708,
+      "end_time": 1766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, the same as this idea of Blackness as a texture within performance, and not the performance. I feel as if I use Blackness as a kind of material, but by no means do I feel as if the work that I'm making is limited or restricted by me being a man of color. And I think I have to accredit the work of all of the scholars that are around this project, all of the artists that you're working with, you. I mean, so many people who have allowed me to be able to make work that is ... I mean, dare I say, radical? I mean, this is language that other people are telling me is it's radical. I'm like, \"I don't think it's even possible to be particularly radical anymore on the stage.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "8d902ec8-7508-4208-9226-c6af9ff5924f"
+    },
+    {
+      "start_time": 1766,
+      "end_time": 1825,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I'm told that there's a lot of radical politics that are coming off of this work. But there's no way that I could even make what I make without ... and let alone have it be presented ... That's a whole other conversation ... without paying homage and attention to all of the artists who have come before me. And so, this project, again, helps me to land and to understand the conversation that I'm continuing, to have a deep sense of the historical and where I've been and what was and what has come before that has allowed me to be such a radical presence and to break so many rules."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "1e96a227-4331-48aa-b6f8-d8b9875ee9ed"
+    },
+    {
+      "start_time": 1825,
+      "end_time": 1862,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That brings up two things for me. One, is the reminder that Tommy De France gave us about how things interrupt. Now that is a crucial and exciting part of this conversation. How do each one of these pieces when they were created, what they do now, how they continue to interrupt?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "b852b10c-4a68-4c10-b962-d8561397a2dd"
+    },
+    {
+      "start_time": 1862,
+      "end_time": 1933,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, which is innately Black. I think that was the other part of that conversation that I really gravitated to is the Black body as an interrupter. How do we as Black bodies interrupt this environment, the space? The history of performance, the history of dance, the history of Blacks in dance. And so I'm so aware of myself as being a deep interrupter. I'm not even going to shy away from that. I know I'm interrupting so many things and I'm making a lot of people very uncomfortable. Should he be calling a piece #negrophobia? That's already interrupting the kind of, I don't know, quaint sensibility that dance has a way of taking, especially when we think about it as a socio-political methodology, I suppose."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "c014eeca-8393-468a-b6a8-13a5b9fc58d6"
+    },
+    {
+      "start_time": 1933,
+      "end_time": 1989,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so to just have, I don't know, the guts, to just say, \"You know what? I'm going to take on this. I'm just going to call it what it is. I'm going to own the fact that a lot of white eyes are going to come to see this work and that I'm intentionally making work that is in response to Black identity and Black ideas and Black people. You can certainly watch and be a witness, please, but I'm going to explicitly own the fact that there's a conceit that I'm investigating and I want you to be a part of this.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "54ccd35c-f01d-4b7c-9d8b-a8f3eaca36f7"
+    },
+    {
+      "start_time": 1989,
+      "end_time": 2030,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"We want you to be a part of this dialogue, certainly. There is space for you here, but we also want you to come correct to this dialogue. So do the work that you need to do so that you can come correct to this. So if that means Googling #negrophobia to figure out okay, what is the history of this thing, to allow yourself to not be privileged enough to just enter a space blindly without any sort of sense of care or historical relevance to what you're about to lie your eyes on.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "8ea00cbd-4685-4f0f-a4e3-d2e28349af3a"
+    },
+    {
+      "start_time": 2030,
+      "end_time": 2088,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The act of participating in dance and as a viewer, as a witness, is an active one. This is not going to be a passive piece of entertainment for you to just sort of sit back and smile. Like I'm not trying to ease your sensibilities in that way. And so I feel like all of that, just owning, all of that within the title. And again, this idea of interrupting and being a radicalist and not being something that there seems to be space for now due to this history. And so that's how I'm thinking about it and what my role is in this continuum."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "dc497dcf-983e-494c-99fd-4e864975d4bf"
+    },
+    {
+      "start_time": 2088,
+      "end_time": 2150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that's the other thing that I was thinking about when we were talking at [inaudible 00:34:52] today. This idea about freedom. So, it's easy to go, \"Oh, that's old school.\" But the time at which it was made, there's this forging ahead, which is where I think whatever label makes sense, something gets called something because it keeps ... And then that can become the difference. Also, we talked about, which is true, our language tends to want to fix so that I understand it, and that dance is about flexibility in many ways. I'm always talking about, like so what does it mean as we continue to change and evolve and you have white bodies doing historically ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "a0741182-ab24-4327-a205-4fdf3002aeeb"
+    },
+    {
+      "start_time": 2150,
+      "end_time": 2155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Black farms or Africanist farms, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "0c1d60ec-4102-4418-89f6-9c9944d4db6f"
+    },
+    {
+      "start_time": 2155,
+      "end_time": 2177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how sometimes you're like, \"How do I feel about that? I'm not sure.\" And at the same time, as artists, we also have this desire to not be marked ... Like I love this thing that you're saying like Blackness is a texture, dance is a texture. It's not the things. There's this whole other thing, but of course, that's in there. You don't subtract it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "19263703-d852-4b55-96de-3b1803c8e289"
+    },
+    {
+      "start_time": 2177,
+      "end_time": 2177,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of course."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "036e2aa2-4359-48f8-9ae2-bd05033f1f45"
+    },
+    {
+      "start_time": 2177,
+      "end_time": 2178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It can't subtracted."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "297da430-a005-43e8-8dbb-8994a6a11bb3"
+    },
+    {
+      "start_time": 2178,
+      "end_time": 2179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of course."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "bf453e0d-a895-4743-b231-892ae7284599"
+    },
+    {
+      "start_time": 2179,
+      "end_time": 2179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a reality."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "4505a0f0-268f-43ef-8a26-a52fe6dceff2"
+    },
+    {
+      "start_time": 2179,
+      "end_time": 2181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of course."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "4eb69b8f-6ae7-408e-b5e9-40d96c66cf0a"
+    },
+    {
+      "start_time": 2181,
+      "end_time": 2237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But also the freedom to be able to do this work came from the people who are continually are on the forefront, being labeled, being named, being put in a box, breaking out of that box, reconfiguring the box, moving forward, calling it something different, et cetera, et cetera. And you see the work that continually needs to be done of the forging ahead, of the interrupting and I think that's something that's exciting to think about in terms of the way that performance and Black bodies continue to interrupt what we perceive as ... I guess that's part of it, that's where the racism sort of comes in, there's a structure, because it wouldn't be an interruption if it was actually seen as, \"Oh this is the norm.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "7e25de8b-fe00-4dcb-9337-1e605b24890d"
+    },
+    {
+      "start_time": 2237,
+      "end_time": 2291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Exactly, exactly. And so we innately bring with us these histories. There is no way that we can exist without our histories, and these are histories that are super complex and hard and forces dominant culture to accept, or maybe not accept, but at least be forced to recognize that it has been actively a part of excluding, like actively been a part of excluding, which is a violent act unto itself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "ce5b1a2e-84b6-4a7d-a4ef-1eb0f9496c71"
+    },
+    {
+      "start_time": 2291,
+      "end_time": 2359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So we have an Obama that's able to come into office and all of the weight of that and the politics and all of that. Like what he represents as an idea, as a man, as a human, all of these things. And then we see how suddenly, again, this ability to sort of exist in multiple ways, to have all of these different airs about himself, so that he can be the politician and stand and be respected and all of these things and then also be recognizable to his own community and not be perceived as a sell-out or whatever and be educated but also very much like the guy who could easily be living next door to you. This recognizability that he's bringing, all of these ways of being."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "ef9a98e5-eb73-4139-b9ba-31ac9d27c7cf"
+    },
+    {
+      "start_time": 2359,
+      "end_time": 2408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is not about Obama, clearly, but I just think, as an example, as a catalyst for just how we're always in the process of being firsts, even in this 2015, we're still creating these firsts, which is interrupting whatever the norm is. Yeah, I don't know if that adds anything, but I just wanted to own that. We're still making history. We're still making history."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "cb8ad9e7-bf70-4b0d-a6da-944443d90c2d"
+    },
+    {
+      "start_time": 2408,
+      "end_time": 2441,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So what's important about having that through a Black lens? So it's like, okay, we talk about the way that we continue to change, we [crosstalk 00:40:19]. Why performance? Why dance? Why the body? Why ... And I mean, as we see, we're pulling from all these people. Why look at this through the lens of Black performance theory?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "70878bd4-c002-4fd3-92ff-a6a7c08eedb7"
+    },
+    {
+      "start_time": 2441,
+      "end_time": 2450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When we say this, are we speaking to ... How are you defining this? What is this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "4a0743d4-e182-4169-bb22-03dcde07389d"
+    },
+    {
+      "start_time": 2450,
+      "end_time": 2475,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's a good question, actually. Well, I actually think I'm thinking about society, because we were talking about Obama, we're talking about 2105, we're talking about being firsts, interrupting spaces, places, cultures, structures. So it feels like we're talking about societal ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "0a1d26c6-83ee-405c-bd8f-ecd709f20607"
+    },
+    {
+      "start_time": 2475,
+      "end_time": 2476,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure, got you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "5bf5a4d9-97fa-4631-931d-95f2d7828fe4"
+    },
+    {
+      "start_time": 2476,
+      "end_time": 2511,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then I think another part of this is destructive in the sense of, well why look at something like ... So there's kind of two thises, theses, thises that are happening. The, in general, why look at Black performance? And then, why, because I think it's a little bit, also, speaking to this question that I have been asking which continues to evolve and shape of this like, well, is it worth having this question about Black dance?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "c3b9d616-85cb-470c-bb05-5330cdc95d65"
+    },
+    {
+      "start_time": 2511,
+      "end_time": 2556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And there feels like there's two different type of definitions, the one that put us in the box of describing the specific period of time that somebody else was one, the expressive form, and this question of what is it that Black people are doing and making and creating that is still relevant to larger conversations? So, yeah, the this of performativity, Black expressive arts and society and what about this project also ... Is it important? Why is it important? Just that question, important."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "9d8c5daa-4bea-4a20-971b-da76f56517ba"
+    },
+    {
+      "start_time": 2556,
+      "end_time": 2629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it's always important. It'll be important until the end of time. I think why it's important to view these topics through the lens of Blackness is, well one, it lets young people know that even as we create these firsts, okay, there is space for you being created. You will be able to fully participate or participate more fully in your humanity because these questions are being asked now of the present moment. You will be able to disrupt in whichever you choose or need to disrupt because these previous disruptions and interruptions have taken place. So again, this idea of being aware that we are existing along a continuum, this is not something that's just in a vacuum."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "4dd3b780-b249-4b07-a449-e147b235c2f3"
+    },
+    {
+      "start_time": 2629,
+      "end_time": 2716,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that sort of addresses, I think, the societal question. And then, just thinking about dance and Blackness and ... It's twofold, because, of course, I know that this thing is existing with a lot of stereotypes, a lot of constructs, a lot of preordained prescriptions. So that's a given. But also, there is this rich complexity of experience and vitality and struggle that has lead forth to what we see displayed on the stage. And so again, this idea of Black forms being linked, socio-politically to larger issues that are happening in the world. I think that is the beautiful thing about what makes something Black."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "467798dd-ba9f-4594-a0dd-254cc2191ccd"
+    },
+    {
+      "start_time": 2716,
+      "end_time": 2776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Again, I keep going back to this idea of this multiplicity, but as a delve more into this concept, I just keep going back to that, this ability to do all of these things simultaneously. That's so rare and gorgeous. I mean, it's the answer that I keep going back to, because it's kind of on my mind right now. I've thought about this, but I'm like, \"Oh, of course.\" Like, we can live in our joy and our struggle. Like, the two are not going to be separated. Yeah, that complexity of identity that is Black, I think is really excited. But that said, I do need to check my watch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "e316e454-f0d6-4017-87e2-361a39bcb588"
+    },
+    {
+      "start_time": 2776,
+      "end_time": 2777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I actually just, I heard it ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "ee611134-33f4-4fbd-9bc6-206867e86af7"
+    },
+    {
+      "start_time": 2777,
+      "end_time": 2779,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's actually a quarter after two."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Daniel Beahm",
+          "category": "People"
+        }
+      ],
+      "uuid": "5bdeb421-92e2-4f26-aa92-f04a3df12d3e"
+    },
+    {
+      "start_time": 2779,
+      "end_time": 2783,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A quarter after? Oh, shit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "4406cd3b-6a3d-4422-8287-1063fe3d0b20"
+    },
+    {
+      "start_time": 2783,
+      "end_time": 2783,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sorry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Daniel Beahm",
+          "category": "People"
+        }
+      ],
+      "uuid": "051feb4f-e4ae-443e-968f-625b1c07924b"
+    },
+    {
+      "start_time": 2783,
+      "end_time": 2786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's all right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        }
+      ],
+      "uuid": "36ab7b1a-ef6f-41e0-859c-0d24ddd5c62a"
+    },
+    {
+      "start_time": 2786,
+      "end_time": 2790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I saw Kate just go two, and I thought she meant it was two right now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "32f245dd-d43b-4017-b64a-5eac9392f62a"
+    },
+    {
+      "start_time": 2790,
+      "end_time": 2795,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's okay. It's only 13 minutes after."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Daniel Beahm",
+          "category": "People"
+        }
+      ],
+      "uuid": "17bdb91a-f635-411a-96aa-37e82ee0d3e6"
+    }
+  ],
   "set": "Default",
   "event_id": "356d7118-e51e-44cf-8516-52cd2e04eebd",
   "source_id": "ec53309e-6939-4b36-b3dd-50693cdad9bb"
