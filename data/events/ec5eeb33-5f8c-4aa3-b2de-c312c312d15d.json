@@ -28,14 +28,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\"Rehearsal for Jumping the Broom.\" (2005). "
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "No Boundaries Archive Project",
-          "italic": true
-        },
+          "text": "Citation:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": ". https://noboundariesarchive.com/Detail/objects/78"
+          "text": "No Boundaries Archive Project. Archival Item: Rehearsal for Jumping the Broom. [00078]. https://noboundariesarchive.com/Detail/objects/78"
         }
       ]
     },
@@ -51,8 +60,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Annotation Credits:",
-          "bold": true
+          "text": "Annotation Credits:"
         }
       ]
     },
@@ -72,7 +80,7 @@
   ],
   "created_at": "2025-12-05T23:40:46.261Z",
   "created_by": "townsendolivia2",
-  "updated_at": "2026-03-01T05:39:37.560Z",
+  "updated_at": "2026-03-01T05:56:26.569Z",
   "updated_by": "townsendolivia2",
   "rights_statement": "https://rightsstatements.org/vocab/InC/1.0/"
 }
