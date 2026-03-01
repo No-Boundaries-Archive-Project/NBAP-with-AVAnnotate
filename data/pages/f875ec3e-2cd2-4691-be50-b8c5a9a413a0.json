@@ -4,11 +4,12 @@
   "created_by": "DataMuseology",
   "title": "2018 David Roussève Interview",
   "slug": "2018-david-rousseve-interview",
-  "updated_at": "2026-03-01T19:22:56.164Z",
+  "updated_at": "2026-03-01T19:37:11.511Z",
   "updated_by": "DataMuseology",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "6a51341b-8f6b-4ee6-aa43-b0d012dce40f"
-  }
+  },
+  "parent": "bf834d68-7062-4d4e-aa5e-151a4f7de8de"
 }
