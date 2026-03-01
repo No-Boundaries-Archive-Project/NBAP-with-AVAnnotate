@@ -25,7 +25,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "You can access the full archival item at: “Interview with Jaamil Olawale Kosoko 2015 1 of 2”. (2015, September 19). "
+          "text": "You can access the full archival item at: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Interview with Jaamil Olawale Kosoko 2015 1 of 2”. (2015, September 19). "
         },
         {
           "text": "No Boundaries Archive",
@@ -44,7 +52,15 @@
           ]
         },
         {
-          "text": " and “Interview with Jaamil Olawale Kosoko 2015 2 of 2”. (2015, September 19). "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Interview with Jaamil Olawale Kosoko 2015 2 of 2”. (2015, September 19). "
         },
         {
           "text": "No Boundaries Archive",
@@ -125,6 +141,6 @@
   "rights_statement": "https://rightsstatements.org/vocab/InC/1.0/",
   "created_at": "2026-03-01T19:45:07.504Z",
   "created_by": "DataMuseology",
-  "updated_at": "2026-03-01T20:22:47.620Z",
+  "updated_at": "2026-03-01T21:11:30.572Z",
   "updated_by": "DataMuseology"
 }
