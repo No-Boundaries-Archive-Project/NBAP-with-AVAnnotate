@@ -45,10 +45,6 @@
       "tags": [
         {
           "category": "_uncategorized_",
-          "tag": "Audio"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Transcript"
         },
         {
@@ -102,7 +98,7 @@
       ]
     },
     "created_at": "2025-10-05T19:49:11.422Z",
-    "updated_at": "2026-03-01T01:09:40.669Z",
+    "updated_at": "2026-03-01T01:09:46.154Z",
     "generate_pages_site": true
   },
   "annotations": {},
