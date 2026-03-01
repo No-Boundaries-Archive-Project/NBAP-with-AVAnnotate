@@ -1,5 +1,2841 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 11,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I mean, maybe even some of the ... what imagery you might have, but the ... I think when we were talking about the lights, we were even talking about ... Because, you know, first you don't see the body at all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "87605c63-38bd-4141-af7f-d55e1797268a"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "d4cf1740-89c2-4142-9323-3764e7759d8f"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's sort of like a dusty-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "f5cf71f4-442d-4e38-9c7c-dacc29579cb3"
+    },
+    {
+      "start_time": 13,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "b285bc4c-6ca7-46a2-9194-c53263321e31"
+    },
+    {
+      "start_time": 16,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Something ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "57e9a048-cea0-4dad-b92a-44540fc5e091"
+    },
+    {
+      "start_time": 16,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I mean, that's kind ... I like that image a lot. In fact, because we're revisiting the piece now, I had forgotten about that image. So, it still has potency. The idea of a dusty, dirty road that some body is dragging down. Somebody and some body, is dragging down to ... and we're not sure what lies at the end of that dusty dirt road. But yeah, that's one of the reasons ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "d99b7d50-bddf-47d1-a15f-e866aa8e699b"
+    },
+    {
+      "start_time": 42,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, that's something that could feed the process, I'm gonna have in mind as we continue to work on the live piece. But also, that is one of the things that I find exciting about translating some of my live work to film, is that they're abstract dance pieces, but the narratives and the tone, the narratives refer to real life, and the tone is sometimes evocative of real life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "0b03255f-f5fc-49b4-825b-f9c9030eda09"
+    },
+    {
+      "start_time": 67,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, for me, there's a potency between that idea of abstract dance, and real life narrative that ... And also the way that my work jumps time and place. This piece, for example, whether you would literally wanna refer that in a dance for camera or not, the fact that they ... it's a slave set in the deep South, in the 1800s, and then it jumps to Elizabethan woman in an unnamed city, which was realizing is specifically San Francisco, and a particular moment in time 10 years ago. Film can facilitate that jumping back and forth in ways that visually might not feed a live piece, but becomes not only possible and sometimes can feed a dance for camera."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "210180bc-a777-4f20-a37a-8115fee457aa"
+    },
+    {
+      "start_time": 120,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think with the ... It was interesting because, in 12 Years A Slave, there's that image. I think it's [Lupedo 00:02:12], where the woman is actually around a pole?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "8afe2652-0367-4192-91a8-45bd33603f6d"
+    },
+    {
+      "start_time": 135,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "789c77df-5826-4177-b03a-2e55969d6c43"
+    },
+    {
+      "start_time": 136,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And she actually I think is wearing a white dress."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "f148764e-8b34-468d-8df4-b88f30921a15"
+    },
+    {
+      "start_time": 140,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, that's right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "89a3cdf6-1ee4-4b66-813c-2e65db67dc6d"
+    },
+    {
+      "start_time": 142,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was actually, I saw that and I was like ... there it is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "a03b00c3-69c4-4f74-a3c9-246fa8ca7f37"
+    },
+    {
+      "start_time": 146,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aha. Yeah. Exactly. Exactly. Yeah. That is ... When did that film come out? I'm trying to remember."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "cdefcec0-4324-453d-8a81-4721fb823c4e"
+    },
+    {
+      "start_time": 156,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "2012?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "75be38ca-195c-4126-a8c5-f75f6faf0d65"
+    },
+    {
+      "start_time": 158,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "b655c926-ff35-4ec5-8e0d-3dbeaef7fe39"
+    },
+    {
+      "start_time": 159,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's easy to remember. 12 Years A Slave, 2012."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "165b9e6a-1e73-4700-9eee-662ade4e4bd8"
+    },
+    {
+      "start_time": 161,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. That is, in fact, the image that's ... We were abstracting that image to where [inaudible 00:02:49], she's not bound, and we're trying to ... Sometimes we're going for, trying to evoke the idea, or reference the image of someone being strung up, or even strung up around a pole. And sometimes we're abstracting it through the body, and it's more of an expressionistic reference, but that's the literal reference that we're going for there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "c382709a-5f52-430e-b021-62bc2d46d4c2"
+    },
+    {
+      "start_time": 192,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think another image that I had ... It's interesting, I don't know if we ever talked about this, but some of it, some of the images that I'm playing with being in the role, one is when Matthew Shepherd is killed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "05a364df-8174-45e2-be21-1370675ecda4"
+    },
+    {
+      "start_time": 215,
+      "end_time": 216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "68e5a75b-86b6-43e8-a4ea-716d474a47a0"
+    },
+    {
+      "start_time": 216,
+      "end_time": 219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, and he was tied to a fence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "9bf5eab6-d6c9-4afc-9b92-2395777b6c0f"
+    },
+    {
+      "start_time": 219,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, that's right. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "7daba76d-da8f-4c37-94cb-cb776be04e87"
+    },
+    {
+      "start_time": 220,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, dragging yourself to that body, seeing that body [crosstalk 00:03:45]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "bfbf5509-cfe4-414a-8002-6e45705fc4d0"
+    },
+    {
+      "start_time": 224,
+      "end_time": 228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, that's so interesting. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "db57bb93-25ed-4ed0-bdb9-1d9e1c8454a6"
+    },
+    {
+      "start_time": 228,
+      "end_time": 236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then another one is actually ... I think I was, it was in Poland. I guess Auschwitz?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "813c6a25-ec63-4c68-8ffc-b7d492325840"
+    },
+    {
+      "start_time": 236,
+      "end_time": 237,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh huh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "57e7277f-3905-41c8-bdb3-fb833b51472a"
+    },
+    {
+      "start_time": 237,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where the train tracks just go and then they just, they stop right at the concentration camp."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "98202c64-830a-4eed-b4c0-0698b6c01cac"
+    },
+    {
+      "start_time": 243,
+      "end_time": 246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "d55d2d6f-d641-4b30-ab37-be2b227c8012"
+    },
+    {
+      "start_time": 246,
+      "end_time": 251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that image where you could say pulled off in the back of that wagon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "86eed944-2835-4bb3-82d4-d964465600e5"
+    },
+    {
+      "start_time": 251,
+      "end_time": 253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "e4d511ac-c3f7-4160-8002-f9ae0fe4fdb0"
+    },
+    {
+      "start_time": 253,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I feel there's this moment where I have this image of someone going away. Like you're going ... It's the end of the road, being pulled. That person is over there, you can't ever get back to them. This person. The train is moving away, so there's this image of literally seeing that being pulled away. And that's not an image we ever talk about, but it's an image that sometimes resonates with me in that moment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "ddf3046c-7259-499a-a8ae-68b10a118d03"
+    },
+    {
+      "start_time": 285,
+      "end_time": 320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. There is the image of someone being, leaving ... Someone that you love being forced to leave you forever. And that you may see in the hereafter if that ... depending on what your belief system is, but that this kind of forced, in the minute separation of family and from the person that you love. And as you say that, what I'm realizing is that was such a strong image that I had in my head when we were making the piece, in maybe 2004-ish."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "ee50b0f1-0e16-4366-b8a8-0e3a58414044"
+    },
+    {
+      "start_time": 320,
+      "end_time": 348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it may have been a reference, and I don't even know if this exists or not, because when I saw Roots came on television, when I was a little kid, there may have been an image of, I wanna say Leslie [Uggums 00:05:33], being drug off in a wagon. It may literally be an image that I saw as a child that just stuck with me, somewhere buried deep in the subconscious. I don't even know if that image is in the film, but now I'm starting to think maybe it was a literal memory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "f251cc6c-66d3-438b-8974-dd770f67d959"
+    },
+    {
+      "start_time": 348,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But also, it was from when I went to Goree Island, right off the coast of Senegal, one of the few remaining slave ports. And one of the things you see in the back of the building is the door to nowhere. And I just remembered that same ... not literal image, but metaphor and thought, and symbol of being, watching your loved ones loaded onto a ship and then sail away knowing that you would never see them again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "20a5037e-7975-4eee-bc01-f0c21e9164d9"
+    },
+    {
+      "start_time": 388,
+      "end_time": 397,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We've talked a little bit about why you made this piece, and maybe you can talk about that again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "6f7df213-246c-4370-b099-df4a89d5cbea"
+    },
+    {
+      "start_time": 397,
+      "end_time": 398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh huh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "2d4411a9-226d-4522-90ae-f5ddbf268e06"
+    },
+    {
+      "start_time": 398,
+      "end_time": 413,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But then also what does it mean to be revisiting it now. Talking about its place in history, but also how it also comments on ... So, maybe where it came from, and where it's landing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "594748e5-d3b0-4023-89f2-eec9d2407842"
+    },
+    {
+      "start_time": 413,
+      "end_time": 446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, well I can definitely talk about where the piece came from. It's really interesting, and then I watched it yesterday, and we worked yesterday in rehearsal on the piece, and I hadn't watched it in a while. I think my ... not my reaction, but what I think its meaning and purpose as it exists today is very different from what I thought it would be. And so, to talk about both of those things, when we originally made it, is a very particular moment in time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "bc8eea1b-9401-4b58-b4f5-9b0cefd57545"
+    },
+    {
+      "start_time": 446,
+      "end_time": 478,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gay marriage was illegal, and there was a sweet spot in the state of California, which is where I live, where gay marriage was legal for a little bit. At least in San Francisco. And then there were all these people rushing to be married at the courthouse, and then the federal government suddenly shut it down. And the only good thing about that, which could've been the bad thing about that, was people knew we were headed for a Supreme Court decision."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "ac1ff005-3b61-4d4d-b396-20841c64f730"
+    },
+    {
+      "start_time": 478,
+      "end_time": 523,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, it was about a moment in time where there was some immense hope amongst LGBTQ communities, about whatever you believe in marriage. Having that be a possibility for you. And then it was shut down. And so, I wanted to make a piece that somehow ... I felt like people were having trouble making the jump in empathy, and or sympathy, to recognize what losing the ability to if you chose to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "8c24f5e5-5cdf-4e72-a112-92d06a6ed02c"
+    },
+    {
+      "start_time": 523,
+      "end_time": 565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have a husband, but marriage is not everyone's choice. But if that's the choice that you wanted to make, I don't think people were understanding what it meant to have the government tell you that you couldn't have that choice. And then to be really honest, there was also an element of ... I thought that perhaps this series would hopefully have a really well rounded audience, but I was also hoping, giving subject matter, and the range of black choreographers, African American choreographers that you have represented, that it would get a strong African American audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "bb48aded-6263-4038-9881-aeb73b2956e4"
+    },
+    {
+      "start_time": 565,
+      "end_time": 617,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And probably more heartbreaking for me personally, at that moment in time, than what mainstream America thought, it was knowing that at that moment ... I'm just stating my own experience, a hotbed for resistance to gay marriage was within my own African American community. That was beyond heartbreaking, and in particular, at that moment in time, in terms of my perception and personal experience, it was within the African American religious community. And so, that was particularly true in California, which is a very liberal state. And has a very liberal and progressive African American community, except rewind a few years, around issues then of gay marriage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "49b0deeb-af90-4136-aa36-d4907a9578bb"
+    },
+    {
+      "start_time": 617,
+      "end_time": 653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, I also thought, \"Wow, I wish that the African American community ...\" Because we came from a history where marriage was denied. That's what jumping the broom symbolized. You couldn't get married without the master ... when you were a slave. So, without the master knowing, we came up with our own rituals where you would literally jump a broom, and there would be a big celebration. Sometimes the master knew, and sometimes they didn't. But through thick and thin, one way or another, people were finding a way to love each other, even though they were being denied that love."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "71a3bd33-a75c-4ac9-ac4b-356e9473e3b2"
+    },
+    {
+      "start_time": 653,
+      "end_time": 688,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I thought, \"Well, I wish that the African American community, more so, could ...\" And again, not to make a sweeping broad generalization the Africa American community is ... African Americans were homophobic, but there was a lot of resistance that I perceived at that time. And I thought if we as a community could recognize what it meant in our own personal and ancestral history, the crime and the spiritual and human devastation of not having your love for another recognized, and actually prohibited, what if it were ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "8bbdb01e-41d9-47de-9482-93f91dc889ac"
+    },
+    {
+      "start_time": 688,
+      "end_time": 752,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We could start off with making that statement. Having people empathize, and sympathize with a slave character, and then slide into maybe trying to transfer that empathy onto a, in this case, a lesbian couple. And so, it was very much a statement about gay marriage, and a moment in time when gay marriage was not legal. And actually had been recently denied to Californians. And so then, because gay marriage ... Now, because gay marriage is legal, I thought, \"Okay, well this will be interesting as a moment in time piece, as a piece that represents a certain ... like a period that Alvin ...\" I'm not equating my choreography with Alvin Ailey, but a piece of a series of choreographers that we all know and love, who were in fact at the core, the history of black dance made during the 50s and 60s, around racial discrimination, and the fight for dignity around that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "5d41345b-912c-453f-ae48-e019a6265003"
+    },
+    {
+      "start_time": 752,
+      "end_time": 753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I thought, \"Okay ...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "b917f175-443c-40f5-8ba4-7c61cba3aafd"
+    },
+    {
+      "start_time": 753,
+      "end_time": 753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible 00:12:34]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "a4db30a8-bc65-4edd-b5e0-87bbfa1730cf"
+    },
+    {
+      "start_time": 753,
+      "end_time": 768,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You want me to wait for you to ... Sip?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "f12c5b52-5159-43c7-a6c2-4d47c3b58384"
+    },
+    {
+      "start_time": 768,
+      "end_time": 776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible 00:12:56]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "a3a0f881-3134-4f1d-9083-0c49cd59f22f"
+    },
+    {
+      "start_time": 776,
+      "end_time": 777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pause for a second."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "e9e05173-e7d8-4f1c-8fc7-9f7346b97c22"
+    },
+    {
+      "start_time": 777,
+      "end_time": 783,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh huh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "96a203e3-b784-4ea4-a723-3b1dc15744c6"
+    },
+    {
+      "start_time": 783,
+      "end_time": 793,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible 00:13:05]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "b62eec6a-819b-4309-b78a-db01ac3ec5ec"
+    },
+    {
+      "start_time": 793,
+      "end_time": 799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, you were equating your work to Alvin Ailey?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "8f434920-35b4-4bd9-9ed1-cdcd90793b1d"
+    },
+    {
+      "start_time": 799,
+      "end_time": 834,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, what ... Maybe, let's see. How do I rephrase that? So, when I went ... If you think about the protest pieces that black modern dancers were creating in the 50s, 60s, 70s, around issues of race, but those ... Not that ... Actually, I guess in many ways those pieces were as relevant as ever. But I thought, \"Well, this will be similar in that this is a piece that was made about gay marriage being illegal during a time that gay marriage was illegal.\" But you know, when I ... And it'll live within, it'll have residence as a piece about the past."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "24006a8e-d4f5-417a-bdf4-bb33ce9694c8"
+    },
+    {
+      "start_time": 834,
+      "end_time": 860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But then when I re watched the piece yesterday, it was a little heartbreaking to realize that I don't think its ever been more relevant. And unfortunately for me, again, from my own ... what I'm experiencing now in the current world, whether it's LGBTQ, race, misogyny, I'm actually more worried about violence against the other than I ever was when we created this piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "bf409b5f-8b26-4bf3-ae68-733f22c5e1c4"
+    },
+    {
+      "start_time": 860,
+      "end_time": 907,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, there's a line at the very end of the piece where the lesbian character says, to paraphrase, something like, \"I'm just so worried about where this type of hatred can lead.\" She's telling a very simple story. Her lover wasn't killed, but you see a character on stage dragging a lesbian body into her arms, who is dead, and I thought the juxtaposition of this is where it could lead ... Unfortunately, I don't think that's every been more resonate than it has been ... I'll take responsibility for it, for me personally, that in 2018, American, the image actually, the warning, feelings more relevant than it did in 2004, I have to say. Because it feels more immediate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "1744185b-5429-4e32-bf63-bd60993f6385"
+    },
+    {
+      "start_time": 907,
+      "end_time": 956,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And actually around LBGTQ people, ironically gay marriage is legal, but I think people now are retreating into their ... The boundaries that hinder empathy feel stronger than ever. And they also feel like they've expanded to race and gender, et cetera, et cetera. So, unfortunately for me, it feels like the point of view and the intention of the piece to create a conversation around the danger of where discrimination can lead to violence, can lead to death, has never been more relevant."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "e90b3474-0771-4615-949a-8190a916e1be"
+    },
+    {
+      "start_time": 956,
+      "end_time": 970,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the sort of, I guess ... Again, I can't exactly remember, but I do think it was 2004, because I think it was also after Bush got elected, the second time. I think that's when we were working."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "6b90f068-9710-407f-80d7-79b5327c5f66"
+    },
+    {
+      "start_time": 970,
+      "end_time": 982,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And we thought things can never get any worse."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "4a582a1b-9d98-4777-8502-cf0bc22bbd87"
+    },
+    {
+      "start_time": 982,
+      "end_time": 983,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, we thought that was bad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "4a91712b-4be9-4a0c-8b0b-4a87e75b924e"
+    },
+    {
+      "start_time": 983,
+      "end_time": 988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We did."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "2575cbd1-71be-4ee7-aa71-e836e3c55146"
+    },
+    {
+      "start_time": 988,
+      "end_time": 1031,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You were talking about how do you feel these conversation ... Now we're talking about transgender individuals, but like you said, there's violence against the other ... How do you feel like that's affected you working in the university and you see young people, and we were talking about what's going on here. How do you see how some of this legislation has impacted the youth? Or this moment in time. What do you feel like you're seeing in the art field, in your students, in young people?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "dc89b429-417b-462c-b585-75d2bca830a1"
+    },
+    {
+      "start_time": 1031,
+      "end_time": 1070,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I'm very worried about young people actually, because this is what has been ... because of the moment in time that we live, and the finite number of years, and short number of years of their lives, this is primarily what they've known. And there's nothing normal about this time. In terms of political discourse or social discourse, or animosity towards the other. It's just a new low. And this'll come back to the arts because I don't think the arts have ever been more important."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "1b866879-7cab-48c1-b369-d204b3832032"
+    },
+    {
+      "start_time": 1070,
+      "end_time": 1117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In short, I agreed to serve as dean of my school at UCLA for two years, and that does put you at the epicenter of seeing what bullying can mean, and there was, who's name I would actually choose not to mention, in my view abhorrent radical right speaker, who came to campus who actually went to other campuses in particular within the UC system. And without our knowing it. As example, how I feel about the current times, this person was put in my building at that point, which is the art building, which quite frankly is probably the most left leaning spot on the entire campus, whether left or right is ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "df876bbf-1c39-4613-a64a-9c1366537083"
+    },
+    {
+      "start_time": 1117,
+      "end_time": 1148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, wrong, invalid, that's just the fact. And so, we found out about this on the day it was happening, and my students went haywire. So, there I was as the dean, yeah, you should be going haywire. You should, within the legal limits of what you can do, and I am one who favors non violence, I was actually happy to see that there was a very strong reaction. But one of my students in particular, as a result of this, was bullied."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "c52a605d-2b81-471f-9349-c46f37fe76ee"
+    },
+    {
+      "start_time": 1148,
+      "end_time": 1183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I thought about this piece at the time, actually. I had no idea, because this lead to a very long process that involved not only my office, but the dean of students, and the chancellor's office. I had no idea when someone shows you ... I support the student 100%, but I appreciate it for my own personal growth when she said, \"Here are the ...\" It was probably 2000 tweets. It went viral, and she documented the ... I forget how many millions of people had interacted with the bullying. It went viral."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "740a6581-2b7a-4661-867a-623043f09a92"
+    },
+    {
+      "start_time": 1183,
+      "end_time": 1242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I had no idea what these kids were going through. And the reason I thought of this piece was make what you will of this, I guess I hadn't thought this would happen. The most violent ones referred to two things. The predominant images were lynching, and burning in an oven. And I thought, WTF? So, people who aren't that well versed in history, they do know about lynching, and burning people in the oven, and what that represented in terms of violence and hatred. And it was amazing how those two images kept repeating over, and over. I'm gonna burn her in the oven. I'm gonna lynch her. With no reference to Jews or Blacks. Just people have taken on the hatred that those two acts represent."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "e4caf33d-a0cd-4137-b171-1305c16941f4"
+    },
+    {
+      "start_time": 1242,
+      "end_time": 1278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it was a real eye opener. I thought, \"Wow, this is what young people are up against?\" And then it also made me really satisfied to be the deal of the school, and an artist at that point, because as a local foundation here in Los Angeles says ... it's their slogan, \" Arts are not part of the answer, arts are the answer.\" That's what I came to realize, was the dialogs that we're having intellectually are so appreciated and necessary, but until we can create a more humane heartfelt conversation on the level of the heart ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "9a975b22-bdf7-45d1-acbc-34baf3727c12"
+    },
+    {
+      "start_time": 1278,
+      "end_time": 1307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think these kids know intellectually that referencing lynching and ovens in tweets over and over again, is not the smartest thing to do, and it's not a good thing to do. What they haven't realized on the level of the heart is what their referencing, and what they're implying to another human being. And that's where I think the arts can step in, in creating bridges to empathy, compassion, and a common held humanity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "9f84599d-083f-40ad-bf70-82e5cd78e5f6"
+    },
+    {
+      "start_time": 1307,
+      "end_time": 1343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you see perhaps the work of ... artists coming up now, people who are making work now, new artists and again, students ... how do you see them tackling this problem? Or how do you see a shift? Even in the last 10, 15 years, have you seen any shifts or trends in work? What are people making work about? What are they interested in making work about? How is it different, is it different at all than work we were making 10, 15 ... or you were making 10, 15-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "908f6171-5e1d-480e-9c5e-3828e3fdd45e"
+    },
+    {
+      "start_time": 1343,
+      "end_time": 1368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, that's a really good question. I mean, I could be wrong, but my ... Because California is its unique beast, and New York, for example, is its unique best, and I find it really hard to get a handle on what's happening within the field as a whole, because it's so segmented. But I think that when I was in New York, for example, and ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "470ad638-fb94-4e97-b3ab-4fb5fdcce942"
+    },
+    {
+      "start_time": 1368,
+      "end_time": 1411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "New York in the 80s and the 90s felt like, very much a place where who go to tell their story was being challenged, and identity work reigned, meaning that political work reigned, and people were expressing radical ideas about race, sexuality, gender, and that had to do with the fact that modern, post modern experimental dance was so Euro centric, and then this infusion of different colors, types, shapes, sexualities, genders, gender identifications, kind of who wanted a voice at the table, really infused the work with commentary."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "81116ef1-130c-4461-8f12-92beeffe3a4c"
+    },
+    {
+      "start_time": 1411,
+      "end_time": 1455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then it felt like that was lost, especially with dance. We kind of, in the 2000s, and the 2010s, it felt like we went through a period of oh, just dance for Pete's sake. Enough of that commentary. And now it feels like people are returning to work that has something to say. Even the notion of dance became, for a while there, maybe out of vogue and it feels like we're returning to kind of full throttle kinetic dancing, and also we're returning to the need, the necessity if an artist chooses, to say something about the world in which we live."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "8a20621d-9af2-4373-a724-ebb28d44c906"
+    },
+    {
+      "start_time": 1455,
+      "end_time": 1467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, it feels like the pendulum is swinging back. And probably a reflection of the time in which we live."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "0dd4dc13-16cc-40c4-91a8-8cc5062a1f1d"
+    },
+    {
+      "start_time": 1467,
+      "end_time": 1469,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's probably coming in from their ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "1b4fe872-96be-48f2-b922-8bddf5cc3288"
+    },
+    {
+      "start_time": 1469,
+      "end_time": 1471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Picking it up again?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "fefba236-8245-42c2-ae39-ca1f599c9768"
+    },
+    {
+      "start_time": 1471,
+      "end_time": 1475,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I was wondering what that was when I walked over there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 4",
+          "category": "People"
+        }
+      ],
+      "uuid": "f6ef5cee-d758-409e-af26-2dba6d49f6a6"
+    },
+    {
+      "start_time": 1475,
+      "end_time": 1477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You said it's probably coming from outside?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "0c3610be-c55b-4c5f-af66-e36aa43fa91f"
+    },
+    {
+      "start_time": 1477,
+      "end_time": 1484,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, occasionally there's a fair or a festival, or a ... some sort of something or other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "907099ae-e1bc-4221-94b7-1d421783eaa5"
+    },
+    {
+      "start_time": 1484,
+      "end_time": 1488,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think it's ... the loud is picking it up. I think we should be fine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 4",
+          "category": "People"
+        }
+      ],
+      "uuid": "e7fcde21-6d24-4c30-832d-992af9b1425c"
+    },
+    {
+      "start_time": 1488,
+      "end_time": 1494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I thought it was coming from the speaker for a second."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "deb9aa28-e6f1-4d9c-a282-06fcf60823f3"
+    },
+    {
+      "start_time": 1494,
+      "end_time": 1494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "d2219edc-1ce8-420d-ac84-3e8fb0168b77"
+    },
+    {
+      "start_time": 1494,
+      "end_time": 1502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I started this project, one of the questions that I asked everybody was what is Black dance?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "0b4a1300-92b5-4a7b-8458-b77194f742b2"
+    },
+    {
+      "start_time": 1502,
+      "end_time": 1503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "5d584062-ce67-4ea8-9459-9a62a8cf1f58"
+    },
+    {
+      "start_time": 1503,
+      "end_time": 1527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which feels like a very ... I don't feel like that's a question that gets asked so much anymore, but I do think there's something about Black artists, and Black performance, and what African American choreographers of gender ... Now you're this and that, you know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "604b40ae-5edf-4db0-b52f-357d218c26ac"
+    },
+    {
+      "start_time": 1527,
+      "end_time": 1528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "2f58e1f4-8e48-410b-a733-ca9c570351ca"
+    },
+    {
+      "start_time": 1528,
+      "end_time": 1553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But how, perhaps, they are also speaking to issues and maybe what doors that has opened for other people to then go through as a result of what choreographers have forged. It's not so huge to now ... I was talking about [Donna McHail 00:25:44], and in 19, a poem ... and Doris Humphrey's like, \"Maybe you should ...\" You know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "1ffc03ca-be89-4cad-be56-d20b7f2b47c9"
+    },
+    {
+      "start_time": 1553,
+      "end_time": 1553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "b1f0e201-afe5-4c31-968f-fb1e06a8519f"
+    },
+    {
+      "start_time": 1553,
+      "end_time": 1614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And doing the work about homelessness. You know, and I asked him, I said, \"Were people doing this?\" He was like, \"No.\" And I said, \"What gives you the courage or the gumption, or the ... to be like no, I really need to make this work?\" Do you feel like there's something that is something that artists of color, Black artists, is there something about Black performance that is not in a way to so condense everybody down to the same thing, but in a way that's more about sort of a pluralism? Is there something that you think folks, Black folks, are doing and do ... how do they affect the field in that way?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "2a60d5d1-89eb-4302-8d23-b4a9096a0b3d"
+    },
+    {
+      "start_time": 1614,
+      "end_time": 1650,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Hmm. I'm not sure. I mean, I do keep returning ... because I know that for a while, Black dance was defined by aesthetic. Are you from the Ailey Horton tradition, or not? And then that field's definitely like, it's being expanded without denying props and due, and artistry, and accomplishment to the Black dance choreographers who are from the Ailey Horton, because there's such beautiful work being created within that genre."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "3ce4c74b-8590-4867-8b7e-49c18d913601"
+    },
+    {
+      "start_time": 1650,
+      "end_time": 1682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And they used to be such a strong antagonism, actually. It felt like. In the 90s, between ... if you're working within a pure Black dance aesthetic, and how that might be defined as Ailey Horton, and are you not? I mean, I feel like that antagonism is gone because people are recognizing that plurality of aesthetics, and techniques, can be welcome to the table, and I think that's a really welcome change."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "ab093914-db93-4b04-8fe6-59915622960f"
+    },
+    {
+      "start_time": 1682,
+      "end_time": 1790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it might've been Ralph [Lemon 00:28:04] ... now I can't remember who said, when asked way long ago. This must've been in the 80s, what is Black dance? And he said, \"Well, that's any dance that a Black choreographer would choose to make.\" And I kinda still stand by that, and the range of what a Black choreographer would choose to make has been so widely expanded. But that having been said, I would say that in my own personal experience, a lot of African American choreographers and choreographers of color are choosing to make work that has some sort of social engagement, and even on that broad terrain, on that broad level, I think that's one of the things that unites some, if not all is that there is a strong desire to speak on the social world in which we live. And it maybe being done through a range of vocabularies, but there is that desire to comment, even if it's wide ranging. And one thing that ... I went to the IABD, International Association of Blacks in Dance concert the other day, and I will say, one of the things that ... because watching dance with an all black audience, it can be ... is the antithesis of watching it sometimes with an all white, or primarily white, modern dance audience. They're very cool and dry, and if somebody does something dazzling physically ... I'm doing this because like, 12 pirouettes. Or four. Black people are on their feet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "444a270c-b0a5-4a19-b2e2-58dd446383b1"
+    },
+    {
+      "start_time": 1790,
+      "end_time": 1832,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what I realized was ... I mean, I can't generalize this, because I grew up in a specific time and place, Houston interested 1960s, and 70s. But from my own experience, we tend to like a lot of virtuosity. Ailey is nothing if not virtuosic. And I thought wow, I love virtuosity. I love a really wide range of virtuosity. So, Simone [Fortee 00:30:16], who is an elder in the field, and a phenomenal improviser, and works with language and movement, and it's not so much about high kicks, as it is about how immediate can she be, and present in a moment. It's virtuosic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "5d587957-664f-491e-abcf-66b01882924b"
+    },
+    {
+      "start_time": 1832,
+      "end_time": 1870,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, for me virtuosity is defined ... When I stand and cheer for her, as much as anyone else, but I really related to, and loved, get your 6:00 on. And I thought, wow. That goes back to, for me, that was part of the aesthetic that I grew up in. Hearing those gospel singers in church who could belt it out. I go to a Broadway show, and I'm like, \"You gotta belt it out.\" See, in the Ailey company, at music center here, maybe three years ago, I couldn't believe how they had redefined virtuosity. And I think that's part of, for me, a Black aesthetic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "5023720a-c35c-46c2-9bb4-06543750a19c"
+    },
+    {
+      "start_time": 1870,
+      "end_time": 1892,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I realized in seeing IABD, and seeing Ailey, I thought, \"Oh, that's what I've been doing all along.\" How to fit virtuosity within, for me, a frame that allows for comment, and for boundary pushing. Because I would consider my work to be fairly experimental. I'm giving you some long answers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "a223edf1-1782-414d-8883-f0877975fdaa"
+    },
+    {
+      "start_time": 1892,
+      "end_time": 1893,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's good. Because you know I'm a just ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "c0fecd1b-029f-40d3-9b9a-d0e5f03030ab"
+    },
+    {
+      "start_time": 1893,
+      "end_time": 1893,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "40c52422-0fad-4c44-b5d1-289be56273b2"
+    },
+    {
+      "start_time": 1893,
+      "end_time": 1893,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'd be very disappointed if we [crosstalk 00:31:39]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 5",
+          "category": "People"
+        }
+      ],
+      "uuid": "27490f10-5658-44c7-99fe-cc030fa11c96"
+    },
+    {
+      "start_time": 1893,
+      "end_time": 1893,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. A reset?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 4",
+          "category": "People"
+        }
+      ],
+      "uuid": "e910a601-9486-41c1-a85f-8253ba9c3593"
+    },
+    {
+      "start_time": 1893,
+      "end_time": 1901,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, reset."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "8c0db255-da85-4b63-aacf-e44a06473dd0"
+    },
+    {
+      "start_time": 1901,
+      "end_time": 1902,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, sorry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 4",
+          "category": "People"
+        }
+      ],
+      "uuid": "6fe4447b-76f0-4988-85bb-adfdbf6b27d1"
+    },
+    {
+      "start_time": 1902,
+      "end_time": 1906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you want a chair?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "d63fee0f-c924-471e-91d4-de1792f9f53a"
+    },
+    {
+      "start_time": 1906,
+      "end_time": 1923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you feel ... Like you said, you've been making that all along. Are there any significant shifts that you can track in your own work? Like what you move more towards, or away from? Or found more intriguing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "5d58356b-53d8-4665-90b6-ef36e841bd86"
+    },
+    {
+      "start_time": 1923,
+      "end_time": 1978,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. That's funny. I was thinking about my own work, and the different phases of my work. And I would say that I'll try to be concise, but I would say early on, I was doing really ... at the very beginning of my career, I was doing really in your face edge of prop work. Really shake 'em up, spit 'em out, wake up. And then I was also in the 80s, a member of a group called ActUp, Age Coalition to Unleash Power. We took over Grand Central one day, and it was really empowering, but the commuters, as I would've been, were really pissed off about ... they couldn't catch their trains home, which unfortunately was what we were doing. Stopping the whole Metro system."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "1367f7f4-d041-410e-b7b6-ca5745146331"
+    },
+    {
+      "start_time": 1978,
+      "end_time": 2012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it was to draw attention to the AIDS pandemic. I mention that because I saw an almost fist fight break out between this suburban white commuter and this young, queer white radical person in ActUp. And I thought, \"Wow, if the commuter ...\" What's missing is the empathy. You can hold up a pole with the millions who are infected and dying, a sign saying that, but until you get people to realize on the level of the heart, what's happening, you'll never have any effect."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "a66a8450-bfcd-4784-ac0f-6cf5a064ee9b"
+    },
+    {
+      "start_time": 2012,
+      "end_time": 2048,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I mention that because at that moment, which set the course for the next couple decades for my career, I realize that's my purpose. I need to switch from shouting in people's faces, to shouting in people's faces but getting them to realize our shared humanity, and getting them to illicit a little bit of empathy in the moment, which is the basis for what our piece together. Jumping the broom. So, that has been a very long shift, that my work has not shied away from. Not comparing myself to Tony Morrison, but she's the person I idolized."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "a083b022-4aa5-4bac-a434-35f92206a7b9"
+    },
+    {
+      "start_time": 2048,
+      "end_time": 2086,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's always just grit and violence, and she does not shy away from the nitty gritty life of whether it's slavery or contemporary life as a person of color in America. But you also recognize this more spiritual dimension that she also writes. And that's been kind of my motto. I'm working on a new piece, and what I'm realizing is it's interesting to me, because literally it's about Billy Strayhorn, who was Duke Ellington's right hand, main collaborator for most of his body of work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "fe2b8b8c-b0fd-4873-a55e-c6d3eb0ac323"
+    },
+    {
+      "start_time": 2086,
+      "end_time": 2128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And to make a long story short, I recognize wow, this is the first piece that's filled with dance, this is more dance than any piece I've ever made. It's a very bittersweet piece. Billy Strayhorn was never given his due, legally or in terms of public praise. But it's the first piece I ever made where there's no murder, rape, death, there are no white people in the piece, and yet it feels very political to me. And what I realized was it feels like it's a throwback actually to when I grew up in the civil rights movement. There's so much joy in this piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "8e7afc16-2004-475a-9dfb-00ca1dfe4340"
+    },
+    {
+      "start_time": 2128,
+      "end_time": 2172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And again, it's a bittersweet piece. It deals a lot with the 60s civil rights movement. But part of the piece I came to realize is there's also a lately a shift for me that being adamant about joy when actually what I realized was that's the first thing we had to do in the 1960s was to dance around my Grandma's room to Motown. That's a way of asserting your humanity. And so, in the face of a piece that seems less political, it actually feels more. I'm saying a bunch of people of color and non color, throwing down the roof and celebrating joy before taking on these harder issues has never felt more important."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "d9c0bf41-9bcc-4a6e-a527-847fc3bd6b8f"
+    },
+    {
+      "start_time": 2172,
+      "end_time": 2178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, that's the politics of the work, and the subversiveness of the work has shifted to a different statement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "f3762dea-1c21-425f-9930-adca8fcd3646"
+    },
+    {
+      "start_time": 2178,
+      "end_time": 2183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I actually think that's happening a lot. I'm seeing more about-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "b33cf7a5-8707-483c-90d6-483d1ad782ff"
+    },
+    {
+      "start_time": 2183,
+      "end_time": 2185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am too, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "45058342-f96a-4c5f-bee1-ead6569b8803"
+    },
+    {
+      "start_time": 2185,
+      "end_time": 2204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And resilience, and knowing that in and of itself is also a political act in the sense of we don't have to just focus on yes, we continue to do the work, but there's also a joy and celebration is a part of it as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "027ab654-5bd8-4588-808d-2b1b169c6b32"
+    },
+    {
+      "start_time": 2204,
+      "end_time": 2211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Exactly. And that feels like a field wide movement."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "ef6090d7-4a0e-42b7-bbb3-5b0c3bda3473"
+    },
+    {
+      "start_time": 2211,
+      "end_time": 2219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, how has it been being in academia? Shifting from ... How long have you been here now?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "6d1a5f05-bce0-45f2-8def-251a58b41abf"
+    },
+    {
+      "start_time": 2219,
+      "end_time": 2252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I came here in 1996 from New York, and then I kept my company in New York until 2006. So, I was literally ... I know, because I took a lot of leaves, and I'm paying for it now with my pension, but I know that I was literally on the clock half time, to the first 10 years, and since 2006 I've been here full time. And I would say that I will always have a love hate relationship with academia always. And I recognize what it can do and what it can not do. It'll always be love hate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "03558695-8359-44ec-a00a-8c4e3b905ffd"
+    },
+    {
+      "start_time": 2252,
+      "end_time": 2295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's ironic to say, because I was a dean in academia, and I think that probably everything about why I did the dean thing, and how it ended up says everything about how I feel about academia in that I did it more ... It just seemed like I had just finished doing a major piece. Academia now has all of these working artists. You have to put working in there. We've always got a lot of artists, not that many working artists. Major in dance. In fact, most of the major artists I know are in academia, and I have no shade about being academia or staying within the field, or both."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "75188d4d-580a-4139-ae14-f2f5cafbb294"
+    },
+    {
+      "start_time": 2295,
+      "end_time": 2327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But there's no one at the really higher levels, representing the needs and demands of working artists. And so, within my own department, we have all the choreographers are continuing to work. The art department here is unheard of. In the history of art, I would go so far as to say, in terms of the names that are represented from Barbara [Krueger 00:38:40], to Kathy [Opie 00:38:41], on down the line. I mean, it's astonishing. But there's never been someone representing these people at the chancellors level."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "024bc9eb-91b5-47aa-9792-628e7e1cf973"
+    },
+    {
+      "start_time": 2327,
+      "end_time": 2374,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, that's mostly why I did it. And it went incredibly well. Just incredibly well, and the chancellor and the provost were incredibly generous, and supportive, and everyone thought is there anything we can do to get you to stay? And I mention all this because I'd be ... if this were art making, I'd be too embarrassed to say, \"It went so well\", because it's not where I have any identity, or sense of accomplishment. And because it was about not myself. It was about the feel that I mentioned it went well. Because what I was able to say is, \"Thank you, thank you, thank you\", it's actually really tempting to apply. I'd have to join the pool and apply. As a public school you can't just take a position."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "27fd3dfc-480c-4e1a-8681-0c0b8fe5fc12"
+    },
+    {
+      "start_time": 2374,
+      "end_time": 2406,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I was able to say, \"No, that's not where I am in my life\", because I can't be a working artist and a dean. That's what I've come to realize, and secondly, more importantly, the whole point and the way that I'm so happy that you're saying it went well, I want you to know the reason it went well, and everything you've cited around what I've brought to the table, is because I'm an artist. Oh my God, David, you have such vision. Oh my gosh, you work so well with budgets. Oh my gosh, you know how to ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "149a2ac6-e587-416f-a3be-e55bd4dc9cbd"
+    },
+    {
+      "start_time": 2406,
+      "end_time": 2435,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There were courses on how to collaborate. I'm thinking, excuse me? I've never made a piece, and then I had to figure out how to collaborate. If I'm not staying with the budget as an artist, it's coming out of my pocket, so you learn how to stay within a budget. And you learn how to have vision and go, \"Where am I gonna get ...\" I mean, my latest piece is like in the low six figures, but what? When the biggest grant is National Dash Project at like $40 000?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "79008c69-a1c7-4742-a597-9dc4e7255674"
+    },
+    {
+      "start_time": 2435,
+      "end_time": 2466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, you constantly think big and figure out how to pay for it. And no artist in their right mind would start off ... we're all based in vision. That's the start of things. Until I was able to say, \"Here's what's missing in academia\", it's the things that artists are bringing. So, thank you for acknowledging that that's what I'm bringing. It's not where it belongs in my life, but you're acknowledging what academia could perhaps respect an artist more. I don't have any short answers. Sorry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "8a7169cc-729d-4426-acad-94d6063c1f40"
+    },
+    {
+      "start_time": 2466,
+      "end_time": 2497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I also think ... Would you say that's also true ... I'd like to say that I think artists are gonna be the ones to sort of save the world. Like, you know, we talk about art is more. But I see artists as activists, and artists as being able to bring all of those things to our communities, that sometimes people don't necessarily look to the artist. They think of this thing that happens on stage, but there's also these ways that we're in our communities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "5559fae3-b655-4411-a7e6-5a5c86019184"
+    },
+    {
+      "start_time": 2497,
+      "end_time": 2536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. And I can tell you there's intellectual, then the artistic. I can't tell you the number of times ... I can't believe ... Well, I can't believe you didn't backfire even more. The number of times I would send out emails to everyone in the school, and have to qualify it by saying, \"I'm speaking to you as dean\", because you can't take a political stand. \"And now, as an artist and a private citizen, I'm gonna tell you what I think about Hillary Clinton's loss.\" Or, \"I'm gonna tell you what I feel about this gentleman whose name I won't use, coming into our territory.\" But I always had to represent university with a ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "2d291489-648d-427d-994f-f40e7fb88767"
+    },
+    {
+      "start_time": 2536,
+      "end_time": 2566,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Understandably. That's what you agree for when you sign up. And what I will say though that I noticed, that was missing, is ... So, the same way that representing a dean and being Black and queer, and with no graduate degree ... I don't have an MFA. Or a Ph ... People would go, \"Dr. Rousseve.\" I'm like, you so off the money. Not only is it not Dr. Rousseve, it's not even MFA Rousseve. It's BA Rousseve."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "c3770156-84d7-4a71-8092-3bca3173bcd1"
+    },
+    {
+      "start_time": 2566,
+      "end_time": 2611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, in the same way, just being in the role was subversive, you can project that to just being an artist in this day and aga is a subversive act. Looking at when it's very clear that our current president's trying to get rid of the national endowment, and that the cultural forces are leading us into ways of thinking, being and doing that aren't necessarily the ones that aren't making ... There are forces that are limiting empathy right at a point when art making is trying to expand it. And not to sound like a Macintosh Apple commercial, but think different is what artists are doing. And I think, think different is not what the mainstream culture is rewarding in this day and age."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "70153538-e9b3-4f88-be32-8866755397bf"
+    },
+    {
+      "start_time": 2611,
+      "end_time": 2637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, even artists who say, \"I don't make political work\", living your life as an artist and insisting on a different ... on the path less, the road less traveled, is downright subversive. So, I think the act of being an artist is subversive, and for me, often the content of the work is also subversive."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "5ab5510e-7823-48c4-9a1d-9eedffc03496"
+    },
+    {
+      "start_time": 2637,
+      "end_time": 2647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Last question. What do you like to do on a day off? Do you have any of those? Is there ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "862a05cd-e373-4efc-87a4-4bfd7e54b63e"
+    },
+    {
+      "start_time": 2647,
+      "end_time": 2704,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On a day off, well lately ... because this is just the reality of not being ... because I've grown into an anxious, paranoid, African American queen, I have had to ... Insomniac. I have had to amp up my meditation practice. So, on time off I try to sit quietly, and stop watching Rachel Maddow, and CNN. It has become ... My leisure time used to be filled with that, and now it's like, I'll go light some incense and sit alone. That's become a necessity. And on top of that, I would say I like to go to movies. Most of them performance, because performance I have to think a bit too much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "4c062c05-06be-4ced-9cb3-0641612bf317"
+    },
+    {
+      "start_time": 2704,
+      "end_time": 2755,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, sometimes ... And I watch the trashiest of TV. I should mention that I watch Housewives on Bravo, because it is humiliating. I admit it. I admit it. But that's about the level that I can absorb, and then I watch movies, from art film to low rent, and so for example, I cannot stop talking about Black Panther, which I think was the cultural moment that they said it was. But also a major milestone in filmmaking in general. The intersection between subtlety, in your face, art making, ambiguity, with big budget films in general, but also for African American film."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "db2333ca-d5ab-4939-9b86-e127d1b96589"
+    },
+    {
+      "start_time": 2755,
+      "end_time": 2775,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My world has been rocked. So, yeah. Mostly I go sit in films. That's probably how I spend ... I have to say as much as I go to art films. I have to say sometimes. Mostly it's commercial filmmaking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "6a0bd46a-ce52-4d4f-ae86-ab66fde7bb7a"
+    },
+    {
+      "start_time": 2775,
+      "end_time": 2777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cool. Yeah, I haven't seen it yet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "c0adbd64-b19f-48d3-9a4e-baf8e3e9f18c"
+    },
+    {
+      "start_time": 2777,
+      "end_time": 2789,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible 00:46:18]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "0c6480ad-ded6-42db-b2b0-22669d5f884a"
+    },
+    {
+      "start_time": 2789,
+      "end_time": 2789,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To rehearsal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "c0c53803-b966-49d7-82f9-df90df94a957"
+    },
+    {
+      "start_time": 2789,
+      "end_time": 2790,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You need to warm up, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        }
+      ],
+      "uuid": "1765851e-e585-4a5a-a110-c8531ca56f2e"
+    }
+  ],
   "set": "Default",
   "event_id": "6a51341b-8f6b-4ee6-aa43-b0d012dce40f",
   "source_id": "4be35196-f594-4f6b-a7c7-ba00bcf5deb3"
