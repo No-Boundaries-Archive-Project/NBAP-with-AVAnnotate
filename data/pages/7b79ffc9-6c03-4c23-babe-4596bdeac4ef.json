@@ -4,11 +4,12 @@
   "created_by": "DataMuseology",
   "title": "2015 Jaamil Olawale Kosoko Interview",
   "slug": "2015-jaamil-olawale-kosoko-interview",
-  "updated_at": "2026-03-01T19:45:07.721Z",
+  "updated_at": "2026-03-01T19:49:07.288Z",
   "updated_by": "DataMuseology",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "356d7118-e51e-44cf-8516-52cd2e04eebd"
-  }
+  },
+  "parent": "bf834d68-7062-4d4e-aa5e-151a4f7de8de"
 }
