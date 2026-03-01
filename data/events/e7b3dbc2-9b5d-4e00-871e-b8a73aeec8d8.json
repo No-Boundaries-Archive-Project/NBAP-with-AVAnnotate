@@ -31,6 +31,30 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Annotated by:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mackenzie Peacock "
+        }
+      ]
     }
   ],
   "citation": "",
@@ -41,6 +65,6 @@
   "rights_statement": "https://rightsstatements.org/vocab/InC/1.0/",
   "created_at": "2026-03-01T19:13:59.795Z",
   "created_by": "DataMuseology",
-  "updated_at": "2026-03-01T19:13:59.795Z",
+  "updated_at": "2026-03-01T19:23:15.698Z",
   "updated_by": "DataMuseology"
 }
