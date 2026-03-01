@@ -4,11 +4,12 @@
   "created_by": "DataMuseology",
   "title": "2018 Jumping the Broom Performance",
   "slug": "2018-jumping-the-broom-performance",
-  "updated_at": "2026-03-01T20:36:13.004Z",
+  "updated_at": "2026-03-01T20:48:20.461Z",
   "updated_by": "DataMuseology",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "a0a91283-518c-421c-ad9c-ea83c03a96d8"
-  }
+  },
+  "parent": "df3089b7-14b7-4502-8157-de56be6e2bcb"
 }
