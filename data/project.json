@@ -28,19 +28,139 @@
     "authors": "Jessika Davis, Olivia Townsend, Makenzie Peacock, Nora Borre, Gesel Mason",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [
-      {
-        "login_name": "tanyaclement",
-        "avatar_url": "https://avatars.githubusercontent.com/u/1213771?v=4",
-        "admin": false
-      }
-    ],
+    "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "People",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Description",
+          "color": "#ADFEFF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Crew",
+          "category": "People"
+        },
+        {
+          "tag": "Daniel Beahm",
+          "category": "People"
+        },
+        {
+          "tag": "Dave",
+          "category": "People"
+        },
+        {
+          "tag": "Description",
+          "category": "Description"
+        },
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        },
+        {
+          "tag": "Jaamil Kosoko",
+          "category": "People"
+        },
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        },
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        },
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        },
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        },
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        },
+        {
+          "tag": "Speaker 4",
+          "category": "People"
+        },
+        {
+          "tag": "Speaker 5",
+          "category": "People"
+        },
+        {
+          "tag": "Thomas DeFrantz",
+          "category": "People"
+        },
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        },
+        {
+          "tag": "David RoussÃ¨ve",
+          "category": "People"
+        },
+        {
+          "tag": "Speaker 7",
+          "category": "People"
+        },
+        {
+          "tag": "Unknown",
+          "category": "People"
+        },
+        {
+          "tag": "Girl",
+          "category": "People"
+        },
+        {
+          "tag": "Male",
+          "category": "People"
+        },
+        {
+          "tag": "Donald McKayle",
+          "category": "People"
+        },
+        {
+          "tag": "Azmin",
+          "category": "People"
+        },
+        {
+          "tag": "Jawole Willa Jo Zollar",
+          "category": "People"
+        },
+        {
+          "tag": "Transcript",
+          "category": "Description"
+        },
+        {
+          "tag": "3rd Speaker",
+          "category": "People"
+        },
+        {
+          "tag": "Audio",
+          "category": "Description"
+        },
+        {
+          "tag": "Camera Operator",
+          "category": "People"
+        },
+        {
+          "tag": "Taisha Paggett",
+          "category": "People"
+        },
+        {
+          "tag": "Credits",
+          "category": "Description"
+        }
+      ]
     },
     "created_at": "2025-10-05T19:49:11.422Z",
-    "updated_at": "2026-03-01T18:37:26.610Z",
+    "updated_at": "2026-03-01T18:40:51.212Z",
     "generate_pages_site": true
   },
   "annotations": {},
