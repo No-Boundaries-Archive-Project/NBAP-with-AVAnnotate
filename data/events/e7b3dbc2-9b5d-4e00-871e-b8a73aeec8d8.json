@@ -16,7 +16,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "You can access the full archival item at: “Interview with Gesel Mason 2014”. (2014). No Boundaries Archive. "
+          "text": "You can access the full archival item at: “Interview with Gesel Mason 2014”. (2014). "
+        },
+        {
+          "text": "No Boundaries Archive",
+          "italic": true
+        },
+        {
+          "text": ". "
         },
         {
           "type": "link",
@@ -65,6 +72,6 @@
   "rights_statement": "https://rightsstatements.org/vocab/InC/1.0/",
   "created_at": "2026-03-01T19:13:59.795Z",
   "created_by": "DataMuseology",
-  "updated_at": "2026-03-01T19:23:15.698Z",
+  "updated_at": "2026-03-01T20:21:52.889Z",
   "updated_by": "DataMuseology"
 }
