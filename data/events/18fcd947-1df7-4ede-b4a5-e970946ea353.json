@@ -20,17 +20,14 @@
         },
         {
           "text": "No Boundaries Archive",
-          "bold": true
+          "italic": true
         },
         {
-          "text": " to see the full item page here: "
+          "text": " to see the full item page "
         },
         {
-          "text": "https://noboundariesarchive.com/Detail/objects/15",
-          "link": "https://noboundariesarchive.com/Detail/objects/15"
-        },
-        {
-          "text": "  "
+          "text": "here.",
+          "link": "https://noboundariesarchive.com/Detail/objects/15 "
         }
       ]
     },
@@ -67,6 +64,6 @@
   "rights_statement": "https://rightsstatements.org/vocab/InC-NC/1.0/",
   "created_at": "2026-01-19T21:50:18.618Z",
   "created_by": "DataMuseology",
-  "updated_at": "2026-03-01T05:44:07.017Z",
+  "updated_at": "2026-03-01T05:45:02.133Z",
   "updated_by": "townsendolivia2"
 }
