@@ -4,11 +4,12 @@
   "created_by": "DataMuseology",
   "title": "2018 Donald McKayle Interview",
   "slug": "2018-donald-mckayle-interview",
-  "updated_at": "2026-03-01T19:33:34.373Z",
+  "updated_at": "2026-03-01T19:37:18.656Z",
   "updated_by": "DataMuseology",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "e1051c07-12b0-4f3d-805b-a90d65008b31"
-  }
+  },
+  "parent": "bf834d68-7062-4d4e-aa5e-151a4f7de8de"
 }
