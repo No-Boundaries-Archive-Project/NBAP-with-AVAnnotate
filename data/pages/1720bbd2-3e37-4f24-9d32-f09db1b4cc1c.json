@@ -4,11 +4,12 @@
   "created_by": "DataMuseology",
   "title": "2014 Gesel Mason Interview",
   "slug": "2014-gesel-mason-interview",
-  "updated_at": "2026-03-01T19:14:00.084Z",
+  "updated_at": "2026-03-01T19:15:55.468Z",
   "updated_by": "DataMuseology",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "e7b3dbc2-9b5d-4e00-871e-b8a73aeec8d8"
-  }
+  },
+  "parent": "bf834d68-7062-4d4e-aa5e-151a4f7de8de"
 }
