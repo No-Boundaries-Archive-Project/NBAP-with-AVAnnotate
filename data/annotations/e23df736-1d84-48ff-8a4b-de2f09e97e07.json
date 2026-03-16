@@ -3848,12 +3848,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "David Roussève"
-        },
-        {
           "tag": "Transcript",
           "category": "Description"
+        },
+        {
+          "category": "People",
+          "tag": "David Roussève"
         }
       ],
       "uuid": "94cbb532-c3cd-43b4-9ead-cf8cd0e38600"
