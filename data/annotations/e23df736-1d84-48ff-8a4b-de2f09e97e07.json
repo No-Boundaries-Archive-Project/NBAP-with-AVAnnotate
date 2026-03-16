@@ -3360,16 +3360,16 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "David Roussève"
-        },
-        {
           "tag": "Gesel Mason",
           "category": "People"
         },
         {
           "tag": "Transcript",
           "category": "Description"
+        },
+        {
+          "category": "People",
+          "tag": "David Roussève"
         }
       ],
       "uuid": "91ede105-9060-4e8a-80b5-e670b0ecd954"
