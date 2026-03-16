@@ -2401,12 +2401,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "David Rousseve"
-        },
-        {
           "tag": "Transcript",
           "category": "Description"
+        },
+        {
+          "category": "People",
+          "tag": "David Roussève"
         }
       ],
       "uuid": "52506de2-02c8-4ac4-ab83-44df5f5252a1"
