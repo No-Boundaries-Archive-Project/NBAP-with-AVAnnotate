@@ -2501,16 +2501,16 @@
           "category": "People"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "David Roussève"
-        },
-        {
           "tag": "3rd Speaker",
           "category": "People"
         },
         {
           "tag": "Transcript",
           "category": "Description"
+        },
+        {
+          "category": "People",
+          "tag": "David Roussève"
         }
       ],
       "uuid": "a26724aa-0dc4-4242-b4b9-439e508ce386"
