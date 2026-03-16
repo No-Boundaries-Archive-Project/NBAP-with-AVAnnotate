@@ -2810,19 +2810,19 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "âoff the syllables a bit."
+              "text": "-off the syllables a bit."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "David Roussève"
-        },
-        {
           "tag": "Transcript",
           "category": "Description"
+        },
+        {
+          "category": "People",
+          "tag": "David Roussève"
         }
       ],
       "uuid": "df553c18-2f3f-4e63-b347-56844b5c4eaf"
