@@ -4403,12 +4403,12 @@
           "category": "People"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "David Roussève"
-        },
-        {
           "tag": "Transcript",
           "category": "Description"
+        },
+        {
+          "category": "People",
+          "tag": "David Roussève"
         }
       ],
       "uuid": "f0198c39-3389-471a-baf4-ae224d142c22"
