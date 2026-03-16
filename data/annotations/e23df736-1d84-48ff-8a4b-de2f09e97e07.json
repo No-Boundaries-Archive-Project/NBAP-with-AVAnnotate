@@ -111,12 +111,12 @@
           "category": "People"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "David Roussève"
-        },
-        {
           "tag": "Transcript",
           "category": "Description"
+        },
+        {
+          "category": "People",
+          "tag": "David Roussève"
         }
       ],
       "uuid": "a001b039-a2df-45f3-a934-66c58a076105"
