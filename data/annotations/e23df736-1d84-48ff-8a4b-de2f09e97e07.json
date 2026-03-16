@@ -4299,12 +4299,12 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "David Roussève"
-        },
-        {
           "tag": "Transcript",
           "category": "Description"
+        },
+        {
+          "category": "People",
+          "tag": "David Roussève"
         }
       ],
       "uuid": "02762812-9b47-40f2-976e-f7c03924d0dc"
