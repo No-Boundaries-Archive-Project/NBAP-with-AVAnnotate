@@ -2559,10 +2559,6 @@
           "category": "People"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "David Roussève"
-        },
-        {
           "tag": "3rd Speaker",
           "category": "People"
         },
@@ -2573,6 +2569,10 @@
         {
           "tag": "Transcript",
           "category": "Description"
+        },
+        {
+          "category": "People",
+          "tag": "David Roussève"
         }
       ],
       "uuid": "9a9bd190-0f8a-461e-a499-b15ced5a2495"
