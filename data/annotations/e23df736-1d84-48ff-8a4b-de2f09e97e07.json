@@ -2056,19 +2056,19 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Um, Gesel, that first sentâuh, start that one off really kind of informally. Justâ"
+              "text": "Um, Gesel, that first sent-uh, start that one off really kind of informally. Just-"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "David Roussève"
-        },
-        {
           "tag": "Transcript",
           "category": "Description"
+        },
+        {
+          "category": "People",
+          "tag": "David Roussève"
         }
       ],
       "uuid": "1c995362-d40f-4bbd-8ed0-477da72f188a"
