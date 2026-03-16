@@ -3702,16 +3702,16 @@
           "category": "People"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "David Roussève"
-        },
-        {
           "tag": "Taisha Paggett",
           "category": "People"
         },
         {
           "tag": "Transcript",
           "category": "Description"
+        },
+        {
+          "category": "People",
+          "tag": "David Roussève"
         }
       ],
       "uuid": "5a4ee22a-565e-441a-aa71-f1ba94e9d69a"
