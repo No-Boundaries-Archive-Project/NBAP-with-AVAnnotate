@@ -28,7 +28,13 @@
     "authors": "Gesel Mason, Olivia Townsend, Jessika Davis, Makenzie Peacock, Nora Borre",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "townsendolivia2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/221790091?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -168,7 +174,7 @@
       ]
     },
     "created_at": "2025-10-05T19:49:11.422Z",
-    "updated_at": "2026-03-22T19:42:15.518Z",
+    "updated_at": "2026-03-22T19:43:40.925Z",
     "generate_pages_site": true
   },
   "annotations": {},
