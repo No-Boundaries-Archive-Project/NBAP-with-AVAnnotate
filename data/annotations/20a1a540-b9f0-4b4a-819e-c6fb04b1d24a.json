@@ -1,5 +1,31 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "test"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "David RoussÃ¨ve"
+        },
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "656d1470-84f4-4210-a8b3-030e8c71aae9"
+    }
+  ],
   "event_id": "e5aa3872-171e-4e51-81bc-9f75961916c9",
   "set": "test 3",
   "source_id": "0e38abdc-75c7-49ef-9010-9e35e072ccb5"
