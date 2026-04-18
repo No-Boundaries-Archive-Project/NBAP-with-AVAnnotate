@@ -12,14 +12,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[Page content in progress] Annotations of interviews between Gesel Mason and the choreographers she worked with in the "
+          "text": "An annotated collection of interviews between Gesel Mason and the choreographers she worked with on "
         },
         {
-          "text": "No Boundaries",
+          "text": "No Boundaries Archive Project",
+          "italic": true,
           "link": "https://noboundariesarchive.com/About/ourstory_html"
         },
         {
-          "text": " Project. "
+          "text": "."
         }
       ]
     },
@@ -83,6 +84,6 @@
   "slug": "interviews",
   "created_at": "2026-01-19T21:27:23.146Z",
   "created_by": "DataMuseology",
-  "updated_at": "2026-03-16T02:55:40.890Z",
-  "updated_by": "DataMuseology"
+  "updated_at": "2026-04-18T20:25:19.359Z",
+  "updated_by": "townsendolivia2"
 }
