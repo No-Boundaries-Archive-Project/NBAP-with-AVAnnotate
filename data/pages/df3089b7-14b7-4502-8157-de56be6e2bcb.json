@@ -11,15 +11,7 @@
           "italic": true
         },
         {
-          "text": ", a choreographic work by David Roussève as performed by Gesel Mason. The project highlights two different annotation interpretations of the same dance performance and considers the choreographic work in rehearsal compared to the performance on a stage."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
+          "text": ", a choreographic work by David Roussève as performed by Gesel Mason. The collection highlights two different annotation interpretations of the same dance performance and considers the choreographic work in rehearsal compared to the performance on a stage."
         }
       ]
     },
@@ -34,7 +26,27 @@
               "link": "https://no-boundaries-archive-project.github.io/NBAP-with-AVAnnotate/events/2005-jumping-the-broom-rehearsal/"
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "An annotated video of Gesel Mason recording audio and rehearsing movement for "
         },
+        {
+          "text": "Jumping the Broom",
+          "italic": true
+        },
+        {
+          "text": " with David Roussève and Taisha Coates in 2005."
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
         {
           "type": "list-item",
           "children": [
@@ -43,6 +55,21 @@
               "link": "https://no-boundaries-archive-project.github.io/NBAP-with-AVAnnotate/events/2018-jumping-the-broom-performance/"
             }
           ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Two annotations of a video of Gesel Mason performing "
+        },
+        {
+          "text": "Jumping the Broom",
+          "italic": true
+        },
+        {
+          "text": " onstage in 2018."
         }
       ]
     }
@@ -56,6 +83,6 @@
   "slug": "jumping-the-broom",
   "created_at": "2025-12-18T23:10:21.415Z",
   "created_by": "DataMuseology",
-  "updated_at": "2026-04-18T17:38:30.019Z",
+  "updated_at": "2026-04-18T20:34:27.201Z",
   "updated_by": "townsendolivia2"
 }
