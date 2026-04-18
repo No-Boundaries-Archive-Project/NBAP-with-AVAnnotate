@@ -4,7 +4,31 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Experience the No Boundaries Archive Project through AVAnnotate, an application for creating, organizing, and publishing collections of annotations for audio and video resources, making these materials more accessible, searchable, and discoverable."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This collection brings together interviews and performance documentation from the No Boundaries Archive Project, organized through AVAnnotate to support layered viewing, annotation, and comparative analysis of choreographic works and artist perspectives."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
         }
       ]
     }
@@ -12,7 +36,7 @@
   "created_at": "2025-10-05T19:49:11.445Z",
   "created_by": "DataMuseology",
   "title": "NBAP with AVAnnotate",
-  "updated_at": "2026-04-18T17:42:38.144Z",
+  "updated_at": "2026-04-18T17:43:08.466Z",
   "updated_by": "townsendolivia2",
   "autogenerate": {
     "enabled": false,
