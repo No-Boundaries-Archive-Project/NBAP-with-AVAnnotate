@@ -35,10 +35,10 @@
   "created_by": "DataMuseology",
   "title": "2018 Jumping the Broom Performance",
   "slug": "2018-jumping-the-broom-performance",
-  "updated_at": "2026-04-18T16:15:22.543Z",
+  "updated_at": "2026-04-18T20:15:32.313Z",
   "updated_by": "townsendolivia2",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "a0a91283-518c-421c-ad9c-ea83c03a96d8"
   },
