@@ -35,10 +35,10 @@
   "created_by": "DataMuseology",
   "title": "2005 Jumping the Broom Rehearsal ",
   "slug": "2005-jumping-the-broom-rehearsal",
-  "updated_at": "2026-04-18T16:15:18.616Z",
+  "updated_at": "2026-04-18T20:15:27.703Z",
   "updated_by": "townsendolivia2",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "e5aa3872-171e-4e51-81bc-9f75961916c9"
   },
