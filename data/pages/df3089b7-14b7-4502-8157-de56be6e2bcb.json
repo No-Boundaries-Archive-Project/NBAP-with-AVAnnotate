@@ -4,7 +4,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[Page content in progress] An annotation study on the choreographic work \"Jumping the Broom\" by David Roussève as performed by Gesel Mason. The project highlights two different annotation interpretations of the same dance performance. Additionally it considers the choreographic work in rehearsal compared to the performance on a stage."
+          "text": "A collection of audiovisual artifacts and annotations for "
+        },
+        {
+          "text": "Jumping the Broom",
+          "italic": true
+        },
+        {
+          "text": ", a choreographic work by David Roussève as performed by Gesel Mason. The project highlights two different annotation interpretations of the same dance performance and considers the choreographic work in rehearsal compared to the performance on a stage."
         }
       ]
     },
@@ -49,6 +56,6 @@
   "slug": "jumping-the-broom",
   "created_at": "2025-12-18T23:10:21.415Z",
   "created_by": "DataMuseology",
-  "updated_at": "2026-03-16T02:46:57.769Z",
-  "updated_by": "DataMuseology"
+  "updated_at": "2026-04-18T17:25:56.722Z",
+  "updated_by": "townsendolivia2"
 }
