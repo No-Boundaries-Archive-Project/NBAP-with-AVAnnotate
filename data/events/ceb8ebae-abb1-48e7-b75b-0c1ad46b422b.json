@@ -1,0 +1,117 @@
+{
+  "audiovisual_files": {
+    "b11e8559-becf-42c6-922f-5c4787956846": {
+      "label": "2018 Kyle Abraham Interview",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://noboundariesarchive.com/media/collectiveaccess/quicktime/7/59048_ca_object_representations_media_726_original.m4v",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "You can access the full archival item at: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Full interview with Kyle Abraham 2018”. (2018, February 13). "
+        },
+        {
+          "text": "No Boundaries Archive",
+          "italic": true
+        },
+        {
+          "text": ". "
+        },
+        {
+          "type": "link",
+          "url": "https://noboundariesarchive.com/Detail/objects/735",
+          "children": [
+            {
+              "text": "https://noboundariesarchive.com/Detail/objects/670"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://noboundariesarchive.com/Detail/objects/735",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://noboundariesarchive.com/Detail/objects/735",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Annotated by:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mackenzie Peacock"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "2018 Kyle Abraham Interview",
+  "av_file_order": [
+    "b11e8559-becf-42c6-922f-5c4787956846"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC/1.0/",
+  "created_at": "2026-04-19T18:49:47.035Z",
+  "created_by": "DataMuseology",
+  "updated_at": "2026-04-19T18:49:47.035Z",
+  "updated_by": "DataMuseology"
+}
