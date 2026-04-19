@@ -1,0 +1,126 @@
+{
+  "audiovisual_files": {
+    "135fe3a2-f7ba-4edd-8905-83e1c6ce6b46": {
+      "label": "2015 Brenda Dixon Gottschild Interview (1 of 2)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://noboundariesarchive.com/media/collectiveaccess/quicktime/8/54345_ca_object_representations_media_804_original.m4v",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "30abb2a7-27f3-495f-899b-b2be8d6eb21b": {
+      "label": "2015 Brenda Dixon Gottschild Interview (2 of 2)",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://noboundariesarchive.com/media/collectiveaccess/quicktime/0/72759_ca_object_representations_media_13_original.m4v",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "You can access the full archival item at: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Interview with Brenda Dixon Gottschild 2015 1 of 2”. (2015, September 19). "
+        },
+        {
+          "text": "No Boundaries Archive",
+          "italic": true
+        },
+        {
+          "text": ". "
+        },
+        {
+          "type": "link",
+          "url": "https://noboundariesarchive.com/Detail/objects/735",
+          "children": [
+            {
+              "text": "https://noboundariesarchive.com/Detail/objects/13"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Interview with Brenda Dixon Gottschild 2015 2 of 2”. (2015, September 19). "
+        },
+        {
+          "text": "No Boundaries Archive",
+          "italic": true
+        },
+        {
+          "text": ". "
+        },
+        {
+          "type": "link",
+          "url": "https://noboundariesarchive.com/Detail/objects/735",
+          "children": [
+            {
+              "text": "https://noboundariesarchive.com/Detail/objects/14"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://noboundariesarchive.com/Detail/objects/735",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\nAnnotated by:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mackenzie Peacock"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "2015 Brenda Dixon Gottschild Interview",
+  "av_file_order": [
+    "135fe3a2-f7ba-4edd-8905-83e1c6ce6b46",
+    "30abb2a7-27f3-495f-899b-b2be8d6eb21b"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC/1.0/",
+  "created_at": "2026-04-19T18:26:57.722Z",
+  "created_by": "DataMuseology",
+  "updated_at": "2026-04-19T18:26:57.722Z",
+  "updated_by": "DataMuseology"
+}
