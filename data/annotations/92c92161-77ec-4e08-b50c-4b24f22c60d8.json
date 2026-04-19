@@ -1,5 +1,3618 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right. And we're rolling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "98897ada-3ab7-4b51-8bc4-50d4be4bc54b"
+    },
+    {
+      "start_time": 4,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And we're rolling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "bbe4033c-ea16-4f0c-a24e-4a974d5a4195"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So we can start with an introduction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "2fe853f9-eea5-4088-b41c-5bbac74db114"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "68f3296d-024d-473a-ba65-dc522043e591"
+    },
+    {
+      "start_time": 13,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. Kyle, will you please introduce yourself, sir."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "34647e19-c7cc-4b90-8d06-75840ce83a44"
+    },
+    {
+      "start_time": 15,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. Hi, I'm Kyle Abraham, artistic director of Abraham in Motion. I don't know what else you want me to add. I can say that again without the weird pause. But anything else you want me to add to that, or?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "972d0298-21c8-4739-94ae-298fc64dd7ca"
+    },
+    {
+      "start_time": 27,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you hear him okay?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "86b909b2-dd1e-48f6-a94c-6b82bb33d19d"
+    },
+    {
+      "start_time": 28,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, barely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "defcf440-c5e2-40dd-9e38-c9f9250822fb"
+    },
+    {
+      "start_time": 31,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can do as many takes as you want, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "b396e884-18fe-441e-9e24-5a105ab3a6ad"
+    },
+    {
+      "start_time": 32,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Barely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "4111ec16-b298-4bfd-8dac-78c8b0020743"
+    },
+    {
+      "start_time": 32,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you don't like it was any good [crosstalk 00:00:34]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "6e2b5e44-b909-4e80-a21b-fc8902f4e126"
+    },
+    {
+      "start_time": 32,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hmm?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "3c620ac0-8260-4918-bc29-6aa190060f05"
+    },
+    {
+      "start_time": 35,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, we do over, we do over all friggin' night."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "5b45fd64-af1e-453a-8c46-8ceea984938b"
+    },
+    {
+      "start_time": 37,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "55e565a9-6cf6-4e59-89d0-2c43054cd8e5"
+    },
+    {
+      "start_time": 37,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure, sure. I'll just do one more and then just ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "1eae6ca6-7e72-4c61-af41-02cc42a2806d"
+    },
+    {
+      "start_time": 39,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hi, I'm Kyle Abraham, artistic director of Abraham in Motion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "9b2a38f6-19ba-4aba-a31c-b9d07c7a9870"
+    },
+    {
+      "start_time": 46,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You want ... Oh, geez. Can you still see him? It said poor connection."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "8fffa949-cd8e-4647-916b-b6f18cd164be"
+    },
+    {
+      "start_time": 52,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can see him, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "1a68faaf-df5c-47bb-8a26-f7cf5e03974a"
+    },
+    {
+      "start_time": 53,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. You want him to smile or you want stoic?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "1f007c49-703b-4da3-9fe8-8a57491f2dd6"
+    },
+    {
+      "start_time": 62,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He can do whatever."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "9367c32f-581f-4d6c-bc90-7781e32447e6"
+    },
+    {
+      "start_time": 62,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We just going to have a conversation. It ain't all theater coordinated."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "735f4e99-3dd0-4aee-bbb1-f38b9a39bd39"
+    },
+    {
+      "start_time": 62,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "4490f0cb-9ae1-460f-a5c3-06149ffcf3fa"
+    },
+    {
+      "start_time": 65,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think for each question I should do 80's or 90's dance move."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "3eddb289-5651-4209-9742-8d3e580046cc"
+    },
+    {
+      "start_time": 69,
+      "end_time": 71,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By the end, he gonna be moon walking around here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "f4e0b80e-ba12-4231-822a-f5ca76d152e9"
+    },
+    {
+      "start_time": 71,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. So, I mean, I think, um ... Yeah, because ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "13dd9d09-84b0-4a9b-a56d-7fe7988445a9"
+    },
+    {
+      "start_time": 75,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That would be interesting. That would be good stuff happening."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "b466dd57-b6ea-49ab-b889-2633194e4003"
+    },
+    {
+      "start_time": 75,
+      "end_time": 79,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "5c3a3906-54ee-40de-b8ed-6d9b9b790038"
+    },
+    {
+      "start_time": 79,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. So we're rolling and we'll do this as you go along and then it'll be edited accordingly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "f5263dcd-c0ed-4cdc-9444-3208fc902f89"
+    },
+    {
+      "start_time": 87,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "cea395d3-16e2-44d5-b9bf-80ef4aa5e809"
+    },
+    {
+      "start_time": 89,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "24d512e1-eac7-4cb4-9fc4-504a7f184ded"
+    },
+    {
+      "start_time": 90,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I know that only ... How long have you had the company now?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "64485d1c-904f-4916-893f-559a9ad4e35b"
+    },
+    {
+      "start_time": 96,
+      "end_time": 126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. I started my company when I was in graduate school, kind of in my second year in grad school, so around 2005. But the company really started to shift in a really exciting way when we did our first evening length work, the radio show, which premiered in 2010, first in Pittsburgh at the Kelly Strayhorn Theater and then in New York at Danspace Project at St. Mark's Church."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "fa68466b-1b20-4821-bd56-9f2ce137ca7c"
+    },
+    {
+      "start_time": 126,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And ... So the first people ... Did you start it at SUNY?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "81ef7b50-a807-4797-9b7a-08fa430bad04"
+    },
+    {
+      "start_time": 133,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. The company started when I was in graduate school at NYU. My under graduate training was primarily at SUNY Purchase; that's where I got the majority of my dance training over those four years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "cd01c1eb-a27f-4e7b-8273-de9c0882f54b"
+    },
+    {
+      "start_time": 149,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how did you ... I think you and I may have talked about this a little bit, like ... SUNY Purchase is where I wanted to go to school, but they didn't give me enough money, right? So I went to Utah. But how, what was ... How did you end up at SUNY Purchase? You say that's where you got the bulk of your dance training."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "540de299-0ae9-42b8-91a1-4c30d417626e"
+    },
+    {
+      "start_time": 171,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But like was dancing in your family?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "a09f6e72-9b74-4e46-8ab2-930fb14c559d"
+    },
+    {
+      "start_time": 171,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yep."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "04268a5a-96b7-4c22-b91a-22441416df6d"
+    },
+    {
+      "start_time": 174,
+      "end_time": 178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "d69de49e-6bf0-42db-aaef-b55acc6ec138"
+    },
+    {
+      "start_time": 178,
+      "end_time": 260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I started dance really late and I was really surprised and excited to be accepted to Purchase. I had only danced for about a year-and-a-half prior to being accepted to the school. I was told upon auditioning that I needed a lot of technique and once I got into the school, I didn't have a scholarship but I was just really anxious and impassioned by the idea of being at a school that so many of the dancers that had studied or danced with Bill T. Jones in some capacity attended to Purchase, excuse me ... So many of those dancers attended Purchase. So I decided to apply to that school and yeah, as I was saying, I got in seemingly on like the skin of my teeth. But my family was always really supportive of that experience. Initially, they wanted me to go to a historically black college, so I went to Morgan State for a year in Baltimore. But they didn't really have much of a dance program at Morgan State, so I reached out to a good friend of mine that was studying the visual arts at Purchase and went to visit her and while I was there, I planned on auditioning for the school and I've never looked back."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "279f8624-8f7f-43f8-b6a1-39935ba144b3"
+    },
+    {
+      "start_time": 260,
+      "end_time": 265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you grow up in D.C.?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "f521d34e-6dd3-4053-a9eb-be53bd49c864"
+    },
+    {
+      "start_time": 265,
+      "end_time": 266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. I grew up in Pitts ... Excuse me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "30f13473-d257-4dfd-8e46-5fc53f23d22a"
+    },
+    {
+      "start_time": 266,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "df594f9f-2c07-43af-b3b7-2b95a4ff3146"
+    },
+    {
+      "start_time": 267,
+      "end_time": 311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I grew up in Pittsburgh, Pennsylvania and a lot of my work references my time in Pittsburgh. It's such a diverse city and in the most exciting of ways. It's a city where there's a lot of art and culture but in a way that is not really boastful but is just present. And I think that the presence of art in our community is, in some ways, reflected in the way that I like to kind of create conversations with the every day while blending these kind of like, these elements of things that are viewed as kind of high art with low art, or what have you. But just blending cultures and perspectives to make the work that I'm interested in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "ea702f65-78ef-434d-b0bb-bca63f3fda6c"
+    },
+    {
+      "start_time": 311,
+      "end_time": 316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what is the work that you're interested in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "f20d4953-0f6a-49da-9b6b-af303fd99077"
+    },
+    {
+      "start_time": 316,
+      "end_time": 322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. I'm interested in making ... I'll start that over."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "70670648-6f2e-44fc-aa27-d632b93bb62d"
+    },
+    {
+      "start_time": 322,
+      "end_time": 366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm interested in making all different types of work, really. I love work that has to do with society. Generally speaking, it's coming from my vantage point and my lens and my experience being that I'm the choreographer of the work. But I do like to kind of, at times, make work that can have an alternate perspective, work that raises questions and raises conversation. Sometimes I do wanna make something that's just pretty, but more times than not, I'm really interested in work that can kind of spark questions, passion, love, empathy, anger, just get people charged in some capacity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "b79c99da-c9f7-4659-b70f-c98e939a3d5d"
+    },
+    {
+      "start_time": 366,
+      "end_time": 379,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kyle, hold on right here. I'm wondering: is there any way to kill the shadow from his hands? It's sort of casting on him when he lifts his hands up. Or is that not-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "4dff3613-b0bb-4b7d-8c41-09d104076ab7"
+    },
+    {
+      "start_time": 379,
+      "end_time": 382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, I see. I can just, I can do it like here so it's not as much of a thing as it is up here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "e26f4182-d2bc-499a-a0d9-18c3ed388236"
+    },
+    {
+      "start_time": 382,
+      "end_time": 385,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I like it when you move your arms."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "b5c17c86-d3e8-4172-ade2-146dbd292bd2"
+    },
+    {
+      "start_time": 385,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. And I can bring it ... If I move them down here, there's less of a shadow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "86a24a47-a39a-4cae-bfd7-546078565479"
+    },
+    {
+      "start_time": 388,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Higher."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "e5ed44b0-5f1f-4e74-a7a2-67d394e219ed"
+    },
+    {
+      "start_time": 388,
+      "end_time": 392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Than like up here, you see a lot more shadow on the shirts."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "6d0c0e7e-2fc9-4c00-855e-5f6f8f820a9c"
+    },
+    {
+      "start_time": 392,
+      "end_time": 393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On [inaudible 00:06:33]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "49e2d0c5-49fa-4ee1-b16d-f4c7af5aeae0"
+    },
+    {
+      "start_time": 393,
+      "end_time": 396,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The fill's not the one that's guessing shots."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "d8f4a9af-be94-4fa2-9976-7b27de67f8ce"
+    },
+    {
+      "start_time": 396,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But that's the key. This is the key."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "ddde54d8-d2c5-41d2-af48-aec859e409fc"
+    },
+    {
+      "start_time": 23760,
+      "end_time": 396,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, no. No, no, no."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "276a424f-0a09-4c31-8ee1-7190b034518e"
+    },
+    {
+      "start_time": 401,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I'm wondering if we can actually counter it with this light."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "d163f8c1-b0a4-42b8-ad97-9dd4b5a0b6fd"
+    },
+    {
+      "start_time": 407,
+      "end_time": 408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You wanna turn it on?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "8e8202d0-8832-474d-b67e-78fe00fd9ae6"
+    },
+    {
+      "start_time": 408,
+      "end_time": 418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And see what happens if we turn it on. I'm sorry. It's just catching my eye. I mean, it's probably like really not a big deal, but there's a waving."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "3ff652da-c904-4642-93b9-f73d4e9c2511"
+    },
+    {
+      "start_time": 418,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A Harry Potter shadow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "a45c0212-e66e-4137-928a-21377a6e3c0e"
+    },
+    {
+      "start_time": 420,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, that blows him out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "da5e754e-0f29-41fa-a136-ce86fdc71d65"
+    },
+    {
+      "start_time": 420,
+      "end_time": 431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, yeah. Okay, nevermind. I like this better. It was just-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "07680517-b6f1-4019-98e9-f6d0cc70f461"
+    },
+    {
+      "start_time": 420,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There we go. I don't know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "b28d20fa-8fdc-4f74-96da-24e210c90045"
+    },
+    {
+      "start_time": 431,
+      "end_time": 437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think I can, I can ... I can still get a lot of hand movement in here and there's not as much shadow as it is if it's closer to my body."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "cd8d7b3b-ad2b-437e-b0c7-d00b52a7545c"
+    },
+    {
+      "start_time": 437,
+      "end_time": 437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible 00:07:18]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "befb226a-ca4f-4e16-b0da-ba1eeee16d71"
+    },
+    {
+      "start_time": 437,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't ... Actually, it doesn't even seem like as much shadowy now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "5671653a-f921-46da-a8b0-47e36d345b87"
+    },
+    {
+      "start_time": 440,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, it's not. It's just ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "09f33e0f-9d5e-457a-9334-3d938037fdfa"
+    },
+    {
+      "start_time": 440,
+      "end_time": 442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "a1272370-4301-4803-b2de-6695d0659ccd"
+    },
+    {
+      "start_time": 442,
+      "end_time": 446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, it's not. I mean, if we could, that's ... But, if not, it's not-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "8c387edf-ecbd-4374-9eed-5ae2bd12e710"
+    },
+    {
+      "start_time": 446,
+      "end_time": 450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I could probably raise that so his shadow gets cast a little lower."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "f6760585-f83d-45d5-9752-59a360f5a1c8"
+    },
+    {
+      "start_time": 450,
+      "end_time": 451,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I don't want to wash him out either, you know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "baf5f821-783b-445e-a516-7d1bc08f1940"
+    },
+    {
+      "start_time": 451,
+      "end_time": 462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, no, no, no. No, it's ... It could be a matter of the angle of the light. 'Cause usually both of 'em are canceling each other out-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "679bb64e-903b-41e2-afc6-219fef98b515"
+    },
+    {
+      "start_time": 462,
+      "end_time": 465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm gonna cut real quick."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "7d8258fa-8356-41b5-9eed-ceb58caccc44"
+    },
+    {
+      "start_time": 465,
+      "end_time": 466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "84fb626b-9a4d-43d9-a212-57e2aec6e951"
+    },
+    {
+      "start_time": 465,
+      "end_time": 465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera right now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "f6e29b92-3bfd-4cd7-90d7-27df0f4e924a"
+    },
+    {
+      "start_time": 466,
+      "end_time": 467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "fdf16b59-951e-4b04-9f77-455873869b90"
+    },
+    {
+      "start_time": 467,
+      "end_time": 467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're rolling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "3b7d53fa-4ff5-4759-9f17-5ec4f30ecf3f"
+    },
+    {
+      "start_time": 467,
+      "end_time": 468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "c1afb803-d7dc-4425-8ad8-a8986140e7b9"
+    },
+    {
+      "start_time": 468,
+      "end_time": 469,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. I think it moved when you pushed a button."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "7031cac8-9cca-4bdd-a7a2-32204e26360f"
+    },
+    {
+      "start_time": 469,
+      "end_time": 474,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm-hmm (affirmative). Oh, I'm moving it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "bf4e2c60-a485-4197-b2bf-461a5d0ebefd"
+    },
+    {
+      "start_time": 474,
+      "end_time": 477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. Okay, we good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "1d323ecf-cd6d-4cb0-8b80-5c5679a755a3"
+    },
+    {
+      "start_time": 477,
+      "end_time": 478,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I only-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "53540ea9-aaa6-4ff5-af0f-c5b41570c460"
+    },
+    {
+      "start_time": 478,
+      "end_time": 479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You said you were at Morgan State."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "b755044d-2cc0-4246-bdfa-8fe629e983bc"
+    },
+    {
+      "start_time": 479,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yep, I only went to Morgan State for a year. After that year is when I transferred to Purchase and I wound up doing four years at Purchase before, yeah, before I finished my BFA."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "6bca1a16-058d-40ea-acbe-2eab91204c32"
+    },
+    {
+      "start_time": 490,
+      "end_time": 506,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So what were like your influences then growing up? You know, I know we're both sort of in the hip hop era. I mean, what made you say, \"You know, I wanna do this dance thing\"? Like who does that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "95d9d6f3-faa3-4bf2-af3c-ed39e2e64f89"
+    },
+    {
+      "start_time": 506,
+      "end_time": 596,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. You know, I don't know. I think I always loved dance and dancing but in terms of like influences that led me to dance, I mean probably Prince and just social dance and just love of social dance. I was a big rave kid, so I think there's something about rave culture where ... There's something about rave culture where the music is so ... It's so spread in a way that you can take a lot of different ... You could go in a lot of different directions. So by the time I was kind of like diving into the rave scene and then also just improvising in my room, playing Prince or playing The Cranberries or The Smiths or whatever I was listening to, at a certain point, I started getting more and more investigative about different ways of moving. And so when I saw my first dance performance when I was 16, it really opened my eyes to a whole other world of dance that I just hadn't even thought about or considered. My bed was really big in my kind of seemingly small room, so there wasn't much space to dance in. I could sit there, I could play my cello, I could play different instruments in my room, but I couldn't actually do much dancing there. So I think that's kind of what got me to actually taking a dance class was knowing that I needed space to try and move as expressively as I wanted to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "db25a7b6-80a8-4872-b53c-3ef5af0578f8"
+    },
+    {
+      "start_time": 596,
+      "end_time": 601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I did not know that you played the cello."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "b4cd54b9-8426-4a4c-9239-7e5c212a0efc"
+    },
+    {
+      "start_time": 601,
+      "end_time": 602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me either."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "ac9225b6-ab69-443b-80f2-712588574d99"
+    },
+    {
+      "start_time": 602,
+      "end_time": 604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm-hmm (affirmative). For a long time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "3a14372f-7ec3-403b-991a-3000b4c3748b"
+    },
+    {
+      "start_time": 604,
+      "end_time": 607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When was ... When?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "90a5dc76-89f9-4fb6-b0e5-8ac46a76cfc4"
+    },
+    {
+      "start_time": 607,
+      "end_time": 662,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, I probably ... What grade did I start in? Maybe third grade. Yeah, probably third grade. I started ... First instrument I ever played was piano and then from piano I did cello, violin, but I went back to the cello 'cause I didn't like playing violin, then french horn, then chorus, then, yeah, just continued to play cello up until ... I think the last time I played was probably shortly after senior graduation from high school, playing at graduation and then I think was a blackout. I was playing while I was starting to learn dance but I think like studying dance and cello just became too much back and forth and my dance bag was a lot lighter than having a cello on my back, so it made it a lot easier."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "fdd2cf73-1f59-40d4-893e-3168b1dad7b2"
+    },
+    {
+      "start_time": 662,
+      "end_time": 667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yup. Did you do a piece with live cello like not that long ago? Did you-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "44e62f07-5294-4b9f-a7de-733946973815"
+    },
+    {
+      "start_time": 667,
+      "end_time": 668,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did I?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "dcd4e4ff-2cc0-484d-ad29-f55f6967f6e4"
+    },
+    {
+      "start_time": 668,
+      "end_time": 669,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "1bdea8ea-0a29-484a-b7a3-49c6604150ae"
+    },
+    {
+      "start_time": 669,
+      "end_time": 696,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The closest I've probably come in more recent years to working with a cello in a performance was when I did Restless Creature, performed with Restless Creature for Wendy Whelan's project. And when we did our Joy Season, we had all live music and a lot of the score was composed by a cellist. So you hear a lot of cello in that score. But other than that, not that I can think of, off-hand at least."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "b19b25f0-8bbc-4522-8345-9c496a89676f"
+    },
+    {
+      "start_time": 696,
+      "end_time": 700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was it like to work with Wendy Whelan?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "6a8e8a37-9c4a-4301-8d58-dc072c2d6836"
+    },
+    {
+      "start_time": 700,
+      "end_time": 765,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Working with Wendy was amazing. She was really open. She was open to whatever I wanted to throw at her. And I think the goal for me was to find a way to challenge her but also allow her to feel like she had some kind of ownership over what we were doing. So I wanted to also try to kind of let her live in my skin, so to speak. When I asked her what she wanted to get out of the collaboration, she said that she wanted to feel transformed. And I allowed that to be the impetus and inspiration behind the work. The duet that we made was called Circ, excuse me ... The duet that we made was called The Serpent and the Smoke and it kind of has this kind of transformative vibe to it. Even if it's like, in some ways, a mythical story that I created that I thought existed that didn't really exist. I think you get a sense of that when you're watching the duet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "5a64b375-039e-4efc-aa94-eff482121a36"
+    },
+    {
+      "start_time": 765,
+      "end_time": 768,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How would you describe your process?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "06d36930-f8ce-4c6e-8ca8-328a11492062"
+    },
+    {
+      "start_time": 768,
+      "end_time": 833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My process. Geez. I think it kind of depends on what day you're asking me and to the how I describe my process. At the moment, it can seem a bit scattered because the resources are coming from different ways and depending on who I'm working with, or which company, or which dancers, the way that I feel like diving in can really shift. So that's something I'm really starting to try to ... I don't think there's any one way for me to really create a work or to start developing a work. If I'm working with my company, the way in which we go about making a work shifts pretty much every single time we make something. Similarly, when I'm working with a company or an artist on a solo project or a duet or something, it's trying to get a sense of either how they move or what they like to do that hopefully shifts and/or helps generate something in the process."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "c02ed760-81b9-4c4c-8cae-c759bb2c00d4"
+    },
+    {
+      "start_time": 833,
+      "end_time": 844,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm gonna go back a little bit. It feels like a ... Would you say you have a strong relationship to music?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "0123f40f-6aec-4dfb-8294-3092cab2b638"
+    },
+    {
+      "start_time": 844,
+      "end_time": 882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. I think you could say I have a strong relationship to music. Music is my first love. It's part of, probably, the irony of me making a show for my company, this piece called Dearest Home, which the thought for me was to divorce myself from that first love in making a work that's rooted in love, longing and loss. So the dancers never hear any music, it wasn't choreographed to any music. So that was the experience. But generally speaking, I try to find some kind of sound score to be playing with, or some kind of playlist, that connects me to the artist that I'm collaborating with."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "10dc3c81-b896-41a5-8331-12a4a8ae6be9"
+    },
+    {
+      "start_time": 882,
+      "end_time": 887,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So in our work, how did you land on Nina?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "234aec74-3cf8-42db-9776-da9374fc2ccf"
+    },
+    {
+      "start_time": 887,
+      "end_time": 950,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I was trying to, for our work, I was trying to really figure out what the point of entry was sonically and story wise, et cetera, et cetera. And so I just kind of kept going back and forth in a couple different sounds and ideas. I was sending you a couple different videos of some solos that I'd made for either myself or a dancer in the company. And I think probably in some ways it was because I work a lot with my students here at UCLA, mentoring some of them. And one of them had been using a lot of Nina Simone and I'd gone to yoga class, one of my yoga classes, a couple nights before you were coming to town and my yoga teacher was playing some Nina and it just seemed right, it seemed like there was a nice ... There's something so beautiful and mature and heartbreaking and strong and distinctive about her voice that I thought could really compliment our collaboration."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "5d2da3ce-fe1a-4a44-b66c-e6dbd84426ef"
+    },
+    {
+      "start_time": 950,
+      "end_time": 958,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's leave it locked down for the next two questions and see what it does. Go ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "30cb39d0-547f-45dc-84b4-bc48b255e45a"
+    },
+    {
+      "start_time": 958,
+      "end_time": 961,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do we have a title for this piece?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "0688d51f-7a07-4af8-a332-05e111763281"
+    },
+    {
+      "start_time": 961,
+      "end_time": 971,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think there's a title. I don't know, I can ... I'll try and ask the dance gods for some title, but I got nothing right now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "9b4344c9-ce9f-4652-98d5-ebc76ae04d48"
+    },
+    {
+      "start_time": 971,
+      "end_time": 982,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wouldn't even worry about it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "6fa6751d-7f19-4eb2-810d-3b03d7cdf156"
+    },
+    {
+      "start_time": 982,
+      "end_time": 1005,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So one of the questions I have is about ... What does it mean to get ... What does it mean to have gotten the MacArthur? Were you like one of the, either the youngest, or one of the youngest people to ever get it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "f9ecb24b-eaab-4560-bd21-f46bafea304e"
+    },
+    {
+      "start_time": 1005,
+      "end_time": 1045,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. I mean getting the MacArthur Award was just a, kind of like, otherworldly experience, really emotional. I was in a place where it was hard for me to think about receiving accolade and I started immediately thinking of my father. I was thinking, \"Oh, you know, I'm so happy that I have this award, but so sad that he wasn't here to see that I will be okay.\" But aside from that, you know, it just ... It's been an award that's been a ... It's been a, excuse me. I'll start over."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "a115cd96-c9e9-4631-8b18-95b9ae63972f"
+    },
+    {
+      "start_time": 1045,
+      "end_time": 1131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Receiving the MacArthur has been something that really just, it really changed my life in a lot of ways. It allowed me to strip away and divorce myself from anything that seemed negative, or people that seemed negative. I realized that I didn't need to work with or around people that didn't bring me joy. I think I went through definitely some ups and downs in terms of doubting myself and feeling that although I did receive this wonderful accolade, that I felt as if my peers, or other people that had maybe seen my work, didn't feel that I was deserving and I allowed that to kind of get in my head for a period of time. And/or feeling as if I needed to prove something to other people. But I think in a really beautiful full-circle way, the last year or so, I really decided that what I do needs to be enough for me. I wanna keep challenging myself but for myself and not for anyone else. I love the people I get to work with on a continuous basis and it's trying to figure out the best ways to support them, support me, support the work and ways in which I can kind of have some kind of longevity in my career. And the MacArthur really helps to set up possibilities for longevity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "b250ba6e-1b79-4ffc-ba09-0f9ebb4d6fef"
+    },
+    {
+      "start_time": 1131,
+      "end_time": 1218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think there's something that I know as a choreographer that I don't think people always realize ... You know, like this is gonna be shown to folks mostly in the know, you know? And then as it starts to get out to part of the digital archive, I think it's still gonna be folks who love dance or are interested in dance or have an interest in black choreographers and their trajectory. But I don't think people often realize ... At least I know it wasn't until a certain point in my own career that I was like, \"Oh, like the self-doubt is real.\" Like the journey of ... It's like the next grant and the next project and the next and is this, you know, and how is this, what is this project going to be? And is it ... It seems like that would be an interesting, like you were describing that relationship of getting the MacArthur ... Talking about that full-circle. How do you keep yourself grounded in that? Like what did it take to make that circle? And do you still deal with like, wow, like maybe this isn't a good piece? Or what does it mean for something to be good enough for you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "c1f3f56c-196b-4470-a3fd-168755b24c5b"
+    },
+    {
+      "start_time": 1218,
+      "end_time": 1224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. Geez. That's a complicated one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "650745ca-3a26-4012-ad75-139e6aa63fae"
+    },
+    {
+      "start_time": 1224,
+      "end_time": 1298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think I always ... Excuse me. I'm always asking myself whether or not I feel like a work is done, whether or not I like it, whether or not I think other people will get what I'm trying to say or do. And sometimes it's important and sometimes it's not. I do think there is that fine line and that fine balance of whether or not you're trying to please an audience and/or please yourself or please the people that are performing and/or living in that work. All of which probably has some ... Has some presence in my mind. I do, I do ... Yeah, I definitely am, I'm ... More times than not, there's a good amount of self-doubt that comes into my mind when I'm in the studio or once I get home or when I'm driving home or on the subway if I'm in New York. But I think it depends on the work. There's some works that actually come together so quick that the doubt comes in because I'm like, \"Wow, that came together really quickly and I really like it, but it shouldn't have been that easy. I wonder if it really works?\" Or the opposite where something is just take ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "91b1c7e4-bff8-4b63-ae7a-f6872a714509"
+    },
+    {
+      "start_time": 1298,
+      "end_time": 1299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's no way I'm gonna finish any time soon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "f0f40b72-09e5-4343-b8f9-c4cb6cadd8b3"
+    },
+    {
+      "start_time": 1299,
+      "end_time": 1301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. We're rolling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "46474df7-db63-4982-9093-8514188749e7"
+    },
+    {
+      "start_time": 1301,
+      "end_time": 1303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wish."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "db9b362d-972d-4525-b465-a935f4688473"
+    },
+    {
+      "start_time": 1303,
+      "end_time": 1304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What solo was that tour?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "5128d3ed-a40b-4388-b159-9f3bebf198df"
+    },
+    {
+      "start_time": 1304,
+      "end_time": 1305,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, that's-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "feb1b1ad-e0cc-4b1d-accc-f3a26f648c5d"
+    },
+    {
+      "start_time": 1305,
+      "end_time": 1306,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Was that with Joyous?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "9183113b-cccd-4441-820f-1358ee5edf2b"
+    },
+    {
+      "start_time": 1306,
+      "end_time": 1317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Yeah, I'm making a new solo for myself for the Joyous ... I'm just waiting for a second."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "a8d30ad9-9aa1-4074-a008-d0181509dcff"
+    },
+    {
+      "start_time": 1317,
+      "end_time": 1319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're rolling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "1480d73d-73bd-48e9-b2b6-c998ba2a8739"
+    },
+    {
+      "start_time": 1319,
+      "end_time": 1321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "1178c075-fa9e-451b-9054-03e7f128a382"
+    },
+    {
+      "start_time": 1319,
+      "end_time": 1319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "a0fadd12-53b2-4b91-a0fb-f47793289833"
+    },
+    {
+      "start_time": 1321,
+      "end_time": 1325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I'm making a new solo for myself for the Joyous Season in May. It's called Indy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "6faaf57e-ad5c-469f-9f63-188947bc6589"
+    },
+    {
+      "start_time": 1325,
+      "end_time": 1327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ND?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "fed52c24-a0f7-4f5c-bd8d-8afa0974e4f6"
+    },
+    {
+      "start_time": 1327,
+      "end_time": 1354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Indy. I-N-D-Y. It's my first time getting to do more than five minutes of dancing, it seems like, in a really long time, especially in a fully produced kind of way. So it's exciting but I have so much more work to do on it. So hopefully I can get that done at some point in my life, I don't know when, but we'll see."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "2734ccb4-de36-49b2-bb00-d9fa4ae4f452"
+    },
+    {
+      "start_time": 1354,
+      "end_time": 1357,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Where did we stop? Where did we leave off?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "bcae32b1-a581-456a-b654-8c53bec2d774"
+    },
+    {
+      "start_time": 1357,
+      "end_time": 1359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think you were asking about doubt and like-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "55ce2878-3d73-4a6b-811c-bf2fc8c62da7"
+    },
+    {
+      "start_time": 1359,
+      "end_time": 1361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, doubt, yep."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "cab4f802-d012-464b-b8d6-6408df7dab93"
+    },
+    {
+      "start_time": 1361,
+      "end_time": 1365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "e0cff883-a4e3-4dd2-ab96-65d9742545cb"
+    },
+    {
+      "start_time": 1365,
+      "end_time": 1440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. I don't remember what I was saying, my train of thought, but ... Yeah, I think there's definitely points when I am doubting what I am doing, regardless of how easy something may come together versus how complex or kind of like painstaking a process may be. Sometimes I can ... It may take me a year to two years to make something, sometimes I can make something that's the same length in 10 days. And I don't know sometimes which one I like better, one or the other. But yeah, I think it's just, it's that settling moment where I have to just kind of be like, \"Yeah, you know, I really dig this.\" There's definitely times where I make something and I'll be like, \"You know what? I don't know if I'm gonna make anything better than that for years to come.\" And then the next thing, I've already put this doubt in my mind so it kind of feels like it's going to fail. But it's such a give and take and exercise in ... I don't know. I don't even know. I don't even know. But it's something I'm definitely working towards."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "a2911bd1-7a2f-4dbd-875d-8fcd82fceb7c"
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I do feel really great about the group works that I've made for our new season. The irony, though, is it's, again, one of those dances that we made, one of them came together really quickly and I didn't know how it was gonna go over but every time people come in and watch it, they say really wonderful, favorable things about it, which is great. But I just didn't really know how it was gonna go over. So it's great to know that it's been received well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "dbdea002-4a2d-4c8d-bfdf-9f29e4b7b40a"
+    },
+    {
+      "start_time": 1467,
+      "end_time": 1472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The solo, I have no idea, no clue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "eac0dbf1-b2cd-4b0c-960c-de892892aabf"
+    },
+    {
+      "start_time": 1472,
+      "end_time": 1476,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Who do you talk to about your work? Like who do you like to get feedback?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "b19eab92-dcde-4705-9e7f-85145a126f9d"
+    },
+    {
+      "start_time": 1476,
+      "end_time": 1541,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. When it comes to feedback on the work itself, I have a team of folks that I connect with. Usually anyone that's collaborating with, I really wanna hear their input and I want them to tell me what doesn't work. I think when people work with me, they know how important that is to me. So my lighting designer for Indy is Nicole Pearce, but generally I work with Dan Scully and Dan is lighting all of my other works on the program. And I always listen to his feedback on everything. Karen Young is our costume designer; she's really verbal and really dependable and just brilliant, so I listen to her. If my dancers are ever watching the work that they're not in, or work that they are in, they tell me the what's what and I appreciate that. I have a dramaturge that comes in sometimes to work with me, my friend Charlotte Brathwaite. Yeah, I'm working with Margie Gillis on my solo, having her feedback and kind of mentorship on kind of solo exploration."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "2cee7a83-d4f0-4be4-8670-619fc3b8f265"
+    },
+    {
+      "start_time": 1541,
+      "end_time": 1610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But something that's really important to me is just having that good support system, so I talk ... There's two choreographers that I talk to in great deal. I talk to Camille A. Brown a lot about dance and professionalism and our struggles and just our whole experience. We kind of grew up together, so it's great to kind of be able to have that conversation with her. Darrell Grand Moultrie is another choreographer I speak to. Staycee Pearl, another choreographer. These people are folks that I can be really real with, stripped down. I don't have to feel bad if I feel bad. I think that was something, with the MacArthur, where people were like, \"Well, you can't struggle, you know, like you're fine. Financially, you should be good.\" But it's not sometimes about that. There are so many other facets to what we do and how we're doing it that can affect us emotionally and physically. So it's great to have these people that I can kind of just speak to in the most stripped down and honest way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "3b0c6d5e-3a45-4688-b160-e6c5f85a03b6"
+    },
+    {
+      "start_time": 1610,
+      "end_time": 1669,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What, what, so you ... We recently ... [inaudible 00:26:54] And over the past 15 years, I've asked this question about black dance. And I feel like that question has shifted in terms of what it means. I don't think people are asking that question in the same way people were talking about that before. So I guess this is a two-part question. One, is there something called \"black dance\"? And, if so, what would that be? And then second: how do you think conversations around blackness and performance and even just identity have shifted in the past 50 years?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "dcf5648d-ceb6-4552-ba45-b78aff04ce73"
+    },
+    {
+      "start_time": 1669,
+      "end_time": 1678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well those are, to me, two completely separate questions for, yeah, a host of reasons."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "df90cd56-98c9-4b88-9f20-b3824e683158"
+    },
+    {
+      "start_time": 1678,
+      "end_time": 1743,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I'm thinking about black dance and the way people are perceiving black dance, yeah, I definitely think there are certain stereotypes that still align with maybe a certain specific time capsule period in the black dance experience. I think a lot of people tend to think about work from like maybe late 70's to mid-90's. But I love that we can question that and we can show more examples of variety and the spectrum can constantly shift and change. And I think that's part of what the ideals and philosophies behind having an International Blacks in Dance conference is or was to be doing, to really be showing a much broader spectrum of work that's out there made by black choreographers and artists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "bc9651e2-af45-4dd3-8d12-8ba856172682"
+    },
+    {
+      "start_time": 1743,
+      "end_time": 1819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The second part of the question, though, I think is a broader thing. I love the conversations that are happening now about identity and about appropriation and about culture and about the richness in people's individual experience and in the history of the black body. I don't think those same conversations were happening on a larger scale and in a way that was really accepted before. But now, I think that although in certain circles we had power with our voice, I think that power is becoming more and more magnified by people who are being more and more, seemingly, acceptable, or, sorry, seeming more and more recepta ... No, no, that's not a word. Can't think of the word. People who are more and more open to hearing, seeing, experiencing what different black lives, different black bodies, have to say when talking about our culture, our history and kind of what our place is in this world."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "1c435a26-1a71-4d5b-8451-2c75820d2609"
+    },
+    {
+      "start_time": 1819,
+      "end_time": 1826,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What role do you feel artists have in that? And what role does it play in your work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "10dc2cde-963b-4ad9-b4c0-7f5559fe1df9"
+    },
+    {
+      "start_time": 1826,
+      "end_time": 1855,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. My work is ... To me, my work is always about, in some way, shape, or form, about who I am and where I come from. Regardless of who's dancing the work, there's always a bit of me in there. So it's important for me to always be present in whatever I'm making because, otherwise, I just don't see the point. But ... I don't remember the other part of the question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "4798e590-6485-47b6-88ea-a677764f1293"
+    },
+    {
+      "start_time": 1855,
+      "end_time": 1858,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "3dadcd71-4200-4205-9537-34f6263f6f4e"
+    },
+    {
+      "start_time": 1858,
+      "end_time": 1860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, art in our society today, is that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "9a45e70b-50a6-4a4c-b2f3-7a434be35678"
+    },
+    {
+      "start_time": 1860,
+      "end_time": 1896,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, what role does art ... So, you know, part of what we were talking about was how people are now with expressing their blackness and black bodies on stage, or in black bodies. And so I was wondering what role do you feel that artists play? Sort of like the conversation, the moment we're in right now with identity and blackness and, you know, whatever else. Some of the things that have really come to forefront. What role do you really feel like the artist played? And then that was the other part: what role do you feel like that plays in your work? But the other part of the question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "41aeec48-b108-4d64-b49b-2ffabf755c17"
+    },
+    {
+      "start_time": 1896,
+      "end_time": 1991,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. Yeah, I mean, I think ... Art has always played a powerful role in society and will always continue to do so. I think it's a really powerful thing for the president's port ... Our previous president, everybody's favorite president. I think for Obama's portrait to be from a black, gay man, that says a lot, that's an artist. I mean, when you're looking at his portrait in comparison to all of these other portraits, it's unapologetically colorful and filled with life and filled with pride. And I know that we are in a time when black folks are feeling good about themselves in a way that it seems that regardless of how much we are told that we aren't worth x, y, and z, we know that we are worth that times a billion times over. Art can do that. People can do that by coming together. The work that we make is creating a conversation and bringing people together to feel empowered. Art in general is empowering. So, yeah, I don't know. That's all I got on that. And I just realized I was probably looking at the floor the whole time I answered that question, but who knows?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "5a5b958b-3df7-4029-ac96-51d1c071e1cf"
+    },
+    {
+      "start_time": 1991,
+      "end_time": 1996,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just a ... How long were you with Dorfman and how long were you with Bill T?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "3309c7d5-68db-433d-a414-70b8399f3845"
+    },
+    {
+      "start_time": 1996,
+      "end_time": 2053,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. Geez Louise. So after college, after under graduate ... Excuse me. After under graduate school at Purchase, I danced briefly Bill T. Jones company. But so brief that sometimes it's not even listed in my bio. It was a great experience for a whole host of reasons. But I think the majority of my dance career, in terms of dancing for another company, came from dancing with David Dorfman, who I danced with, I think, for maybe five years. That's a different type of partnership and collaboration and one that I think has had a different type of impact on the work I make. We spent so much of the time talking in a room, and I think probably Bill does that as well, from what I experienced and what I know people have experienced, but in a different way that we're looking at community in a tighter-knit group of collaborators."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "5487356a-68cc-4adf-baee-ecea2c5e2f50"
+    },
+    {
+      "start_time": 2053,
+      "end_time": 2110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Working with David in particular, I never felt like I couldn't just try something. Even if it didn't work, I still felt supported in some way and that's something I try to create for my company. I try to make the space so that if my dancers wanted to try something that seemed out of the box, or maybe even clichÃ©, or what have you, what not, that there's nothing that I'm saying that doesn't make them feel that they're point of view isn't valid or important to hear. I know that some of the things I'm doing fit into all of those categories. Sometimes they're out of the box, sometimes they're clichÃ©, sometimes they're really redundant. And so it's great to have this supportive group of folks who can tell me how they feel about what it is I'm saying or doing but in a way that's respectful of my growth in the same way that I wanna respect their growth and their journey."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "d95b3471-a67b-4199-bd5f-7d88545fda0e"
+    },
+    {
+      "start_time": 2110,
+      "end_time": 2129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Last two questions. And you kind of touched on this before, so this is just another opportunity to perhaps ask and answer this question. Who or what are other strong influences? Maybe in life or in art or in your dance community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "58a6597a-45c7-41f7-9c1a-6a41b24bea51"
+    },
+    {
+      "start_time": 2129,
+      "end_time": 2207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sure. Yeah, I mean, it's good for me to think about my influences on a much broader scale. My parents are major influences for me. My father was such a gentle soul. I never heard him cuss once in my entire life, or say ... I think there was only one person I can ever think that he said anything slightly negative about. And that's something I could definitely grow from. So that was great. And my mother just had such an amazing sense of humor and giving spirit that it's something that I want to try to achieve in my lifetime. Ralph Lemon is a major idol of mine. As is Bebe Miller. My contemporaries, people like Camille Brown. There's so many artists that I look to. Carrie Mae Weems. I love what they do and how they do it. I love that these are people who can engage in conversation and they can stretch our ... Excuse me. They can stretch our art form beyond the proscenium stage. And that's something that's really exciting to me and that's what I hope to continue to achieve and strive for in the work that I'm making."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "befed67e-b05c-448d-b7fd-afa5a5873644"
+    },
+    {
+      "start_time": 2207,
+      "end_time": 2207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Great."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "568ca08b-6535-4e13-8e7c-09543e01191c"
+    },
+    {
+      "start_time": 2207,
+      "end_time": 2207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was trying to help you bring your eyes up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "42c4d641-13dc-4888-8328-c9d2f5ebff8a"
+    },
+    {
+      "start_time": 2207,
+      "end_time": 2207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nah, some guys just-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "fd6d0115-fa37-402a-9328-f03002032408"
+    },
+    {
+      "start_time": 2207,
+      "end_time": 2207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "7566e26a-60a2-4695-b2af-6696a289cb83"
+    },
+    {
+      "start_time": 2207,
+      "end_time": 2221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, no, I'm just messing with you, yeah. Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "623f42ed-1ea0-4e3a-b36e-8c6028e36be2"
+    },
+    {
+      "start_time": 2221,
+      "end_time": 2224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sorry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "037b7496-2321-4bca-9ed3-605287b3deb3"
+    },
+    {
+      "start_time": 2224,
+      "end_time": 2229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And the last thing: what does a perfect day look like?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "c063bc6c-fc34-4044-9450-eed0fd406484"
+    },
+    {
+      "start_time": 2229,
+      "end_time": 2325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahh, the perfect day, watching my stories. What is a perfect day? I don't even know. That can constantly shift. I mean I'm definitely in a better place in my life in general so ... Yeah, I don't know. What does a perfect day look like? Sometimes that day is a day when I know that I made a really exciting impact on my students that I get to work with at UCLA. Sometimes it's when I have a breakthrough in rehearsal with my dancers and collaborators. Sometimes it's knowing that I got through however long of a list of e-mails or phone calls I needed to make. Sometimes it's just knowing that I can achieve just one goal in my day, maybe it's just, \"You know what? Yes, today was crazy, but I found 40 minutes to go run at the gym. And that was just for me, it wasn't for anybody else.\" So just trying to make that space I think can create a perfect day. Yeah. And, yeah, getting rest, which is really hard to do. That's important. Generally speaking, those are probably those things. Maybe having a moment to connect with a good friend. Maybe see some art in some capacity. If Brandi releases a new song and I get to hear it, I'm sure that day would be the perfect day. It's just simple stuff for me that kind of can make my day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "5e68d67d-d64c-4f2c-9215-63dcc972c6ad"
+    },
+    {
+      "start_time": 2325,
+      "end_time": 2327,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When is your next day off?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "6057af43-bc7a-465e-b6bd-91f3e99bb622"
+    },
+    {
+      "start_time": 2327,
+      "end_time": 2332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My next day off? Oh, Jesus. I have no idea."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "0a23acd4-937b-4c15-995d-cb2ceddb2623"
+    },
+    {
+      "start_time": 2332,
+      "end_time": 2333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's no such thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 2",
+          "category": "People"
+        }
+      ],
+      "uuid": "fc90e5ab-3001-4d74-b311-fd7083747902"
+    },
+    {
+      "start_time": 2333,
+      "end_time": 2343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. I know I take my birthday off, so I'll be off for a period of time in August for a few days. Probably like four days in August I'll be off."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "b3e88ca0-94f4-424b-b2c9-01b58855529e"
+    },
+    {
+      "start_time": 2343,
+      "end_time": 2346,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cool. Shit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "3a4591f8-69b6-4cf1-b238-0da17d6b51ad"
+    },
+    {
+      "start_time": 2346,
+      "end_time": 2347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Couple months from now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "1c5f832a-0891-45d5-ad32-6967f533381c"
+    },
+    {
+      "start_time": 2347,
+      "end_time": 2349,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just a couple months."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "766dbb09-844f-41b0-a0b2-4d3a4384022b"
+    },
+    {
+      "start_time": 2349,
+      "end_time": 2351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "0eccce7b-779c-4892-a635-e7f8f1b8ae72"
+    },
+    {
+      "start_time": 2351,
+      "end_time": 2356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. That's all I have. Do you feel like there's anything ... Do you have any questions for me or even like about this project? Like why say yes to this project? Why ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "4523f598-01ce-42aa-b57d-368cba72771f"
+    },
+    {
+      "start_time": 2356,
+      "end_time": 2372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. I don't know ... We didn't really talk much about the project. I don't know if there's anything you wanted me to dive in particular, in relation to the project, or ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "7084ed8a-9803-4e1f-9b21-e10aee125261"
+    },
+    {
+      "start_time": 2372,
+      "end_time": 2376,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. I think a lot of these questions have to do with it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "3292dd0c-e961-489b-9cdf-83b461f3d86a"
+    },
+    {
+      "start_time": 2376,
+      "end_time": 2377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kyle Abraham",
+          "category": "People"
+        }
+      ],
+      "uuid": "2ff4a063-01fb-4089-978a-042eb0960622"
+    },
+    {
+      "start_time": 2377,
+      "end_time": 2394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, the project is turning to a legacy project. You know, I always feel like choreographies from different black choreographers, but I didn't think of it as a thing, I was like, \"There's just some people I wanted to work with.\" And then next thing I know, 10 choreographers-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "b99d4b30-b38f-4e2a-a5ba-a0dfc2b8ea67"
+    }
+  ],
   "event_id": "ceb8ebae-abb1-48e7-b75b-0c1ad46b422b",
   "set": "2018 Kyle Abraham Interview",
   "source_id": "b11e8559-becf-42c6-922f-5c4787956846"
