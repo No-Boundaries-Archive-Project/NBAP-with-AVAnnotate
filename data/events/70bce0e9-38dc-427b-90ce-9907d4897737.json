@@ -12,7 +12,7 @@
     "30abb2a7-27f3-495f-899b-b2be8d6eb21b": {
       "label": "2015 Brenda Dixon Gottschild Interview (2 of 2)",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://noboundariesarchive.com/media/collectiveaccess/quicktime/0/72759_ca_object_representations_media_13_original.m4v",
       "duration": 0,
       "caption_set": [],
@@ -121,6 +121,6 @@
   "rights_statement": "https://rightsstatements.org/vocab/InC/1.0/",
   "created_at": "2026-04-19T18:26:57.722Z",
   "created_by": "DataMuseology",
-  "updated_at": "2026-04-19T18:26:57.722Z",
+  "updated_at": "2026-04-19T18:27:27.856Z",
   "updated_by": "DataMuseology"
 }
