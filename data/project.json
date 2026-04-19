@@ -21,7 +21,7 @@
     "github_org": "No-Boundaries-Archive-Project",
     "is_private": false,
     "title": "NBAP with AVAnnotate",
-    "description": "A collection of audiovisual artifacts from the No Boundaries Archive Project with annotations to make the artifacts more easily searchable and discoverable. ",
+    "description": "A collection of audiovisual artifacts from the No Boundaries Archive Project with annotations to make the artifacts more easily searchable and discoverable. With this project, we hope to unlock new ways of interacting with and experiencing dance as performance, expression, and meaning.",
     "language": "en",
     "slug": "NBAP-with-AVAnnotate",
     "creator": "DataMuseology",
@@ -172,7 +172,7 @@
       ]
     },
     "created_at": "2025-10-05T19:49:11.422Z",
-    "updated_at": "2026-04-19T19:31:59.268Z",
+    "updated_at": "2026-04-19T19:33:04.048Z",
     "generate_pages_site": true
   },
   "annotations": {},
