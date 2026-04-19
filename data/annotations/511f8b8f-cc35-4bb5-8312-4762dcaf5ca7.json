@@ -1,5 +1,342 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the reasons I found myself interested in revisiting this was because I had a chance to do it again, a version of the No Boundaries Project in 2014. When I did it I was like, \" Oh, I think it's still really ... \" I was talking to the students, I taught a class, and it was so interesting to hear how the students were reacting to the work of the African American choreographers, were excited about seeing the work, and it was such a different conversation than what I was having when I was in my 20s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "b18c297f-02ab-4801-b18f-466a7956fda1"
+    },
+    {
+      "start_time": 62,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because I think initially I created this project because growing up in high school the two options I was given were, oh, Dance Theatre of Harlem or Alvin Ailey, and I was like, \"I don't do either one of those things,\" but I was like, \"but you know, there are other African American choreographers who are doing work that maybe folks would be interested in and I'm interested in,\" and I wanted audiences to know about. So, there was also this old conversation about black dance, which was also-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "8e0725a8-cbd4-456d-989d-d6d7b3e48ad1"
+    },
+    {
+      "start_time": 104,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which was an old conversation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "c171f295-9fd8-4f3c-82e6-e419f9fe773b"
+    },
+    {
+      "start_time": 108,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "539c8713-7ed8-436c-8c2c-af38afff43e0"
+    },
+    {
+      "start_time": 108,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which has been renewed in interesting ways, but it is an old conversation, yeah. Sure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "3676db53-cd4f-42ee-a145-cc2551b06daa"
+    },
+    {
+      "start_time": 109,
+      "end_time": 123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's what was interesting about doing it again in 2014, was this idea of like ... well one, students hadn't heard of this, they hadn't really heard of black dance as a term. It's like, \"Really? Great!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "3462efbf-d73a-48c1-9bac-488c8fe8fa1b"
+    },
+    {
+      "start_time": 123,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, great. Our work is done, yeah, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "d10a6c19-808d-4a1a-bdcb-fc2cf7223d15"
+    },
+    {
+      "start_time": 128,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And at the same time I was like, \"But do you know who some of these folks are and how we got here?\" So this question about legacy has shown up and I feel totally differently about ... instead of pushing away, about trying to build a bridge between the past and the present."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "13326eef-7973-48da-8d99-451999c3cd4d"
+    },
+    {
+      "start_time": 151,
+      "end_time": 189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I think that bridge building is real interesting because I think even for me, and what am I, 20 years older than you are, roughly or so? That the choices of ... well, dancing [inaudible 00:02:52], it really wasn't a choice, because I've had no ballet, but it kind of was couched as I started doing my own work of, \"Well, so which stories are you telling?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "88a905fa-7a07-4aaa-8b4e-f661eb58cd67"
+    },
+    {
+      "start_time": 189,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When you hear that, that there's an assumption that your story, or your point of view, or your interest is not quite enough, but there's a representing that was supposed to happen ... and where that idea came from, and if it really was there ... I think it was there on many levels, but there was a sense, is it the audience that are thinking that? Or are the other performers, other artists? But that there was a black dance genre, or just by being black you're doing that dance, the dance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "68755830-b536-469b-a53f-948e8eeadfe2"
+    },
+    {
+      "start_time": 234,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think what's really fascinating is having over the last number of years evolved to a point where, say your students say, \"What do you mean black dance?\" Which is like yes, our job ... it's not our job is done, but we kind of did something that we were thinking of like, can we move beyond that, but at the same time what have we lost? So there's that paradox of ... And the interesting thing of who are we individually? What does link us? As well as what else links us? As well as, \"Hey, I'm speaking for myself here and that should be enough.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "d0a0994a-6910-4a7f-8685-5ed7ca4a1d8a"
+    },
+    {
+      "start_time": 287,
+      "end_time": 335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's funny that ... is that enough? I feel like you go to a concert, and you are moved by a work. Sometimes you're moved by the physicality of it, but sometimes you really are moved by the humanity that you share, and does that have a color? Or more to the point does that have a culture, which is not necessarily a color? Does that make sense? Does that represent an understanding of the world that you recognize, even if you don't share at all?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "6aac5c5c-80be-4b89-ae6c-be7874e08714"
+    },
+    {
+      "start_time": 335,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that we're living in times where those borders are much more fluid on who does hip hop, who doesn't do hip hop. Who is experimental and whatever that might mean, and in what form? Who is speaking from a tradition that is at its heart eclectic? And who is speaking from a tradition that is very, very specific? I think that shows up in how we are trained, the kind of bodies we have, what is celebrated, what we find is delicious movement, whether movement should be delicious, or is it powerful? All those kinds of things are at play in, I think, a wonderful way now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "4975d86e-d5cc-4274-af26-1a94fc48fd4f"
+    },
+    {
+      "start_time": 401,
+      "end_time": 403,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think that-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "16ed8737-7631-4384-9363-d086a3ec041d"
+    },
+    {
+      "start_time": 403,
+      "end_time": 412,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's turn off that fan. I say let's just [inaudible 00:06:46], because I hear it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "e52b5d90-707d-4925-a0a3-6507467c69fe"
+    },
+    {
+      "start_time": 412,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm going to grab some water. I've become aware of the, \"Boom, boom, boom, boom,\" outside of ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "68ef0518-1009-4e8e-b697-857cf6d9cd83"
+    }
+  ],
   "set": "2018 Bebe Miller Interview (1 of 4)",
   "event_id": "2404fbea-cba9-4fcc-929d-853e827b8c06",
   "source_id": "ccca2ce5-cd95-484d-b21b-b138d136303a"
