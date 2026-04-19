@@ -22,23 +22,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "table-of-contents",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
+                  "text": "NBAP with AVAnnotate",
+                  "textSize": "heading-one"
                 }
               ]
             }
@@ -99,7 +84,30 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "A collection of audiovisual artifacts from the No Boundaries Archive Project (NBAP) with annotations to make the artifacts more easily searchable and discoverable. "
+                  "text": "A collection of audiovisual artifacts from the "
+                },
+                {
+                  "text": "No Boundaries Archive Project (NBAP) ",
+                  "bold": true
+                },
+                {
+                  "text": "with annotations to make the artifacts more easily searchable and discoverable. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "With this project, we hope to unlock new ways of interacting with and experiencing dance as performance, expression, and meaning."
                 }
               ]
             },
@@ -139,6 +147,22 @@
       ]
     },
     {
+      "type": "table-of-contents",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -166,7 +190,7 @@
   "created_at": "2025-10-05T19:49:11.445Z",
   "created_by": "DataMuseology",
   "title": "NBAP with AVAnnotate",
-  "updated_at": "2026-04-19T19:45:31.246Z",
+  "updated_at": "2026-04-19T19:49:37.569Z",
   "updated_by": "DataMuseology",
   "autogenerate": {
     "enabled": false,
