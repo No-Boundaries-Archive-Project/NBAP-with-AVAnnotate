@@ -1,5 +1,1182 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that's what I'm actually trying to do with the project as a whole. Well, maybe like any choreography, like just to share that you have this experience of something being exquisite, like there's something that we're doing. I think maybe that's why I keep trying to make pieces or keep trying to make work or keeping doing this. Or even with this project."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "f7e376fc-3adb-43bc-b5bb-c172dcca74fb"
+    },
+    {
+      "start_time": 35,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "6bec9c92-d126-4ec7-b53a-a50cb09a87a1"
+    },
+    {
+      "start_time": 38,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Keep doing this project because I'm like ... I don't feel at all like it was ... Yes, I'm doing these solos but it doesn't feel like it's about me at all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "93d68e65-ab5f-44ed-97c1-dd70f02bf34c"
+    },
+    {
+      "start_time": 49,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "72454b27-72da-4b0d-b331-5aed56ec5c92"
+    },
+    {
+      "start_time": 50,
+      "end_time": 86,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's like I want people to know. I want them to experience these choreographies. I want to share the experiences that I had with each of the choreographers. But it's just like that ability to sort of reach across ... maybe that's that shared humanity part. How can I craft something or make something so you can feel this? You can know what this is like. You can be a part of this story. This is not just my story."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "213cf5db-4e0c-45a6-85aa-a941f90e95f2"
+    },
+    {
+      "start_time": 86,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "e68c5d17-0223-4174-a6bd-83407b9519d9"
+    },
+    {
+      "start_time": 87,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And to share. Some of that's historical but it doesn't feel like the past. It's like no, it's right ... that feeling, that moment is the same. I think about the other pieces where it's like there's something underneath all of that that is trying to be transmitted, that is trying to be communicated. It's like what do we learn about the human experience, about the African American experience, about the male or female or transgender experience? What do we learn about ... If we're all holding some truths about humanity, what truth is in this that we can share that actually connects us?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "861e8147-a679-4311-a807-d552d6ad8989"
+    },
+    {
+      "start_time": 135,
+      "end_time": 206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It makes me think of ... In our DNA is some aspect of that experience of sitting around a campfire and somebody's telling the stories and we're all like, \"Yup\" \"Uh-huh\" \"Oh, no\" \"Yeah. Uh-huh\". That is a really fundamental human experience, that storytelling of it. How real that story may be or not be is almost beside the point, but that there is something about that exchange in that we are in that tradition of that exchange. Sometimes what becomes more evident, it's like, \"Oh, I sit in a theater that I paid 20 odd dollars for this seat and I get to wear my thing.\" That's part of the exchange and sometimes ... It's like that guy who just ran down the street and we kind of went like, \"Oh, yeah. Singing a song, feeling the [inaudible 00:03:20]. Yup.\" It was kind of a dance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "a4f9d228-ed8b-4d29-8be0-fe31af6d0852"
+    },
+    {
+      "start_time": 206,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I wonder, and this is question I have for you, that as that carrier of the story, what do you feel you have to do or be in order to go from one kind, another story, another one and another one, that there is a series of ways to be and stories to tell, literal or not? And how do you make that happen?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "03c5e478-86ae-456d-ad10-ff5e3184ae39"
+    },
+    {
+      "start_time": 239,
+      "end_time": 298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think with ... It's one of the reasons it was really important to reconnect with everyone before doing this again because I think I immediately ... like when it's time to go, it's like I drop immediately into this space and time in the memory of being with the choreographer and also ... Well, it's being with the choregrapher but it's like what I got from those moments. It's things like starting with the armpits. It's things like the psoas. It's things like ... There's an image in my head. There's this combination of both image and sensation that I feel like I try to connect to like immediately."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "081fda26-d5b1-424a-a6fe-8e231388e63f"
+    },
+    {
+      "start_time": 298,
+      "end_time": 298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "1ed33070-d992-4dd8-8259-4987f7d009ad"
+    },
+    {
+      "start_time": 298,
+      "end_time": 314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then when I'm in the piece and it's time to start, I'm there. I'm nowhere else but there. So the more clarity I have, the more I can really tap into ... versus like, \"Oh, I'm remembering what this ...\" but it's truly the doing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "78022a81-f270-4106-891a-e6d2f05ac556"
+    },
+    {
+      "start_time": 314,
+      "end_time": 315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "38080edf-f5c5-4df3-a511-48a9ccc40a7a"
+    },
+    {
+      "start_time": 315,
+      "end_time": 366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As honest as I can be to ... Yeah, no, it's that image. It's that sensation. It's that ... I think that's one of the reasons I've been asking even more about what? What? What makes that arm move? So that if I don't do, the arm moves at a 45 degree angle and it twitches. There's none of that, but it's just like the why and the how of it. I feel like I'm trying to learn even more about the impetus from each one of the choreographers so that I can just drop in. Yeah. Pretty immediately."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "0d23c27f-e335-4040-b780-28118fc7e5e7"
+    },
+    {
+      "start_time": 366,
+      "end_time": 380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[crosstalk 00:06:19]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "11e711a3-8f1c-4443-adac-5bd12433f46d"
+    },
+    {
+      "start_time": 380,
+      "end_time": 385,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dancing all the time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "2673d65c-fa7b-4400-a645-e71935fb5613"
+    },
+    {
+      "start_time": 385,
+      "end_time": 390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There you go. It's a brooch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "d53511a9-ad27-4033-bd75-bf2ea985708b"
+    },
+    {
+      "start_time": 390,
+      "end_time": 392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible 00:06:29]. Did that answer the question?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "6edb83b5-0e4c-41cf-9237-b5cb42ae927f"
+    },
+    {
+      "start_time": 392,
+      "end_time": 506,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Yeah, yeah, yeah. I mean I think sometimes just by having you articulate what might that ... Oh, okay. I didn't have an answer in mind, so it's like yeah. I think and it goes without saying that of course these are seven different experiences in that you are one person but you contain multitudes. You, in the best way, assume that the audience contains multitudes as well so that this is ... these are not directed to very specific people. It's just directed out and in. It depends on the openness and willingness of the audience to be taken on a journey I think. That's not your responsibility. As best you can, it seems like by setting up, there are these solos. They are a reflection in some way of human experience and I can send out this much marketing material about them, but ultimately, audience, it's there for you to sit around the fire and get your story."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "91e52920-09b5-4358-9887-7dfa0cd5466c"
+    },
+    {
+      "start_time": 506,
+      "end_time": 545,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. I think it kind of happens in layers. The big layer is the seven solos. I didn't necessarily ask ... usually choreographers are like, \"Is there anything you want?\" I was like, \"Whatever you want to do. It's open. It could be old.\" But I think there's the crafting of the whole ... the evening. I've got to figure out what order things go in and those kinds of things. But that you get to actually also see the video in between [inaudible 00:09:06]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "48a5e5d9-9974-43d5-8e41-19ff08bd9b9d"
+    },
+    {
+      "start_time": 545,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's the crafting that sort of brings the audience in, which is ... Okay, so there's this one person and it's like you kind of get to meet all of these people through just following this one person. It's like, \"Now what?\" Now we have things like Dancing With The Stars where you see them in rehearsal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "24d2d1be-cfbb-48a4-a656-67f5a1a4b425"
+    },
+    {
+      "start_time": 570,
+      "end_time": 571,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "c105a541-a7a5-4ca9-8e97-ab13d176f0b4"
+    },
+    {
+      "start_time": 571,
+      "end_time": 602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you see them. Then there's the show, there's the live part. I feel like there's also this, \"Oh, I just watched her in rehearsal. There's her doing it ...\" There might be a little clip of me doing it like 15 years ago. I also think there's this journey of just a dancer, of following and learning and learning the dance and behind the scenes and in rehearsal and getting older."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "a2ee5337-9730-4ab3-bfa5-a483556e42b3"
+    },
+    {
+      "start_time": 602,
+      "end_time": 602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "516682c1-55e3-4b39-9b5a-06b12d226cc1"
+    },
+    {
+      "start_time": 602,
+      "end_time": 624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That is, I think, also like this peek into this world that I don't think a lot of folks get to see. We see on stage and then we clap, like I said, and we have our experience and we pay our 20 plus dollars. But I think part of this is about revealing the humanity of all of it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "658ee957-07c2-4997-8d3f-b313fc00c5cf"
+    },
+    {
+      "start_time": 624,
+      "end_time": 626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "edae2a19-7f83-4320-8e90-4f90d276d0e4"
+    },
+    {
+      "start_time": 626,
+      "end_time": 659,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The work behind the scenes, the staying at people's houses, the being in the studio, the being super specific, the costume has to ... You know, like all of the things. I feel like that provides this other experience to just the ... and even taping it. The audience's response will be a part. I'm trying to capture the experience of what does it mean to have and create live performance? It's not a PBS special. I might fall over."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "2bbcaa10-a4de-4bc8-bec8-4a8d50928796"
+    },
+    {
+      "start_time": 659,
+      "end_time": 661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "67ae82ee-4a3b-4e45-bb47-9090985af3af"
+    },
+    {
+      "start_time": 661,
+      "end_time": 673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it's like the ... Yeah, and how do we transmit that experience to an audience that it is this living thing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "10bc763c-25da-4eeb-aee6-ab1e84e0d618"
+    },
+    {
+      "start_time": 673,
+      "end_time": 675,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "5f9013eb-b260-44a8-9976-1232d69f26a2"
+    },
+    {
+      "start_time": 675,
+      "end_time": 699,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's not just I'm going to watch these solos and then each one of them does have a story and a chapter and something connected to storytelling. They're all so different from Donald McKayle's 1948 to Kyle Abraham's brand new don't know what he's going to do, scared to death."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "88ff0356-81e2-48c0-9987-9bcdd46e3acb"
+    },
+    {
+      "start_time": 699,
+      "end_time": 699,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "27b3cc8e-7106-420b-8c18-cf09254a2e72"
+    },
+    {
+      "start_time": 699,
+      "end_time": 701,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then all the thing sin between."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "7958d84b-4a2e-4b4c-ab22-4b56c67986f3"
+    },
+    {
+      "start_time": 701,
+      "end_time": 702,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "c67d93a9-003a-46dc-a1a5-07838b1ccbd4"
+    },
+    {
+      "start_time": 702,
+      "end_time": 707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It ended up being a much richer journey than anything I like planned on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "c02419e7-f0a8-47f2-b50d-3dc973d6f784"
+    },
+    {
+      "start_time": 707,
+      "end_time": 739,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah and it followed that I think audiences are more ready to even sit down and take that in because it's in the media, it's on our Vimeo collections, it's in the director's cut of their favorite movie, of just their understanding and process is very much a big part of what they're seeing that it doesn't just appear. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "174f992a-2611-4a8b-9281-6ed935f8451f"
+    },
+    {
+      "start_time": 739,
+      "end_time": 744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Any other questions? I'm sure something else will come up for me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "7ba4bc25-229b-4c55-b41a-1798d9e0c748"
+    },
+    {
+      "start_time": 744,
+      "end_time": 764,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think you kind of ... What brought you to create this project or we do. Oh. As a choreographer in your own right, what captures your interest in terms of the range of choreographic strategies, process, performance?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "3a5e37a7-855b-4176-871e-f4b9c5f04ee6"
+    },
+    {
+      "start_time": 764,
+      "end_time": 767,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, we just saw this show."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "a7da4387-d7d7-456a-aef7-66b0e9e04a69"
+    },
+    {
+      "start_time": 767,
+      "end_time": 772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. It's in my head."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "d5e0039b-0112-47a9-9aa3-efb972853b70"
+    },
+    {
+      "start_time": 772,
+      "end_time": 773,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then I just was at APAP."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "f1b343a2-fe59-474d-b53e-8779befa6d1e"
+    },
+    {
+      "start_time": 773,
+      "end_time": 776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Should I say that question better?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "3a0f0e61-8c9b-43e7-887b-7ee5dd3ec12f"
+    },
+    {
+      "start_time": 776,
+      "end_time": 778,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, maybe say it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "e48413c9-4941-4793-b855-55d3c8333af7"
+    },
+    {
+      "start_time": 778,
+      "end_time": 778,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rephrase it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "a6d55eea-dd7d-405e-9844-c5dffcaeca14"
+    },
+    {
+      "start_time": 778,
+      "end_time": 811,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. So you're a choreographer and you have access now to seven choreographer's works. I'm wondering what captures your interest in the range of strategies that they use and we have used, performance, the nuances of performance? What are you like, \"Huh. I didn't think of it that way.\"? Or even between them or as a collective for you as a dance artist?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "ba750b18-de88-4791-8b33-2d55968c3c1c"
+    },
+    {
+      "start_time": 811,
+      "end_time": 841,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well interestingly, I feel like there's actually like two ways to think about that. One is the things that are interesting to me including the work we just saw at the [inaudible 00:13:47]. I just was at APAP watching everything from just the body telling a story, like almost nothing on stage, just person, body, lamp."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "b08a42eb-2400-4047-98fd-b8df92de2d56"
+    },
+    {
+      "start_time": 841,
+      "end_time": 841,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "7ae92e3d-c818-4148-82f8-07019cea94df"
+    },
+    {
+      "start_time": 841,
+      "end_time": 856,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know? Go. It's all there. To what we saw, which all of these technical things, but it wasn't about the technical things. That was just a way to tell the story. Ways that I'm like, \"Oh, more collaborators.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "9d808430-9932-4f66-9068-d5ba71f22160"
+    },
+    {
+      "start_time": 856,
+      "end_time": 860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. More fundraising."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "cc7ba09e-4caa-45aa-95b3-a17c1cd51392"
+    },
+    {
+      "start_time": 860,
+      "end_time": 923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "More fundraising. More things to learn. Then there's the work just between the exchange with each artist. We were talking about this the other day I think of like the stuff that gets passed along that becomes sort of intangible. Like the way things are influencing my work that I don't even know that they're influencing my work, that we are all kind of in this soup together and copyright and crediting, but also knowing there's things that show up. I think there's ... One is an encouragement. I think because every single artist is so different in the way that they may work, whether it's intuitive, whether it's thematic, whether it's exactly this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "7c1c8caa-bfd8-480f-b284-99150efeeaea"
+    },
+    {
+      "start_time": 923,
+      "end_time": 954,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think every artist though that I've chosen to work with, which is not surprisingly, has a place of wanting me, my voice, my presence, my interpretation to be a part of the work, which isn't surprising in terms of who I actually asked. Because if somebody's like it's exactly like this, then I'm like I don't know if I can actually achieve even though I was trained as a repertory dancer. If the leg needs to be here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "f1d771c0-fbe8-4aef-9ac1-41f1049d5af5"
+    },
+    {
+      "start_time": 954,
+      "end_time": 957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Ouch. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "34e30b9a-526f-4524-8ea5-96ce71b21292"
+    },
+    {
+      "start_time": 957,
+      "end_time": 1012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I want to be able ... I'm trying to also choose things that I think I can accomplish. I want to satisfy the vision. If there's something that you want, I need to know, like okay, I feel like I could do that. From Donald McKayle, like no, I want your voice to be a part of it. I'm really interested in your interpretation. Yes. It's very specific. Everybody is very specific and I think that's encouraging even in the improvisation of like, no there's still something specific. That's a great reminder in my own choregraphy is like even if there's an improvisation, it's specific. What did you say the other day? The improvisation, people based in improvisation wanted to look like choregraphy and the choreographers wanted to look improvisational."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "7b64fd63-f382-443d-87fd-10ff6c0fe93f"
+    },
+    {
+      "start_time": 1012,
+      "end_time": 1014,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, sure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "7edb0891-0d9a-4024-a2f6-3396c5df62ec"
+    },
+    {
+      "start_time": 1014,
+      "end_time": 1048,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Again, I think we're trying to achieve an aliveness. There's some things that are affirming ... Well, there are some things that are like, \"Yeah.\" A permission, that are about permission. Like no, you can be that specific or you can be that open. Or it's beautiful to go after something that is about your identity and about who you are because it's still again, a piece of the truth of our humanity. Then it's also to have this ... it's about the angle. That? Fantastic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "733b4409-6f57-479a-9487-0942345f2550"
+    },
+    {
+      "start_time": 1048,
+      "end_time": 1050,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Bebe Miller",
+          "category": "People"
+        }
+      ],
+      "uuid": "bb405374-3224-43bf-bc03-0cc8cfbb2704"
+    }
+  ],
   "set": "2018 Bebe Miller Interview (3 of 4)",
   "event_id": "2404fbea-cba9-4fcc-929d-853e827b8c06",
   "source_id": "29af5b84-5b67-4b61-b494-360ead7442ab"
