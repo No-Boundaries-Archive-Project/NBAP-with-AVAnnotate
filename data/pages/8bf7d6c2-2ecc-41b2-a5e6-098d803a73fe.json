@@ -36,10 +36,10 @@
   "created_at": "2025-10-05T19:49:11.445Z",
   "created_by": "DataMuseology",
   "title": "NBAP with AVAnnotate",
-  "updated_at": "2026-04-18T20:14:28.663Z",
-  "updated_by": "townsendolivia2",
+  "updated_at": "2026-04-19T19:19:43.908Z",
+  "updated_by": "DataMuseology",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
