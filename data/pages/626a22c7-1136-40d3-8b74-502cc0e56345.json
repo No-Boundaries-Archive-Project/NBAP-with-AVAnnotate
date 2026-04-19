@@ -4,11 +4,12 @@
   "created_by": "DataMuseology",
   "title": "2018 Bebe Miller Interview",
   "slug": "2018-bebe-miller-interview",
-  "updated_at": "2026-04-19T22:03:15.957Z",
+  "updated_at": "2026-04-19T22:07:09.782Z",
   "updated_by": "DataMuseology",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "2404fbea-cba9-4fcc-929d-853e827b8c06"
-  }
+  },
+  "parent": "bf834d68-7062-4d4e-aa5e-151a4f7de8de"
 }
