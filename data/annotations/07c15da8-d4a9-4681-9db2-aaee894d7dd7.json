@@ -1,5 +1,1098 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because this was in the 60s ... 53?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "af625c1b-4af5-485a-8e44-c0e5fd7cc191"
+    },
+    {
+      "start_time": 5,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's something like that, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "f7291117-3bbb-4c3e-ba64-d64a444c1a8a"
+    },
+    {
+      "start_time": 7,
+      "end_time": 8,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, because her first performance, she said, was in 71."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "09ca3d39-2b3c-4fc0-9b50-07b08fb507d9"
+    },
+    {
+      "start_time": 8,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm-hmm (affirmative)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "5b86f152-c103-4a46-ac4e-278db6a77030"
+    },
+    {
+      "start_time": 9,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like, in New York when she first-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "c109fca4-98a5-44c5-84e2-0cb348620063"
+    },
+    {
+      "start_time": 13,
+      "end_time": 40,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was so glad that she actually choreographed a new piece on you, and didn't try with all of this that you're saying about her very particular way of moving, which is so ... Which kind of represents the intimacy of her body, you know? Again, that's kind of what sets it apart from, if you will, somebody learning Swan Lake."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "c8de9fb6-2e6d-4862-86e1-8fe268756044"
+    },
+    {
+      "start_time": 40,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I felt like your meeting with her deserved a new choreography and a new moment, and for her to think a new moment on a new black dancing body, you know? I just felt it was beautiful."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "46f2ecd5-cddc-4a6d-b030-9fdd7c7c386d"
+    },
+    {
+      "start_time": 66,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's funny because that's now how it started."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "a84c8994-fc9c-4f3a-98a2-2f4b1bf8f3f9"
+    },
+    {
+      "start_time": 68,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "b99309e1-65b2-434e-9eaa-3cd7a70e49ca"
+    },
+    {
+      "start_time": 68,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was the [inaudible 00:01:10], you know? Just because of the time. Again, I gave her what I gave everybody, was you can do what you want. There's not a time limit. Most people are less than 12, Reggie Wilson's was 20. There's no time limit to do what you want."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "f0721e99-ad25-47d7-ac9e-b8d45d509ba1"
+    },
+    {
+      "start_time": 90,
+      "end_time": 96,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Also, do what you want, that either choreographing something new on me, or something of your repertory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "02a8638a-65f0-411d-b85a-5761cc349581"
+    },
+    {
+      "start_time": 96,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, that doesn't open for you like it did for everybody."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "22b1a752-bbfd-41af-9ba5-636b1a4d58e0"
+    },
+    {
+      "start_time": 100,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm-hmm (affirmative). Right. Great."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "d58d223f-0134-4383-84fa-90804fa6efca"
+    },
+    {
+      "start_time": 101,
+      "end_time": 105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She had just done a solo in Cleveland-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "a253710b-cb59-46c3-95b9-d0176a208620"
+    },
+    {
+      "start_time": 105,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "816c93de-bd94-4bc2-bda2-3e74afb58173"
+    },
+    {
+      "start_time": 106,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She's like ... She didn't know what she wanted to do, didn't know, didn't know. And then that day she's like, \"I'm just going to do this.\" So, we spent a good two days working on this thing that she had done, and it's also so interesting, too, because there's this thing that's happening for her in her body, and the way it's being expressed ... So, I'm trying to ... As a repertory dancer, I liked looking ... Like, this is what this person is doing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "14097e5e-aa61-4bfb-9907-14bda9e140c6"
+    },
+    {
+      "start_time": 135,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm-hmm (affirmative)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "ee601a46-a2a7-4774-9fdf-3eee1312b6ab"
+    },
+    {
+      "start_time": 136,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's not ... I would try to do what she was doing, but that wasn't actually what she was doing, you know? I was like, \"Oh.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "63b35433-f17f-46b2-a004-58b1c161247d"
+    },
+    {
+      "start_time": 143,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How interesting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "45abbae7-eb35-4728-a461-0b3547de9d11"
+    },
+    {
+      "start_time": 146,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, there's just this funny story. I just did not do my hands right, and two days letter she's like, \"Let's do [inaudible 00:02:34].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "e4b1dfba-34ed-4e8f-ac4c-6246e00d71c7"
+    },
+    {
+      "start_time": 153,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's so interesting because she is so much a hands dancer, and it's sometimes almost distracting to me. It's so ... And her body, of course ... And that's why it's wonderful that she choreographed a new piece on you, because her body is of a certain age, and a certain, yes, modern dance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "091e83fe-7cb9-4875-a3a4-0be89c528b4c"
+    },
+    {
+      "start_time": 174,
+      "end_time": 204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I mean the back, as you know, is very ... So, a lot of the energy that may have gone into other parts is now manifested that way whereas with you, in a sense, your whole body is available for expression. I think it must have been a delight for her to choreograph a new piece on the body, on an available body."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "1ec7e3e1-b62e-47dc-8b72-3ee5e16d4029"
+    },
+    {
+      "start_time": 204,
+      "end_time": 231,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think when we got out of ... When we sort of broke out of the time constraint she was like ... When I think she was like ... The time it would take for me to one, learn how it is that she moves, and second, the intention really behind what she's asking me to do. Which is why I was like, \"I'm doing what you're doing, but that's not what you actually want.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "874fab48-1c70-4bc4-8311-fb413e21bc64"
+    },
+    {
+      "start_time": 231,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "42c05a7e-7f11-4457-a294-622a7970a2fb"
+    },
+    {
+      "start_time": 232,
+      "end_time": 246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Or at least I thought I was doing ... I watched even video, and I was like, \"Oh, okay. I do see how that was different.\" In a week, which is the time we had, it's like ... But, what that did though was it allowed her to get to know me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "97f1e75d-7d2e-4011-9cfa-d58b20de6cdb"
+    },
+    {
+      "start_time": 246,
+      "end_time": 247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "567b1dd6-b6ce-4763-b97f-a7a1888e3394"
+    },
+    {
+      "start_time": 247,
+      "end_time": 259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It allowed her to get to see how it was that I moved, and then she was just like, \"You're doing great, but I'm going to try something different.\" Then, we started really clicking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "cce514eb-eead-4d3a-9739-8b43a883dc26"
+    },
+    {
+      "start_time": 259,
+      "end_time": 260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I love that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "b1f9c72e-8f41-49e8-a3d3-e76cae6c1a57"
+    },
+    {
+      "start_time": 260,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was ... I think that's when we both got playful because she has a fantastic sense of humor. She's quirky-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "72eabea1-881b-4f4e-8e13-602826c59642"
+    },
+    {
+      "start_time": 267,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible 00:04:27]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "dc1d2210-cfac-46e6-a3c0-8787a8f0ea1e"
+    },
+    {
+      "start_time": 267,
+      "end_time": 271,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She's also like-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "8940670a-cf17-4cca-8ced-f3185fb7663b"
+    },
+    {
+      "start_time": 271,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "2d0750bc-44df-401c-8d29-a327ae200c40"
+    },
+    {
+      "start_time": 275,
+      "end_time": 282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, you're working with an elder, but at the same time I was like, \"I want to be you when I grow up.\" Like, I just ... The vitality-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "2e98cb1c-76f9-43ff-a0b2-c26f261bd4bb"
+    },
+    {
+      "start_time": 282,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "c3bf4bc3-26ca-4321-b63b-eae9df39e2b9"
+    },
+    {
+      "start_time": 285,
+      "end_time": 317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then, to learn the stuff and then have it be ... Sometimes, there's this one moment in the day where I just flip over. She's like, \"Okay, flip over.\" And I did, and she'd laugh because I really like ... She's like, \"Oh, that's funny.\" I felt like we ... It became playful, which the first couple of days, I think, because it was just the time to make it work."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "b8271c05-8319-4ec5-aeac-5ba5de8eb07e"
+    },
+    {
+      "start_time": 317,
+      "end_time": 318,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "d5a5e822-93ab-4d28-8a31-db8259a9a70d"
+    },
+    {
+      "start_time": 318,
+      "end_time": 325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When the play sort of came into it, that's when I really started [crosstalk 00:05:23], and that was exciting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "75fb6b0b-893c-4788-993d-73c869aaafa6"
+    },
+    {
+      "start_time": 325,
+      "end_time": 358,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's so nice is that it does have a lightness about it. In contrast to ... You need that with the David Rousseve piece that you've got to let us know. Of course, that one David Rousseve piece, of course, is not all of David Rousseve, but for this project to let us indeed know the no boundaries of the black dancing endeavor. You know? Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "f7b425b0-0b7d-4138-97d7-7d7cfbac3650"
+    },
+    {
+      "start_time": 358,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, that's why tonight we have How to Watch A Modern Dance concert [crosstalk 00:06:05]. Were you able to make your-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "98a7bbd2-ec75-4fb8-9971-3ac33167d164"
+    },
+    {
+      "start_time": 368,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I did, yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "ce9b1c44-ff0c-45f8-b74d-526d70c7d73c"
+    },
+    {
+      "start_time": 368,
+      "end_time": 370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, [inaudible 00:06:10]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "b912a894-157c-4d41-98bd-bdceb4a56641"
+    },
+    {
+      "start_time": 370,
+      "end_time": 370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sorry, to-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "e5d9c243-c14f-402e-8919-61f93c18647a"
+    },
+    {
+      "start_time": 370,
+      "end_time": 370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hi, sweetie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "f5889d07-35f0-4de3-b2c9-99bb180951df"
+    },
+    {
+      "start_time": 370,
+      "end_time": 373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just had to run out [crosstalk 00:06:12]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "aa735b3a-5cf0-4079-ae1e-e917e9f9f8b7"
+    },
+    {
+      "start_time": 373,
+      "end_time": 373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We can switch places."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "febeceef-d586-451f-a4d3-e1d284335f2f"
+    },
+    {
+      "start_time": 373,
+      "end_time": 373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm trying to get a job."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "0c69f49d-0a94-4b7f-a5db-dd9baf72ce4d"
+    },
+    {
+      "start_time": 373,
+      "end_time": 390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But yeah, look at you. You look lean and really sexy, yes. [crosstalk 00:06:23] Stop [crosstalk 00:06:26]. Yes, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "1aa16ed6-2f51-4937-9e7d-26e75e557467"
+    },
+    {
+      "start_time": 390,
+      "end_time": 391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Are we continuing-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "d27cdd8c-fb43-44fb-bfef-9465a3cd0b08"
+    },
+    {
+      "start_time": 391,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There was one other thing I wanted to ask you, and then we'll make our switch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "9490c319-e72f-444d-a71d-46dc20c52a17"
+    },
+    {
+      "start_time": 401,
+      "end_time": 401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Brenda Dixon Gottschild"
+        }
+      ],
+      "uuid": "4e1b4107-3720-4af7-99fa-68622375763d"
+    },
+    {
+      "start_time": 401,
+      "end_time": 402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible 00:06:42]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "38eacf1a-9596-4db8-a9fe-ce6d69a1c973"
+    },
+    {
+      "start_time": 402,
+      "end_time": 406,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, that's good because then we just had a conversation without the formal sort of set up, and actually-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "faba146c-a9b7-4b9a-a5a0-615c9088c337"
+    }
+  ],
   "set": "Default",
   "event_id": "70bce0e9-38dc-427b-90ce-9907d4897737",
   "source_id": "30abb2a7-27f3-495f-899b-b2be8d6eb21b"
