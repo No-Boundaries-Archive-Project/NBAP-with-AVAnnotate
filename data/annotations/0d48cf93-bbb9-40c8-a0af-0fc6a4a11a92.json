@@ -1,5 +1,3681 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 12,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"(silence) [inaudible 00:00:12].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "1514390e-a2ab-44ba-8b16-61177a767238"
+    },
+    {
+      "start_time": 14,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"If mine is-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "97391595-fae9-449d-96f9-53c39712b946"
+    },
+    {
+      "start_time": 15,
+      "end_time": 16,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"[crosstalk 00:00:15] the vibrate is on, so it [inaudible 00:00:16].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "7ef9e1fd-5d3f-455f-86cc-134a9921dcc3"
+    },
+    {
+      "start_time": 15,
+      "end_time": 17,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... mine is charging, so-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "d01b2732-44b3-451f-99a8-53ff1756e25e"
+    },
+    {
+      "start_time": 17,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Well, but it's quiet, it's [crosstalk 00:00:19].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "ceceb84e-3352-4207-9210-a45bde88ae14"
+    },
+    {
+      "start_time": 19,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... Yeah, just pull the side of it. Do you know how to do the iPhone?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "4c790c6b-5be8-4af7-a08e-a071caadfce1"
+    },
+    {
+      "start_time": 24,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I don't. [crosstalk 00:00:24].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "ddb0dcef-feba-4414-adb6-cf49aea922ed"
+    },
+    {
+      "start_time": 24,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"There's this switch on the side, and just pull it down and it'll just be red in it. See that little-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "555d4cf0-d964-4f29-a279-fb8ce9ad6084"
+    },
+    {
+      "start_time": 30,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"That little flippy switch.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "3870d2d8-5fa1-427e-8100-9bfee6043325"
+    },
+    {
+      "start_time": 32,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yep.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "fe75049d-db6a-4a1e-b69a-b5ac86ef2148"
+    },
+    {
+      "start_time": 32,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yep, just press it down in there.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "699063f7-456a-46da-9569-f9c82bb622d0"
+    },
+    {
+      "start_time": 34,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Got it.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "018b957b-3518-4756-a18f-a50cd4488878"
+    },
+    {
+      "start_time": 34,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Is that where [crosstalk 00:00:41]?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "ca12a77c-bfa8-4604-949d-26e951704f8f"
+    },
+    {
+      "start_time": 34,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"[crosstalk 00:00:41].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "3ff82066-f254-46c9-b358-7e36e16fa429"
+    },
+    {
+      "start_time": 41,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I mean if you really want to be out of it, then I wouldn't be like sort of out it.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "e27b7aa5-17ea-4559-9fc3-3006f9895407"
+    },
+    {
+      "start_time": 45,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Partially.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "8d091e70-03d9-4776-bfad-cfb78ec30d5d"
+    },
+    {
+      "start_time": 45,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yeah, I would say either be out or in.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "0a3cd6a0-733d-4559-ba17-d2e3046a0673"
+    },
+    {
+      "start_time": 49,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"That bar looks good behind you. Should I put some bourbon up there?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "eba33868-a56e-4eaf-9398-a4ffce61786b"
+    },
+    {
+      "start_time": 53,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"You can put some bourbon on me.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "2f89ec86-f252-414e-93e6-6b86941fbc95"
+    },
+    {
+      "start_time": 53,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Do you want-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "162bb8a4-a050-4184-9895-98a0be938aa1"
+    },
+    {
+      "start_time": 53,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I was gonna say girl-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "ef5cdaf5-f5d7-402b-ba12-520d7e6db75a"
+    },
+    {
+      "start_time": 53,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... do you want a glass of bourbon?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "ac329b56-a1e8-4a59-9170-fcfd5f5b3425"
+    },
+    {
+      "start_time": 56,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\".. Yes ma'am, this has been a week [crosstalk 00:00:58].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "a33ed7d1-4fd1-4c74-a0b9-450ebad86904"
+    },
+    {
+      "start_time": 58,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Do you want ice, or?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "b30c92bd-361f-4694-afc3-db2dc82094ff"
+    },
+    {
+      "start_time": 60,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yes, that'd be great, 'cause see, what's going to happen is when I get home, there will be no drinking.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "c5c22d3f-dae7-407f-96e3-cb32d339fa88"
+    },
+    {
+      "start_time": 65,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cause your girl's not drinking, so you're not allowed?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "49aa1f5b-7c9e-402c-889e-015a9efb01e7"
+    },
+    {
+      "start_time": 68,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Well, she doesn't drink in general. So it's always a hard, you know, she's hawkin' like how many drinks we have.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "06eb62fa-9066-42ea-9d36-698ce0d1f107"
+    },
+    {
+      "start_time": 76,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yeah.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "d04e9ee5-cd51-4753-a661-a87883c1dca0"
+    },
+    {
+      "start_time": 77,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"You know, when a person doesn't drink, they're looking at you like, Oh-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "671988ab-c892-452d-91b0-94cc52c95ddf"
+    },
+    {
+      "start_time": 88,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Sure.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "a99f1560-0bcc-4aaa-82ff-d139a8455802"
+    },
+    {
+      "start_time": 88,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Right\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "14b818de-e0bc-4e1a-a102-74a4e8958211"
+    },
+    {
+      "start_time": 88,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... I think that's one too many.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "10a8cbdd-84d4-4f05-acc0-9fe508bbc2f2"
+    },
+    {
+      "start_time": 88,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yeah, you're definitely being scrutinized.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "bb678d84-7d88-4bca-a789-3149587760b6"
+    },
+    {
+      "start_time": 88,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Right, I know! I think that's too many! Hunny I just [crosstalk 00:01:29].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "675375ce-e7f1-4165-a69f-b70d2138c1bf"
+    },
+    {
+      "start_time": 88,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Like no.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "5079ab87-9070-4d42-9681-2c1c2cc75511"
+    },
+    {
+      "start_time": 88,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Is this Bulleit Rye okay [then 00:01:29]?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "08ae55e5-5986-4fc2-a208-7a6d6d82c2d8"
+    },
+    {
+      "start_time": 89,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yes ma'am, that'd be great. I'm like, Girl, I'm 6'3-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "be584767-8c0d-4181-a9f5-fb61c669bebf"
+    },
+    {
+      "start_time": 89,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Gesel do you want any?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "432ca6de-e257-4044-9dc9-c1e548886ad1"
+    },
+    {
+      "start_time": 89,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yes\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "78febd2a-28df-4926-ae72-64fb36df1497"
+    },
+    {
+      "start_time": 89,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Do you want some?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "e7cde995-70e9-4298-b10e-4f537a430690"
+    },
+    {
+      "start_time": 90,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... 270 pounds. By the time-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "074edd71-fe62-4958-9555-8c6ec151e72e"
+    },
+    {
+      "start_time": 92,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"[crosstalk 00:01:33].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "6b3148b7-3710-492e-9868-3982b500373a"
+    },
+    {
+      "start_time": 92,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Do you want ice or no ice?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "c8f5e837-e02c-41a7-8627-600e39c2bc35"
+    },
+    {
+      "start_time": 92,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Ice please.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "e7965a43-c99b-4920-a83e-0dee8760a7e8"
+    },
+    {
+      "start_time": 92,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"So Gesel-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "359ade53-e689-447b-9f4a-b6977718a91e"
+    },
+    {
+      "start_time": 92,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yes sir.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "afcbb6fc-ef4c-4c8a-8f6d-0e1a958487b6"
+    },
+    {
+      "start_time": 95,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... it might be best for ... well, it's just right now you're sitting right under his microphone-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "7cb67424-9a8c-40ff-9d22-b58747dd3d63"
+    },
+    {
+      "start_time": 100,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I'm right, so should I be on that side?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "9e6c73c7-ec2a-46f9-bb93-cf5c9cd0eb29"
+    },
+    {
+      "start_time": 101,
+      "end_time": 107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... and you're going to be super loud. The sight line is better here, so I'm thinking maybe I should just move the microphone.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "63eb57a5-0141-4dec-857d-94cc73e8c7b7"
+    },
+    {
+      "start_time": 107,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I could do this.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "149e0d9b-9fb2-4e7e-ae30-4ac9d76e2a34"
+    },
+    {
+      "start_time": 108,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Nah, you're good. I'm just going to put this on the other side.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "4136e10f-9b38-4380-8b57-809ab1b1a80d"
+    },
+    {
+      "start_time": 109,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cause then he's going to end up looking at me over there.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "93b6cdf2-762d-4672-a408-68ee55b58500"
+    },
+    {
+      "start_time": 118,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"This is better than doing it at school, right?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "f70d1940-9ed3-4359-b1a6-53ab6d1910bf"
+    },
+    {
+      "start_time": 120,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... They ain't [inaudible 00:02:01] if you offer them bourbon! They'll then come over, but that was to pay, you know, no that was to pay\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "7b9700db-d0a0-4caf-8764-39e782661f1a"
+    },
+    {
+      "start_time": 129,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"There's always bourbon at [inaudible 00:02:10] house.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "30b9ddfe-75fe-4706-a081-e76dc07b6462"
+    },
+    {
+      "start_time": 133,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yeah. Well it's funny 'cause I always-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "c7e905ca-60f1-457c-9a84-83e218f77030"
+    },
+    {
+      "start_time": 133,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"This wasn't here before, is this a new couch?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "f165edaa-024d-4836-ba81-f422d3a10bab"
+    },
+    {
+      "start_time": 133,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"No, this was here.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "b8da5f3d-5fc2-4941-ab0e-e008b0b8e9e6"
+    },
+    {
+      "start_time": 134,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Was this here last time I was here?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "5d5b1530-f172-4de0-b102-209802f87d35"
+    },
+    {
+      "start_time": 134,
+      "end_time": 135,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"It might have been [inaudible 00:02:16].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "1b6934cb-c6d5-4fed-a2a0-7910688b79fc"
+    },
+    {
+      "start_time": 136,
+      "end_time": 137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"It may have been a little configured.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "f1ac8080-a887-4a09-83aa-b0e4ec15ecc5"
+    },
+    {
+      "start_time": 138,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Why thank you [crosstalk 00:02:19].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "256ecd86-2e84-4788-a17d-d19a1d11c9d8"
+    },
+    {
+      "start_time": 139,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I got you a glass to match your hat, it really set up.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "89223f21-5982-43d1-8ccf-f4813e2ce271"
+    },
+    {
+      "start_time": 143,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Okay, hold this up here.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "2698ae89-e4fe-46b4-a2e0-09d3676db68f"
+    },
+    {
+      "start_time": 144,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"With the pinky up? Dave, do you want some bourbon, or do [inaudible 00:02:27] working it?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "22850cba-d6e8-43e3-8cdd-51e52a0d7ef5"
+    },
+    {
+      "start_time": 153,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I'm gonna work on it for now.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "10bbdd9d-6e16-4095-bae1-43889c9d3859"
+    },
+    {
+      "start_time": 153,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Oh, yes. There we go.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "27e6c70f-cbd4-4d28-bce0-45f74c1c18be"
+    },
+    {
+      "start_time": 153,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I should probably [crosstalk 00:02:33].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "911ab16d-ff50-44d3-a1b9-19721fcf9336"
+    },
+    {
+      "start_time": 153,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"See? Ha. All you just need to just exhale.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "6351500e-0cdf-4838-a369-68dd87ddbf18"
+    },
+    {
+      "start_time": 155,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"It puts that hair on your chest.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "8d81c0a3-2b43-4243-a034-e6b77f851853"
+    },
+    {
+      "start_time": 160,
+      "end_time": 166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"You're looking good Rennie, you're looking good.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "c81474b3-f116-47b5-a18e-a8aa68d77170"
+    },
+    {
+      "start_time": 169,
+      "end_time": 172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"He does look good. [inaudible 00:02:50] can't help himself, he has it.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "9ebb2a3e-8187-46fa-9f3a-e10197a74b4a"
+    },
+    {
+      "start_time": 172,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"[crosstalk 00:02:53] doesn't want to know-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "46b51b0f-7d90-42bf-8453-7533694feff1"
+    },
+    {
+      "start_time": 172,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"[crosstalk 00:02:54] that's basically a hot and [stick 00:02:54] there.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "efa8dfdd-6470-4edd-b456-712e20c232c8"
+    },
+    {
+      "start_time": 172,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I know! This is [inaudible 00:02:56].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "e716829e-582c-4ffc-ab9e-927de258701a"
+    },
+    {
+      "start_time": 172,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... Yeah, and plus I'm flying, so I always try drinking the week that I fly.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "a0e1a215-7a43-4083-8a96-87e3b4133cc1"
+    },
+    {
+      "start_time": 172,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The week, the week.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "d0adc059-8a05-4557-9d5c-049405d17fef"
+    },
+    {
+      "start_time": 185,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yeah, if I'm flying, I just get in the mood. 'Cause if I don't start drinking, if I drink like straight up, then it's-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "9dcea7b7-f875-437c-8c37-9ed4434d5a44"
+    },
+    {
+      "start_time": 197,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Then you-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "fb6d018e-e2db-44c3-a4d0-0862ec93a30a"
+    },
+    {
+      "start_time": 197,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... Yeah, it's like a shock to me, like awuhrr.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "c702f19a-ed82-405c-af1a-c03ce3a46899"
+    },
+    {
+      "start_time": 200,
+      "end_time": 201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... It don't work.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "2478d078-7e09-4f6f-8b9f-6f8f425f04ce"
+    },
+    {
+      "start_time": 201,
+      "end_time": 209,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"So, so then I go dry. On Friday I'll be dry. I'm gonna text you guys with like, How dry I am!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "828ee8fa-2ba7-4efb-b901-c91016c5ea32"
+    },
+    {
+      "start_time": 209,
+      "end_time": 213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"We'll be like, Cheers! Cheers from heres!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "025955ee-a4c2-4b9e-8fb6-cca9d9cf0962"
+    },
+    {
+      "start_time": 212,
+      "end_time": 213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Oh [crosstalk 00:03:33].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "6b9f1bca-781f-43af-85fb-93d1d8096cab"
+    },
+    {
+      "start_time": 212,
+      "end_time": 223,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"She has, but here's the funniest stuff about it, I love [inaudible 00:03:35]. She's like, Yeah, I think I ...  she's like, I think I'm gonna have some wine tonight. And it fucks me up every time ... Oh, your kid's not here, right?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "a632113c-cc2c-4b63-9e86-7f600ed9e12a"
+    },
+    {
+      "start_time": 223,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"No, [inaudible 00:03:44].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "109272e4-ac6d-4635-a997-5efe1e189488"
+    },
+    {
+      "start_time": 223,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Okay. So certainly it fucks me up every time, because I'm like this, I'm like, Oh, we're going to have some wine? I go like, Oh, you started drinking? And she's like, Oh no, my fake wine.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "cf7c56d2-b310-4684-b6d1-99a766dd631d"
+    },
+    {
+      "start_time": 232,
+      "end_time": 233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Oh my fake?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "de940d46-8814-4acf-b0b5-f9cc6bbadd66"
+    },
+    {
+      "start_time": 233,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"What's her fake wine?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "72268d89-c0a2-42c4-b505-0d4a868d30f6"
+    },
+    {
+      "start_time": 234,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"My fake wine.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "e51e68e4-44c5-4088-8430-4a6f1f302180"
+    },
+    {
+      "start_time": 234,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Grape juice?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "f70c6e1c-e99b-4e5c-88b1-931004910e0d"
+    },
+    {
+      "start_time": 235,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"They have a fake ... like non-alcoholic, but without no, no, no, not even the 1%, 2% alcohol in it.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "43610cad-8863-4658-ad0c-1441ee40da5f"
+    },
+    {
+      "start_time": 239,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"What's the point of that? Calories.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "bc385736-93ae-4eb4-a979-ca3dec7ff086"
+    },
+    {
+      "start_time": 242,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I know, right?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "68e47ebe-b0b3-460e-86a7-5429bfa34279"
+    },
+    {
+      "start_time": 242,
+      "end_time": 247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yeah. And I have to say, though, it does taste like a ... You can trick yourself, like-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "7104d895-3164-41b4-a315-602d5a1f00cc"
+    },
+    {
+      "start_time": 247,
+      "end_time": 248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"But it tastes like wine.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "5f585555-3cc6-4e0e-bffb-2a3a995b7953"
+    },
+    {
+      "start_time": 247,
+      "end_time": 248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... it's ... yeah.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "e918a8b3-9ad9-4342-a10f-aa93b5b9e788"
+    },
+    {
+      "start_time": 248,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I know, but you're right. Like why?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "29bd308d-e86c-4d5b-b405-9f26f14202ae"
+    },
+    {
+      "start_time": 250,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"What's the point of-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "dda77d0e-c2ca-4212-b4fe-1d5b4a769b8a"
+    },
+    {
+      "start_time": 251,
+      "end_time": 252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"It's like non-alcoholic beer.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "428c5f03-cb64-4e8e-b813-4d2f0f862d13"
+    },
+    {
+      "start_time": 252,
+      "end_time": 253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yeah, but wine tastes gross.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "a7651b2a-7b32-405a-b822-88c44ec3a276"
+    },
+    {
+      "start_time": 256,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yeah, yeah, well red-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "319e9a9d-724d-4e4a-a390-75990f79d4d0"
+    },
+    {
+      "start_time": 256,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I like wine, but-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "0c5a282b-cbc1-4a32-97fd-e84b37e95089"
+    },
+    {
+      "start_time": 256,
+      "end_time": 257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I like wine, but not enough to have-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "d051c7d6-ea8f-465e-8419-95abf1954c18"
+    },
+    {
+      "start_time": 257,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... To have the calories [crosstalk 00:04:18] but I'm going to drink a Coke if I'm going to-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "20587def-7cf7-475c-9299-85293678373c"
+    },
+    {
+      "start_time": 260,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Now the non-alcoholic beer I like because it actually tastes-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "98b0392e-e0ea-44c9-9d68-be772a303d1e"
+    },
+    {
+      "start_time": 263,
+      "end_time": 264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... Like beer.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "c9ae43ea-7915-41dc-89fe-24c6316c920e"
+    },
+    {
+      "start_time": 264,
+      "end_time": 265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\".. beer, like beer. Yeah.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "834afb3d-3846-45c9-a69c-e71a16608d99"
+    },
+    {
+      "start_time": 265,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... See, and I feel the same way about beer.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "08ab4080-975f-4a99-a614-ffafc3e9776c"
+    },
+    {
+      "start_time": 266,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I feel bloated after that.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "a5e8db59-bc1c-41b1-ae66-5882374ec6dd"
+    },
+    {
+      "start_time": 266,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I'd rather have ... The good beer that I like is non-alcoholic.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "3bcde499-f48c-45ea-935b-2c110fd9870c"
+    },
+    {
+      "start_time": 270,
+      "end_time": 272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yeah, beer doesn't do my belly right.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "c17ba1f9-b23d-41c7-a122-a0fa35b7111f"
+    },
+    {
+      "start_time": 272,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I don't dislike beer, just [crosstalk 00:04:33].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "6113a7df-eb8b-4a94-8e3b-c452ec8e1b96"
+    },
+    {
+      "start_time": 272,
+      "end_time": 277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Me either. It makes my ears ... my ear turns red, my left elbow itches, and I'm like-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "adf8810d-9925-45c8-abab-fc10821106f8"
+    },
+    {
+      "start_time": 278,
+      "end_time": 278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Really?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "0b141bbe-0b5e-4c41-933a-0a7e3a864da5"
+    },
+    {
+      "start_time": 278,
+      "end_time": 278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... Yes.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "7d932672-7739-4cb5-8a08-67fba3eb7494"
+    },
+    {
+      "start_time": 278,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"When you drink beer?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "4b347984-1c4e-4d07-a59c-13ad6ad842f4"
+    },
+    {
+      "start_time": 279,
+      "end_time": 284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"It's like, I don't know what it is. I don't have a wheat allergy, but beer like ... kicks-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "df47a1db-2fac-48ed-b4f4-ab0c6343df55"
+    },
+    {
+      "start_time": 283,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"That sounds like a Vaudeville show.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "e2288997-2468-42a8-8f3a-9dfe285f9ec6"
+    },
+    {
+      "start_time": 285,
+      "end_time": 285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... Yeah.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "4718ad8c-587a-4542-8a0e-32937880b668"
+    },
+    {
+      "start_time": 285,
+      "end_time": 287,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Weird. And that doesn't happen with any other alcohol?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "768b946a-0edf-420b-a242-d9a453badba7"
+    },
+    {
+      "start_time": 288,
+      "end_time": 290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Mm-mm (negative). Red wine sometimes.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "e51736d0-ec27-40ed-8545-f386fa374a0a"
+    },
+    {
+      "start_time": 290,
+      "end_time": 292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Is it a sulfite with beer?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "6d391e43-ff2c-4294-975f-14eaa098139f"
+    },
+    {
+      "start_time": 291,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"That's what I'm wondering, it must be something like that. I've got a bunch of ice cubes-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "0afd9fc6-a594-473f-86cf-7c7a8c6df423"
+    },
+    {
+      "start_time": 294,
+      "end_time": 295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Some people are allergic to this.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "ad28aa93-2e4f-4181-a1eb-d1c14063163d"
+    },
+    {
+      "start_time": 295,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... [crosstalk 00:04:55]. Do you guys mind me being in here?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "833c9a2c-37e6-458b-b102-0753acfb272b"
+    },
+    {
+      "start_time": 296,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"No, not at all.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "c9783108-5b24-4919-9a24-35fa48b33ca7"
+    },
+    {
+      "start_time": 296,
+      "end_time": 296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"[crosstalk 00:04:56]?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "5929b1ed-f0fc-473f-9d92-258c44edd04d"
+    },
+    {
+      "start_time": 296,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I think we're good to go.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "e509957d-16ca-4640-ab4b-ee54487938a7"
+    },
+    {
+      "start_time": 300,
+      "end_time": 302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"If you're going to throw in a question, just-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "a262b989-39d6-432b-ba1c-30ab26fa725f"
+    },
+    {
+      "start_time": 302,
+      "end_time": 303,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yell it from over here?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "b362d7f2-401e-4ff7-830d-a948c084ab15"
+    },
+    {
+      "start_time": 303,
+      "end_time": 307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... [crosstalk 00:05:03] ... Yeah. So Rennie! I was wondering ... \""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "d0265e60-d3bc-4e2b-92b8-7fc13d7efbb3"
+    },
+    {
+      "start_time": 307,
+      "end_time": 310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"You can't see this here [inaudible 00:05:08], this is on the back table.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "412d44ca-b6b0-40ed-a69a-1f961682ffcc"
+    },
+    {
+      "start_time": 310,
+      "end_time": 311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"It's behind you. Is it [inaudible 00:05:11]?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "519b21c8-95b2-4257-9d0e-dec89bc9591f"
+    },
+    {
+      "start_time": 314,
+      "end_time": 316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I shouldn't because-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "e4d84726-3e6a-49a4-8618-32d91f285cbc"
+    },
+    {
+      "start_time": 316,
+      "end_time": 328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Well what's funny, like the way I've been shooting these, a lot of them had been in peoples' houses, so it's kind of funny that I'm in your house, 'cause it's not like reading, like it's ... Rennie's got ... I'm glad you have on the Philly hat representing-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "f65f90f8-09c7-486a-8a51-b1a4f42583c0"
+    },
+    {
+      "start_time": 328,
+      "end_time": 329,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Dude, you have a fly house.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "80805e20-703c-43c8-bfe6-c7fb4f5193f8"
+    },
+    {
+      "start_time": 330,
+      "end_time": 332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Word. Word! Look, look, look-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "1d0c866d-d140-4235-9025-2fed4f6c80db"
+    },
+    {
+      "start_time": 332,
+      "end_time": 332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I love Rennie's house [crosstalk 00:05:33].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "1b81f905-e5d2-42dc-a475-95d6040f2585"
+    },
+    {
+      "start_time": 333,
+      "end_time": 333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... Cribs, Cribs.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "2a045ae4-48de-421e-9d4b-14309d1faa27"
+    },
+    {
+      "start_time": 334,
+      "end_time": 334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cribs!\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "92dcb00e-a11e-4370-949c-d7a9fea4bc56"
+    },
+    {
+      "start_time": 336,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Pimp My House! Pimp around my ... Yeah, what's up. I love these couches. So this is '70s right here?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "6e13953b-22e9-44c0-971e-f9cd87686674"
+    },
+    {
+      "start_time": 344,
+      "end_time": 344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"It's '60s.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "fda43d53-942a-4666-8e5b-1f95d0d07f3c"
+    },
+    {
+      "start_time": 344,
+      "end_time": 345,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"60s?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "da1ce8e4-f591-4180-92a3-786ec491b1bb"
+    },
+    {
+      "start_time": 345,
+      "end_time": 346,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Probably late.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "09c05aec-74c1-4d99-b8ff-234c754454b6"
+    },
+    {
+      "start_time": 346,
+      "end_time": 348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I had one in [crosstalk 00:05:48] my house awhile ago.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "4d68e08d-e67d-4362-9686-5b784021c529"
+    },
+    {
+      "start_time": 348,
+      "end_time": 350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The white arms will be the [soles 00:05:50].\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "0c7636f6-9462-4cbe-b2f6-75a5e6226e23"
+    },
+    {
+      "start_time": 349,
+      "end_time": 351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cause I feel like I'm supported.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "fbb77da5-8d5e-499b-bee0-4f1716d877de"
+    },
+    {
+      "start_time": 352,
+      "end_time": 352,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yeah.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "f081e552-c73e-45be-ae6a-b2467d848ca8"
+    },
+    {
+      "start_time": 352,
+      "end_time": 353,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The other one's just like ...\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "7b727d06-b754-431f-974d-9994bca30fd9"
+    },
+    {
+      "start_time": 352,
+      "end_time": 354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Whoop, super sinky sofa.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 1",
+          "category": "People"
+        }
+      ],
+      "uuid": "edc8c82c-2f9c-4917-b7d8-2107784d34c7"
+    },
+    {
+      "start_time": 355,
+      "end_time": 355,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yeah.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "ba26d754-d531-4678-a94d-d9dbbb0d8a43"
+    },
+    {
+      "start_time": 355,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"We decided that we had to have a couch that had arms that functioned as seats for extra, like-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 5",
+          "category": "People"
+        }
+      ],
+      "uuid": "a71b8ffc-1023-454a-ae53-c9d7e4dc7e60"
+    },
+    {
+      "start_time": 359,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yeah.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "0b2a4aca-3377-43d5-9258-74c8282223da"
+    },
+    {
+      "start_time": 359,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yeah-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "34d05942-2161-4b8b-8581-3c1ea5cf43b7"
+    },
+    {
+      "start_time": 360,
+      "end_time": 361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Just like at a party-\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "f8bee62f-2ed9-4c36-a270-ac2180b1b391"
+    },
+    {
+      "start_time": 360,
+      "end_time": 361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... you can sit there, right.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "2b337843-e652-4d53-84b9-970aeece5162"
+    },
+    {
+      "start_time": 361,
+      "end_time": 361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"... when you run out of seats.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "dd887572-f8f5-466a-995e-1e42a7884f61"
+    },
+    {
+      "start_time": 361,
+      "end_time": 361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Right.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "c020bdcf-791b-4490-b9c7-050f01722da0"
+    },
+    {
+      "start_time": 361,
+      "end_time": 361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Yeah.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "b0e7cff1-114f-41ed-8675-5900c80e59b9"
+    },
+    {
+      "start_time": 361,
+      "end_time": 361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"No one seems to have them.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "db7492d7-10ef-4df8-81c3-6162594c9c68"
+    },
+    {
+      "start_time": 361,
+      "end_time": 362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"All right. \""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "f85aa715-a878-4e68-9138-30a61f22656a"
+    },
+    {
+      "start_time": 365,
+      "end_time": 365,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cool.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "0ef84c94-56f6-4db3-baf4-541aa2001905"
+    },
+    {
+      "start_time": 366,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"We're pretty much good to go here.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dave",
+          "category": "People"
+        }
+      ],
+      "uuid": "0e4b67e7-b7fe-4ade-a785-14b07dbffd6e"
+    },
+    {
+      "start_time": 368,
+      "end_time": 382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Great, I'll just start talking. Rennie, can you tell me a little bit about Rennie Harris Puremovement, like how long it's been, why you made it, how it came to be?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "e8a82236-bbbf-484a-ac7b-e9f689dc4ad8"
+    },
+    {
+      "start_time": 382,
+      "end_time": 417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"It's now 22 years, this 2014, it'll be 22 years. We started officially in 1992, but I started in '91 without knowing I was going to make a company. It was completely by accident, or happenstance, I guess, I don't know. Someone called me, as a matter of fact it was specifically Michael Pedretti from the Movement Theater International, who used to throw international mime festivals in Philadelphia.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "7ed40eaf-3977-4a40-9c5a-e682c826f948"
+    },
+    {
+      "start_time": 419,
+      "end_time": 463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I used to be a pantomime. Yeah. So, but it was a summer job which is interesting. It was a summer job, I was 13 or 14, something like that, and it was through the church, the Catholic church. And we used to have to go through the neighborhood ... Our job was to go through the neighborhood and mime out parables in the Bible. So, being, there was like, Lorenzo, you're a good dancer. This'll be a great job for you. So I went to mime training school kind of thing, and then ... And what was cool about it was I was embarrassed, but I had white face on.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "4b9e432e-78ab-4adf-b6a6-432321df75f5"
+    },
+    {
+      "start_time": 463,
+      "end_time": 499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"So no one knew it was me until I started dancing. So I tried not to dance as much, I just tried to do like the, dee dee, you know, all the stuff. Because all the gangster guys and all the thugs is like, Is that Lorenzo? You know. So anyway, so anyway so that one thing led to another, I started doing ... I was popping. And I say that because what I started to understand at an early age, that popping was sort of an internal pantomime. And we actually entered pantomime competitions and things of that nature, or exhibitions.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "bd287fbb-05c4-41b8-979f-21590672d8f9"
+    },
+    {
+      "start_time": 500,
+      "end_time": 539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"And you know, and the discussion was, Was this pantomime? So then they started calling it the New Pantomime Festival, when we were involved in it. So that was sort of a small history that was happening outside of my little popping group that I had when I was 14. All that to say the guy who ran these festivals, his name was Michael Pedretti, called me up and said, Hey, I want you to choreograph 45 minutes at the next festival or performance. And I thought it was a joke, I thought it was one of my friends trying to sound white, right?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "6dad9bdc-58e7-4091-a219-939bf467092b"
+    },
+    {
+      "start_time": 539,
+      "end_time": 561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"And I was like,  Whatever man, blah, blah, blah, and he's like, Yeah, we're going to pay you $1,500 and we're going to give you half now. I was like, I knew it was a joke. Then I was like, I could be dead, man, you know there's a gun shot, there's a gunfight outside my house. I said, Dude, you're going to pay me something. So let me get this straight, so you're going to pay me $1,500, you [owe 00:09:16] me $750 now, and the gig is a year from now? He's like, Yeah.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "aa27dc38-3e62-42c9-8180-21bb9fa5f46e"
+    },
+    {
+      "start_time": 561,
+      "end_time": 606,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I said, Cool, I'll take your money. I might not show up, but I'll take your money. Because I thought it still was a joke, and then it turned out it wasn't, but I still felt like, I hadn't never been booked a year in advance. I'm like, What was that about? So I was like, That's crazy. And so he said ... And I didn't know what to do. So I started creating 45 minutes. The backstory is that because I was sort of in hustle mode with street dance, before that I performed with Japanese Kabuki dancers. I performed with ballet dancers, modern dancers, African dancers, and in juxtaposition kind of deal.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "69c094a4-aa8c-49cb-9bad-2662cefbe138"
+    },
+    {
+      "start_time": 607,
+      "end_time": 637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"And so and I would choreograph little things for them here and there. So I think, and in retrospect he saw something choreographically. With my group, The Scanner Boys, which is a street dance group, and what I was doing on my side gigs without them kind of thing. And he never answered a question like, What made you call me to think that I could do 45 minutes? Up to that point, I had never choreographed anything past 10 minutes in 1991, which was like, Okay.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "e106febe-9d13-4fd9-888b-48354a210810"
+    },
+    {
+      "start_time": 638,
+      "end_time": 676,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"So anyway, long story short, I took house music, I mean house movement, and choreographed it to jazz. I did a popping solo too, just my breath kind of thing. And I did hip hop to a jazz fusion, and separated the styles and gave them different music. And so that was the beginning of like ... People who saw it was like ... they were speechless. I didn't know that I did anything, I thought it was the course. It's hip hop, that's what we do. We adopt, I mean we adapt to the situation.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "955bbbc6-6948-4483-ba19-047b603422c8"
+    },
+    {
+      "start_time": 677,
+      "end_time": 707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"It's theater, so let's figure out how to freak it out and twist it, do something totally different. And there was only one situation where he said ... one stipulation he said, You have to do this, but you can't use your dance company, you can't use The Scanner Boys. Because we were a straight street dance crew, like ba, ba, ba that's it. That kind of thing. So I was like, Okay. I used them anyway, because I figured we're going to be on stage, what are you going to do? Stop me in the middle of the performance? They can't dance, so.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "a04ae1fd-dcba-4086-bb83-e17333055cb9"
+    },
+    {
+      "start_time": 707,
+      "end_time": 711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I used Scanner Boys at the very end and the last piece I called Puremovement.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "ecd22126-2fbb-4460-9c1c-23b60c1c988d"
+    }
+  ],
   "event_id": "fc8fe5a5-7553-4def-a8c3-823b9aaedbba",
   "set": "2013 Rennie Harris Interview (1 of 6)",
   "source_id": "ffad2c20-0785-4920-bc5e-d61ce77c89ee"
