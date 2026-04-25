@@ -1,5 +1,1329 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "15bbb137-0888-4bfb-bf97-57df09bade37"
+    },
+    {
+      "start_time": 1,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then I'm going to ask you about the soul, but it's like tight, so-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "f0d155ce-019e-4b7c-a745-3fcce789e789"
+    },
+    {
+      "start_time": 4,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can do it fast."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "cbc26c5a-4dbc-4bf2-b754-fc23dd016bba"
+    },
+    {
+      "start_time": 5,
+      "end_time": 5,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "575e9d0d-71af-4ecc-a4ac-5bb8ff45bbad"
+    },
+    {
+      "start_time": 6,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I told you, I be running."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "2c8363fa-53f8-4915-814b-5e828a30839e"
+    },
+    {
+      "start_time": 9,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's good, it's all great."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "9af9acef-4e62-41ab-90ba-a935179997e2"
+    },
+    {
+      "start_time": 11,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, go ahead."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "365617ee-e423-4470-a785-dd1628bbbcb1"
+    },
+    {
+      "start_time": 12,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You're good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "ada20d90-7481-4c31-b903-51347694bc27"
+    },
+    {
+      "start_time": 12,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "4d1b7366-5801-4feb-8d76-61eae7b2d2ec"
+    },
+    {
+      "start_time": 13,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, what black dance is to me, like, you know, when I first heard the term, I was like, what's black dance, I don't know what black dance is, and I realized black dancing is hip hop, that's the only thing that it is. It's not black people dancing, it's cultural, it's community dancing within hip hop. That's the black dancer. That's the dance of black folk in this country, which meant it was community dance, whether it was hoofing, Lindy Hop, Jazz, all those things, that's black dance, to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "ebe1425a-4bc0-44c7-9260-3e32e873ac35"
+    },
+    {
+      "start_time": 42,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When there's a black dance company, I don't necessarily think of it as black dance, I think about, that's a black dance company addressing black issues, possibly. Because the dance that they're doing is western, there's ballet, or modern, what have you, and so it never even, in my head ... It was just a natural thought. I never even thought about it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "e3ff11f8-7f09-4ee4-a8b4-0554183ce354"
+    },
+    {
+      "start_time": 65,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, I'm Ellie's black dance, [inaudible 00:01:07] black dance, Lula Washington, Cleo Roberts, that's black dance. I never even thought about it that way. Always, they're doing modern dance, they're doing ballet, and I knew that wasn't black, specifically, historically."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "f1da98e6-be1c-4025-bbb1-7e580883d34d"
+    },
+    {
+      "start_time": 81,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then I was like, well what is black dance, and I said, the only thing it could be is the social dance of black people, and hip hop right now is what it is, but it was Jazz, it was all those things prior to it, you know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "1b088824-79c3-4c67-9dc3-606d1bb52f95"
+    },
+    {
+      "start_time": 94,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you're addressing black issues, does that make it black dance? I don't know. You can make the argument for it, but when we're talking about the dancing, we're talking about technique, philosophy of the dance, specifically, not the content, the narrative, the soul, those are separate things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "3e236392-a72e-4b6d-ad36-988dae0e53a8"
+    },
+    {
+      "start_time": 109,
+      "end_time": 112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then, to me, black dance is a social dance of black folk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "60243c56-1ca5-4966-b880-2c458c577e00"
+    },
+    {
+      "start_time": 115,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Then, the piece that we're working on right now, the solo-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "da77669b-27f6-43af-85f7-819a8e13583d"
+    },
+    {
+      "start_time": 119,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm- hmm (affirmative)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "adf99956-f165-4244-bf68-782aeba68c11"
+    },
+    {
+      "start_time": 122,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How would you talk about it. What am I doing? What did you make? What is that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "4db97ffe-573a-439d-a708-e4803bd0ba49"
+    },
+    {
+      "start_time": 129,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't know, I don't know nothing about nothing. I don't know. I feel like it's an extension of my life's work of my solo. I have all of these variations of my solo. Prince Scarecrow to Road to Emerald City, Endangered Species, and you know, Flash, and all this other stuff, these sort of different extensions of one particular thing dealing with molestation, rape, molestation, religion, identity, femininity, and masculinity, what are accepting that as a black male. Understanding that, for me, feminine energy is that release and male energy is that projectile. This aggressive ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "e415b9fa-fca1-4eeb-a0cd-af60132179e0"
+    },
+    {
+      "start_time": 176,
+      "end_time": 191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that projectile only can project ... You can only project something if something's built up in there, and it shoots out. The idea that maybe the release is a probably a little more healthier, that exhale. Just a little bit more healthier than, just like, ah!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "b3cdba7f-f573-4815-9b1b-deef290c3f27"
+    },
+    {
+      "start_time": 192,
+      "end_time": 218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how do you get to accept those two, because we have it as men, we know what ... But our man-side, so to speak, quote UN quote, defeats that. Crushes that feminine energy. So, will that make us healthier as men, will we live longer, you know what I mean? Why do women live longer than men and we have this rage and things that we haven't dealt with and I feel like that peace is about that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "f67bb8d3-67a1-4c12-a3a8-bf381924c8cc"
+    },
+    {
+      "start_time": 218,
+      "end_time": 255,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me, it's in the female body, but you're me. So, it's the illusion of ... This is the disillusion, illusion, you are me in the solo, if I had to do that solo, I would do everything I was giving you, I would do it. And all of those moments, this moment here, just is about when I was raped, just having that fucking hand over your mouth, controlling it the whole time. Screaming within this thing here. Creating illusions of disappearing from when you're in that situation, you create this whole other world."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "0740c40d-5042-4f9a-ab47-8e8e5e6ac27c"
+    },
+    {
+      "start_time": 255,
+      "end_time": 298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I created this world where I walked into a closet and it was like a ... I just visually left my body and went into this closet. Really tapping into my imagination. Probably a little bit earlier than most people. Like, really, children, catapulting myself years ahead of the people ... Kids my age. Tapping into that dark spot, that dark place. I would assume most kids who go through a tragic situation, that's what happens, and so you become wiser in your ... As a kid, for some reason you grow up fast."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "167e5e30-cbfe-4767-9cd2-879345e13133"
+    },
+    {
+      "start_time": 299,
+      "end_time": 317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was very shy, don't talk to people. I still don't. At most, I can go out there without talking. Drives my women, my women, like I have all these women ... The women that I've been in relationships with, drives them crazy. They think something's wrong, but no, I'm just not inspired. I don't talk as much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "2263021f-0cec-4ac0-8287-e3ee6a946162"
+    },
+    {
+      "start_time": 317,
+      "end_time": 348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I'm on the spot, yeah, I can't stop, but in my space, I'm good. There's no need for it, and I think that has to do with my childhood, the darkness, so to speak. When I was telling you where, up into my 30s, I walked up the steps backwards, anytime I would be in the dark and had to go up the steps, I would just walk up backwards, because I kep imagining someone was behind me walking up the steps and was about to grab me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "737ad93f-9d46-4cd8-9b30-713cbdcc9513"
+    },
+    {
+      "start_time": 348,
+      "end_time": 363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was like, what the fuck was that, and I finally had to face that. Like, you know what, fuck that. Let me see this mother fucker, whoever it is. In my Brian, I created this shit in my 30s where I couldn't walk into anything that was completely pitch black, you know what I mean."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "a60a40aa-6f92-4b43-a08b-6dee831a9c29"
+    },
+    {
+      "start_time": 363,
+      "end_time": 384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, that piece is, every little part of the gesture is a little bit of some shit that in my life, that happened. Hear me? The movement of vocabulary itself is my church. That's the release, that's the spiritual release. The gestures, is the story, it's the narrative, and although abstract, that's what it is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "7e871577-e3c5-4499-a171-ce4e7340ac7a"
+    },
+    {
+      "start_time": 384,
+      "end_time": 417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I often have to say, and there's moments where I do the same solo, even with Heaven, the female character was me, you know what I mean, like, dealing with ... And had to do with then, as a child, also challenging, because what happened to me, going, shit, am I a man? Do I like women? Do I like men? I didn't have a problem ... Like, I told you before, I knew it wasn't about me liking men, but it was because I would cringe at the thought of it, but I had to question it, and thought people were like, you know ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "6337f979-eaed-41b2-a0b5-2355a460a4a7"
+    },
+    {
+      "start_time": 417,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because I was petite and young, I had a clean face, clean shaven, real small, people used to always call me girl, or if I had my hat on, my hood on, they thought I was a girl, that kind of shit, so it was a lot of questioning as I got older like what the fuck like ... You know, that kind of thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "7b31af49-c4e5-47b5-8cd2-c8079ea65483"
+    },
+    {
+      "start_time": 432,
+      "end_time": 455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, I became a fighter, I used to fight. Just rumble. Which was another having to defend myself, defending who I am and what I'm growing up to become. That's what that piece is about, and it's a minute, small part of it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "104565d4-f492-491c-b8cb-d3b20e35a838"
+    },
+    {
+      "start_time": 456,
+      "end_time": 483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can't even get it all out, people would probably be like, okay, I wanted to have fun, now I'm a little depressed, and I'm going to leave, you know what I mean? Same thing with Face in Mecca, I did my solo, was called Lorenzo's Oil, same deal. Instead of ending on a high note, I ended on a low note, people just barely clapped at the end, because they were depressed, and I'm like, sorry. This is my therapy, I'm sorry you had to pay for it, but this is what it's going to be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "0ae91672-8832-4860-9b8d-c73706471762"
+    },
+    {
+      "start_time": 484,
+      "end_time": 502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And part of it was ... The other thing, backtracking, that reason for doing that was because I felt like, if I was going to do theater, and you wanted me to be fucking monkey dance, I'm going to do shit that's going to take care of me and heal me, and I'm going to say my thing, and if you don't like it, you don't like it, and I stopped being afraid of what fucking people thought about what I was going to do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "c552d61b-db36-45cf-b3d4-c2280d7b4f14"
+    },
+    {
+      "start_time": 503,
+      "end_time": 542,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm a little more diplomatic now, as I'm older, like, okay, I aint going to smack them first, I'm just going to rub their kneecaps a little bit then hit them with the bang at the end. I'm going to set you up, give you a little sugar, what you came for and then I'm going to hit you. Or just twist it. And that's why I love musicals, I love Broadway, and in my work, you'll almost see a lot of those little tendencies, like in the bigger group works, like this thing, because I always love visuals of shit, and how people can create shit with dance, with movement and not have to use a set."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "2ad54a9a-4da3-42c2-a58c-20163a71c327"
+    },
+    {
+      "start_time": 542,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My sets are very minimal. They might be big, like this big draperies, and these drapes and whatever, but I don't like that kind of stuff, but anyway, I think that is really what the piece is about, it's just a microcosm of my life and moments in my life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "97a27269-3662-4c85-9498-4a70117a7b77"
+    },
+    {
+      "start_time": 563,
+      "end_time": 564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And rap."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "45a52dbc-a4ec-4b22-bb40-fac985ae1911"
+    },
+    {
+      "start_time": 575,
+      "end_time": 581,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You going to rap, Mr. Harris?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "28ad74a1-10e5-44dd-a0c5-039e8f404d1d"
+    },
+    {
+      "start_time": 581,
+      "end_time": 581,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, and the hip to the hop to the ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "80c3412a-3617-441a-9ba9-e1749900b077"
+    },
+    {
+      "start_time": 581,
+      "end_time": 581,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you ladies and gentlemen and gentlemen and ladies and ladies."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "c982d78a-ff76-4f97-b245-d58337edf52a"
+    },
+    {
+      "start_time": 581,
+      "end_time": 581,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Appreciate it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "e0ed68ef-6234-4fbf-b0e4-ea9d5210abc1"
+    },
+    {
+      "start_time": 582,
+      "end_time": 583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, Mr. Harris."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "baf5ad86-bfd8-4418-a3c1-47f68d9fc556"
+    },
+    {
+      "start_time": 583,
+      "end_time": 586,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, ma'am. I like you, mm-hmm (affirmative). That was great. I felt like somebody."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "5e5bd0ca-561a-46c2-82d6-051cfb1e90b9"
+    },
+    {
+      "start_time": 586,
+      "end_time": 604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Felt important. I got to like just have a Rennie Harris section, like I'm not going to do the rest of it, I'm just going to do that part. Thank you, thank you, thank you so much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "725afd54-1e34-4468-8100-172f39c1f42e"
+    },
+    {
+      "start_time": 604,
+      "end_time": 604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yep. [inaudible 00:10:04]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "ce69db92-e70f-4214-a9db-ab75f7e6d46f"
+    },
+    {
+      "start_time": 604,
+      "end_time": 607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Got you all the way to six, but we gotta run, you gotta run."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "1c31b181-6fca-435d-adda-6d115163eb9a"
+    },
+    {
+      "start_time": 607,
+      "end_time": 609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, well, good, my phone should be-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "4623a5d8-4384-4a7f-bf11-989154a23ee3"
+    },
+    {
+      "start_time": 611,
+      "end_time": 611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Baby's in class-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 4",
+          "category": "People"
+        }
+      ],
+      "uuid": "bc9765ae-2929-477e-b30f-93243bc41134"
+    },
+    {
+      "start_time": 611,
+      "end_time": 612,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, baby's in class."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "97aa7751-4bcb-4d5e-b9ac-2076c2dea107"
+    },
+    {
+      "start_time": 612,
+      "end_time": 613,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, always a pleasure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "7ed4ce3b-6d68-4a3e-aedb-b8b65e540bc0"
+    },
+    {
+      "start_time": 619,
+      "end_time": 620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You, too, sweet cheeks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "d48e133a-a54e-4d70-99d9-b0dc21f6f574"
+    },
+    {
+      "start_time": 620,
+      "end_time": 639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yep. So, I text her from ... Gesel was like text ...Got your phone, I said i don't have my phone, and I said, text Eric, and I said okay, so she gave her my phone, said yeah, we're about 20 minutes out, Sweet Cheeks, and I put it to her, and I gave it to her, because it came from her phone, and I said look what you just texted. Eric, she's like what do I do?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "d9cc6c93-87ea-480e-ac48-f0a734c78bfa"
+    },
+    {
+      "start_time": 638,
+      "end_time": 639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She said I didn't do that, that as Rennie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "b5983ebb-5ea6-4f88-9125-c44fc31f361d"
+    },
+    {
+      "start_time": 645,
+      "end_time": 648,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have to get you back here to do dinner with the shady footage from the fountain."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "216da2d1-9f23-48e2-8150-bdd76617a37a"
+    },
+    {
+      "start_time": 649,
+      "end_time": 655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I was going to ask you that. So, yeah, [inaudible 00:10:53], or if I get back, if she brings me back."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "f633e5ef-3d55-4c5c-8e52-fc24b042fe03"
+    },
+    {
+      "start_time": 655,
+      "end_time": 662,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, I know, and then the fall, too, we couldn't shoot this fall because of the flood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "04c21b0a-d443-4b63-866e-c5dde2251fcc"
+    },
+    {
+      "start_time": 662,
+      "end_time": 662,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "f40a7d80-410a-4d0c-a3d9-7c1d6220c779"
+    },
+    {
+      "start_time": 662,
+      "end_time": 666,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The finale was gorgeous up there, but nobody could go up there, because everything was closed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "1abaaeb2-7dcc-4c4e-b45a-6343ce63aa06"
+    },
+    {
+      "start_time": 665,
+      "end_time": 674,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, we shot the [inaudible 00:11:07] in spring, so beautiful, so right now, we have that of you a tiny little ... I can send you that, too."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "9236acfd-abca-42e5-b6bb-c5092096fad7"
+    },
+    {
+      "start_time": 673,
+      "end_time": 675,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, yeah, that would be great, I would love it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "0681bf28-45ed-4e16-a2bd-980e2d4af37b"
+    },
+    {
+      "start_time": 679,
+      "end_time": 680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Just a minute, yeah I love the singer, too. All right, I'm going to get the babes, you out of here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "48cdb72b-30af-47b2-8540-058748933e5c"
+    },
+    {
+      "start_time": 680,
+      "end_time": 680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "72b29580-f88d-4a5b-ac1f-f5093686b403"
+    },
+    {
+      "start_time": 682,
+      "end_time": 682,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I gotta shower and brush my teeth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "aa38a65b-b4c9-4a43-b324-b7d5dcec275e"
+    },
+    {
+      "start_time": 682,
+      "end_time": 684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, do it quick, because I want to watch TV."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "759ce0b6-e6e8-490a-a7b0-5877b71b9c1f"
+    },
+    {
+      "start_time": 685,
+      "end_time": 687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I might, I don't know this is going to go."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "3c5199a5-1197-4d8f-a75a-968a66f64d2c"
+    }
+  ],
   "set": "2013 Rennie Harris Interview (6 of 6)",
   "event_id": "fc8fe5a5-7553-4def-a8c3-823b9aaedbba",
   "source_id": "8861a38a-6074-4dc2-9ca4-de36324e6e8f"
