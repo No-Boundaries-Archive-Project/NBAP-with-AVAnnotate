@@ -27,7 +27,11 @@
                 }
               ]
             }
-          ]
+          ],
+          "right": 0,
+          "left": 0,
+          "top": 0,
+          "bottom": 0
         }
       ]
     },
@@ -86,14 +90,31 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "A collection of audiovisual artifacts from the "
+                  "text": "How do you annotate the domain of dance?",
+                  "textSize": "heading-two"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "With a selection of interviews, dance performances, and rehearsals from the "
                 },
                 {
-                  "text": "No Boundaries Archive Project (NBAP) ",
+                  "text": "No Boundaries Archive Project (NBAP)",
                   "bold": true
                 },
                 {
-                  "text": "with annotations to make the artifacts more easily searchable and discoverable. "
+                  "text": ", this project explores that question."
                 }
               ]
             },
@@ -109,34 +130,58 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "With this project, we hope to unlock new ways of interacting with and experiencing dance as performance, expression, and meaning."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Visit the "
+                  "text": "The "
                 },
                 {
-                  "text": "No Boundaries Archive Project ",
+                  "text": "No Boundaries Archive Project",
+                  "bold": true
+                },
+                {
+                  "text": " is \"an active and evolving archival database that uses dance as a vehicle to uplift the cultural contributions of African Americans artists amidst a history of silencing and appropriation.\""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " When audio and video artifacts are enriched with annotation, we learned that the information can become more accessible and searchable. We discovered new ways of interacting with and experiencing dance as performance, expression, and a mediator of individual and collective histories."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Visit the links below to uncover new ways of interacting with some of the archive. To experience the full archive, visit "
+                },
+                {
+                  "text": "No Boundaries Archive Project.",
                   "link": "https://noboundariesarchive.com/"
-                },
-                {
-                  "text": "to learn more!"
                 }
               ]
             }
-          ]
+          ],
+          "right": 0,
+          "left": 0,
+          "top": 0,
+          "bottom": 0
         }
       ]
     },
@@ -192,7 +237,7 @@
   "created_at": "2025-10-05T19:49:11.445Z",
   "created_by": "DataMuseology",
   "title": "NBAP with AVAnnotate",
-  "updated_at": "2026-04-19T20:12:26.236Z",
+  "updated_at": "2026-04-25T20:48:13.239Z",
   "updated_by": "DataMuseology",
   "autogenerate": {
     "enabled": false,
