@@ -4,11 +4,12 @@
   "created_by": "DataMuseology",
   "title": "2013 Rennie Harris Interview",
   "slug": "2013-rennie-harris-interview",
-  "updated_at": "2026-04-25T21:37:50.674Z",
+  "updated_at": "2026-04-25T21:49:43.536Z",
   "updated_by": "DataMuseology",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "fc8fe5a5-7553-4def-a8c3-823b9aaedbba"
-  }
+  },
+  "parent": "bf834d68-7062-4d4e-aa5e-151a4f7de8de"
 }
