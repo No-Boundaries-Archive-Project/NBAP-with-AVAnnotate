@@ -1,0 +1,146 @@
+{
+  "audiovisual_files": {
+    "f4d91096-d0db-4dc5-98f8-e4845aef742c": {
+      "label": "2018 Jawole Willa Jo Zollar Interview (2 of 4)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://noboundariesarchive.com/media/collectiveaccess/quicktime/7/80220_ca_object_representations_media_778_original.m4v",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    },
+    "62e1082a-34d6-42a7-b4bb-6375f4f4fca4": {
+      "label": "2018 Jawole Willa Jo Zollar Interview (3 of 4)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://noboundariesarchive.com/media/collectiveaccess/quicktime/7/84880_ca_object_representations_media_779_original.m4v",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "You can access the full archival item at: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Interview with Jawole Willa Jo Zollar 2018 (2 of 4)”. (2018). "
+        },
+        {
+          "text": "No Boundaries Archive",
+          "italic": true
+        },
+        {
+          "text": ". "
+        },
+        {
+          "type": "link",
+          "url": "https://noboundariesarchive.com/Detail/objects/735",
+          "children": [
+            {
+              "text": "https://noboundariesarchive.com/Detail/objects/722"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "“Interview with Jawole Willa Jo Zollar 2018 (3 of 4)”. (2018). "
+        },
+        {
+          "text": "No Boundaries Archive",
+          "italic": true
+        },
+        {
+          "text": ". "
+        },
+        {
+          "type": "link",
+          "url": "https://noboundariesarchive.com/Detail/objects/735",
+          "children": [
+            {
+              "text": "https://noboundariesarchive.com/Detail/objects/723"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://noboundariesarchive.com/Detail/objects/735",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://noboundariesarchive.com/Detail/objects/735",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Annotated by:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Mackenzie Peacock"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "2018 Jawole Willa Jo Zollar Interview",
+  "av_file_order": [
+    "f4d91096-d0db-4dc5-98f8-e4845aef742c",
+    "62e1082a-34d6-42a7-b4bb-6375f4f4fca4"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC/1.0/",
+  "created_at": "2026-04-25T22:20:15.856Z",
+  "created_by": "DataMuseology",
+  "updated_at": "2026-04-25T22:20:15.856Z",
+  "updated_by": "DataMuseology"
+}
