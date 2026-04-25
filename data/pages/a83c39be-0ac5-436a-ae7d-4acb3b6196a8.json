@@ -4,11 +4,12 @@
   "created_by": "DataMuseology",
   "title": "2018 Jawole Willa Jo Zollar Interview",
   "slug": "2018-jawole-willa-jo-zollar-interview",
-  "updated_at": "2026-04-25T22:20:16.756Z",
+  "updated_at": "2026-04-25T22:20:34.778Z",
   "updated_by": "DataMuseology",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "5417539e-efc3-48c5-8861-e86ee6244268"
-  }
+  },
+  "parent": "bf834d68-7062-4d4e-aa5e-151a4f7de8de"
 }
