@@ -1,5 +1,468 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "... some kind of, embrace of balletic, or modern and postmodern conventions. So I became interested in that, and maybe spent about 10 years exploring that. I feel like now, I'm more back to where I started, but with an elevated sense of where I can push and how things come out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jawole Willa Jo Zollar",
+          "category": "People"
+        }
+      ],
+      "uuid": "43f79806-2120-451c-b8c9-e8db0429519f"
+    },
+    {
+      "start_time": 28,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The other thing is that less comes out of my body now. My physical imagination isn't what it was many years ago, so the dancers are doing things that I would not dream of doing, so they generate much more of the movement and my role becomes much more directorial. As opposed to, maybe in the early days of Urban Bush Women, it was maybe 50-50? Coming out of them and coming out of me, and I would say, maybe now it's 80% coming from them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jawole Willa Jo Zollar",
+          "category": "People"
+        }
+      ],
+      "uuid": "6cf527a9-8910-4087-bbab-4e8385c339c7"
+    },
+    {
+      "start_time": 62,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's really interesting, because then it keeps a generational perspective that I don't have in my body. At the same time, what I enjoy about this work is that it's about funk. So the funk is underneath it, in different kind of ways as it explores this very particular subject matter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jawole Willa Jo Zollar",
+          "category": "People"
+        }
+      ],
+      "uuid": "650e27f8-940f-4caa-b1e1-1fb0c007d919"
+    },
+    {
+      "start_time": 91,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, here's a question. I've been curious about ... You and I were having this conversation about history and current ... and legacy. And how we're bringing in ... Like you were talking about the strong techniques, but it was like, \"But they were doing something. There was something that they were understanding.\" But then, you start doing the shapes of that, and it loses its-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "a060452f-afdc-4f1a-837c-9abe43643e64"
+    },
+    {
+      "start_time": 117,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jawole Willa Jo Zollar",
+          "category": "People"
+        }
+      ],
+      "uuid": "df826cd7-cbfe-411a-8f9a-89054b0fa50b"
+    },
+    {
+      "start_time": 118,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, I'm curious. You just received a Lifetime Achievement Award. That's amazing, and congratulations. I feel like, some real recognition, for the work that you've done, the body of work that you've done. I don't know how to, I don't know what the question is. I think there's something about, how you see yourself in this trajectory, in this history, in this legacy, where you see Urban Bush Women going? Where, how you're reaching back, and going forward at the same time, or any other thing that comes to mind?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "b6064967-df0e-47f2-ad37-5f0cb9436c74"
+    },
+    {
+      "start_time": 160,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. I think the Lifetime Achievement Award, when I got the call, it was kind of like, \"Whoa!\" It was quite a surprise, because it was like, \"Wait a minute! I'm not done! I got, I still have things to do.\" And previously, I had thought about, that that goes to people much older."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jawole Willa Jo Zollar",
+          "category": "People"
+        }
+      ],
+      "uuid": "88fc5fc9-c0bf-4cbf-81bf-2f44e97a4641"
+    },
+    {
+      "start_time": 176,
+      "end_time": 205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But when I really look at the history and legacy of Urban Bush Women, and what we've done over the years, and the kinds of things that we've done, both on the concert stage, within community settings, and within our leadership development work, that ... For me, they're all related to art making, and it's the art making impulse that guides all of these."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jawole Willa Jo Zollar",
+          "category": "People"
+        }
+      ],
+      "uuid": "4839f977-819f-456f-98f7-5c40d2ab2490"
+    },
+    {
+      "start_time": 205,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, I think what I've become interested in, the medium is something that I become interested in, in a particular time and place. So maybe it's, maybe it is kind of like there was one point where I became interested in more of the balletic shapes, and then another time, I'm interested ... Now, I'm really interested in what the street dances that come up out of youth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jawole Willa Jo Zollar",
+          "category": "People"
+        }
+      ],
+      "uuid": "879f51ab-7ebb-4479-a1c4-acd2fa15ad5c"
+    },
+    {
+      "start_time": 234,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because I feel like, that's where I started. How they inform discovery of choreographic language, particularly as we were doing the Walking with 'Trane work, where we were looking at bebop, which is a very intricate, and bebop, and hard bop, and free bop, all of that. It's a very intricate relationship to the music."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jawole Willa Jo Zollar",
+          "category": "People"
+        }
+      ],
+      "uuid": "923c3a28-45d0-4cad-bc90-68c7a55f24aa"
+    },
+    {
+      "start_time": 258,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, therefore, all of the things that people do in their bodies that were not necessarily part of how my generation danced; become very interesting, and that language to me, it informs the work. So, who knows? In 10 years, maybe I'm interested in Bluto. Who knows what the language that I might be delving into, and interested in? So, the journey is just, it's the journey."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jawole Willa Jo Zollar",
+          "category": "People"
+        }
+      ],
+      "uuid": "7258240d-5680-43dc-8eb7-0bc6b282592d"
+    },
+    {
+      "start_time": 294,
+      "end_time": 316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm sorry, there's somebody at the door."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "c0c0f014-0453-4872-8d4e-76b3147a490e"
+    },
+    {
+      "start_time": 316,
+      "end_time": 320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[inaudible 00:05:11]. How'd you get in? [inaudible 00:05:10] It's Chimmy. I don't know if you ever met Chimmy. Chimmy Chang? And Jordan Worley."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "e46b8c5f-6943-465a-bdde-96570dfca017"
+    },
+    {
+      "start_time": 320,
+      "end_time": 321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jawole Willa Jo Zollar",
+          "category": "People"
+        }
+      ],
+      "uuid": "5b4fe601-b8d4-4ac8-9b54-6b567ac3756b"
+    },
+    {
+      "start_time": 321,
+      "end_time": 333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You guys peek your head around and wave for a second. We're doing our interview. You gotta keep peeking. Can you see? Okay, nevermind."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "78caaa45-dc37-4e8a-8a02-1fa4752a5465"
+    },
+    {
+      "start_time": 333,
+      "end_time": 333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hi."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jawole Willa Jo Zollar",
+          "category": "People"
+        }
+      ],
+      "uuid": "57f4608b-ef30-42e4-b8fc-beb6ca6c87b6"
+    },
+    {
+      "start_time": 333,
+      "end_time": 336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Still rolling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "5e8bb072-44dd-437c-9510-ac687e6b4210"
+    },
+    {
+      "start_time": 336,
+      "end_time": 338,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're good?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "a4b19673-fb89-449a-a549-2c673739e3f5"
+    },
+    {
+      "start_time": 338,
+      "end_time": 341,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, we're still rolling."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 4",
+          "category": "People"
+        }
+      ],
+      "uuid": "ea0f3be0-89ca-4646-a1e5-1d1622b7b88c"
+    },
+    {
+      "start_time": 341,
+      "end_time": 397,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the questions I asked when I did this 10 years ago, was about black dance. And if there was such a thing. And if there is such a thing. And, one of the reasons I started doing this work again was, I had an opportunity to revisit it in 2014 and do some of the works, and go and perform it at a university I Albany. They're probably getting started. And I felt like ... There they go. I felt like the conversation was really important to still be having, and I feel like we're in a real interesting moment right now in our American history, where we're even revisiting stuff that ... I feel like we're already in this cycle or something. So, I'm just wondering one, what about ... Can you hear that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "9db423bf-4876-4704-91d6-24e25bb1e762"
+    },
+    {
+      "start_time": 397,
+      "end_time": 402,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When she starts speaking, and then I'll know if it's loud enough."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Speaker 3",
+          "category": "People"
+        }
+      ],
+      "uuid": "6c22a3b6-3435-483d-af29-dcee4ec0fed3"
+    },
+    {
+      "start_time": 402,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I think in some ways I've shifted from this question about what is black dance, but what perhaps is important about a project like this. I'm interested in seeing why people make the work that they make-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "a695567b-44a2-4983-b07e-b0bf570e87b3"
+    }
+  ],
   "set": "2018 Jawole Willa Jo Zollar Interview (3 of 4)",
   "event_id": "5417539e-efc3-48c5-8861-e86ee6244268",
   "source_id": "62e1082a-34d6-42a7-b4bb-6375f4f4fca4"
