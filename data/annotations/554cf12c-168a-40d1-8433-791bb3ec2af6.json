@@ -1,5 +1,573 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There's two questions, so let me think of which one I want to ask first. What do you feel that you want to ... So, you've got students, you've got audiences, you've got street people, you have to answer to all of ... Not answer, but it's like your foot is in all of that. It sounds like you're a bridge builder in a lot of ways. What is it that you want one group to know about the other group, about the other group? How are they all feeding hip-hop? How are you satisfying all of these places, building bridges?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "5c54fee5-4500-46af-b174-e75910e50d3f"
+    },
+    {
+      "start_time": 41,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I feel like each group, street, academia, community, understood that each one has a value, and that again, there are cultural differences, from the community to the hip-hop culture, to academia. Each one of those cultural differences are governed by a cultural perspective, and that neither affords objectivity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "193800e1-099c-47b0-9e05-c66d0cc91930"
+    },
+    {
+      "start_time": 75,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lot of times people think of the man, the government, academia as having this ... This is what it is, blah, blah, blah, blah. Even as practitioners, this is ... But, it's a perspective informed by their own cultural experience via their own home, their family, their ethnicity, the O9, regardless of their other environments, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "d10056db-c566-4d51-938b-0523b82476e4"
+    },
+    {
+      "start_time": 101,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think if people understood that we have to figure out how to become again bilingual, that for the most part we're all saying the same thing. We want to be recognized and acknowledged for the contribution that we're making to American culture and what we have since slavery. We're cool with that once we get acknowledged. Right? We want to be able to really understand culturally why, \"whites do this, or why we do this\" and bridge this gap as well. It's cool. That kind of thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "dad5a612-c567-433a-9d78-5c87146e0f7f"
+    },
+    {
+      "start_time": 139,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The community; we want to feel like that we have a voice from a community and not that everyone stomps on us every time, trample us to get to where they're going, hip-hop included."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "d804bdfa-de3b-4064-acca-aa839dc09914"
+    },
+    {
+      "start_time": 155,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think if each group understood ... I'm purposely putting hip-hop outside of the community base, 'cause the community is the people, are the people. Hip-hop sort of went from here, this nucleus, into sort of like created this whole other world, this other culture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "e5a35f98-3c6c-4afe-87e1-7803dc33f8df"
+    },
+    {
+      "start_time": 176,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of course we have some hip-hop cats and stuff in the community, but it is become a brand. That's the truth of it. You have these nucleuses trying to figure out how to get along and move forward. By design, the interesting part is, by design, we're capitalists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "71004d70-cd8e-4237-9c8d-4e48f8ea587f"
+    },
+    {
+      "start_time": 197,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Traditionally in black folks history here, we've always been pushed in entertainment. We've never really been pushed in this space of ... I wanna say what we do is an expressive, but delve into more in the other expressions of the state of being as humans, so to speak."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "8ce9958d-c5e1-4815-beab-8673a157fea0"
+    },
+    {
+      "start_time": 221,
+      "end_time": 233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For blacks, I feel like we've always been pushed into entertainment to like, \"Hey, shout out,\" you know? And that's what people always accepted about us historically, from day one, during slavery on, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "16c1bf7d-9f82-4637-9fc8-43bebfe1af75"
+    },
+    {
+      "start_time": 236,
+      "end_time": 261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That seems to be okay with even blacks. So, when you step out of, into something, that's, \"Okay, I wanna express a little bit more range of my emotion or stage and use this particular vernacular to do it,\" then it becomes weird. Blacks go, \"Oh, that's white people stuff.\" They'll challenge you, like, \"Why you? That's not hip-hop,\" or that's not this or whatever, that kinda thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "9af22cde-81dc-4379-8b58-c2cc38814387"
+    },
+    {
+      "start_time": 262,
+      "end_time": 298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then whites, it's part of the norm. It's hip-hop and they're break dancing and they're flipping and so and so. In the very beginning, people would come to our shows with their kids, all these white little kids all in front. We would come out ... In the very beginning, I did a lot of what I would call hip-hop performance are, where we would come out ... I had a lot of older cats around me, black artists, who were performance artists. So, I think they influenced me a lot more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "1a4667d3-3c19-496b-acb4-f1ce813dfda6"
+    },
+    {
+      "start_time": 299,
+      "end_time": 328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of our first pieces was called Die Nigga, and we would come out and we used the black poets. In the poem, it was like, \"Die nigga. Niggas love to die. We love to die in big fancy cars. Niggas love to die in three piece suits.\" It just kept on going, kept on going and would build, like \"Die nigga, die nigga, die nigga.\" Every time that they would say nigga, I would just have one of my dancers jump up in the air and fucking flip onto their back and then get up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "06cfad19-a219-4668-97c4-d7970977ad30"
+    },
+    {
+      "start_time": 328,
+      "end_time": 351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, you'd just see these black men just hurling themselves across the floor. Pow! Get up. Pow! Whatever movement I could think that was breaking, so they could hear that smack every time the word came up. Let me tell you, the first three/four rows [inaudible 00:05:46], just out the door, out the goddam door."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "7f2d6b82-742d-4d7c-a6a4-7023b7c258a3"
+    },
+    {
+      "start_time": 353,
+      "end_time": 372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To this day, we have not been back to South Carolina. Let me tell you that. A woman went out into the lobby and had a heart attack, went to the hospital. I had to send her flowers, the whole nine. It was just headlines. \"Harris bring angst dance to South Carolina, at the Spoleto Festival,\" or some craziness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "40e40b96-1d5b-4845-a429-d23fc3630809"
+    },
+    {
+      "start_time": 373,
+      "end_time": 422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The beauty of that to me was; one, I was young and I was working on my thing now. This was my college. This was my being literal and my thing. I was still working my thing out. At the end of that, they say, \"Die nigga,\" so black folks can stand up. And this was the first time, when I heard that, I remember, I was like the native dude for pollution on that commercial, when he look at the pollution and the one tear come down, like that. So, when I heard that poem, that's when I was like ... Like so black folk, there's a separation. I remember thinking like, \"Oh, that makes a lot more sense to me.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "991ba2ab-653d-4e3c-8b7a-a798617f8ce6"
+    },
+    {
+      "start_time": 423,
+      "end_time": 453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Black folks are black folks, niggas is niggas, whatever it is. And it's not specific to black people. That was major for me and so I ... I did Endangered Species. This is when it was thinking of black men as being endangered. No one made it past 25, the fucking generation was being wiped out. In my neighborhood, when they used to call the kids who we all shot and in wheelchairs, the special kids. Special Olympics 'cause they was shot in wheelchairs. There was like this whole wheelchair culture of hip-hop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "7ac36e5b-45c1-4ede-a33d-d266d2054394"
+    },
+    {
+      "start_time": 456,
+      "end_time": 482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So yes, my first half was hard. We danced to Hairspray soundtrack, \"Black jigga, boo nigga, spook.\" I was doing it all, I was going in. So, if you made it past the first 30 minutes of my shit, then you could see the black people flipping, entertaining and do the monkey dance. That's how I felt, like \"You make it through, I dance for you.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "fa844437-08f9-443b-aa82-2b508a135584"
+    },
+    {
+      "start_time": 482,
+      "end_time": 502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was tired from what I did, touring traditionally, commercially, I realized I was basically ... basically, it's kinda harsh, I tell my students, but basically I was a prostitute, you know? I was selling my physical wears, I wasn't selling my intelligence, nobody wanted to talk me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "25085caf-9511-4f53-ab5f-7b96134c5c91"
+    },
+    {
+      "start_time": 502,
+      "end_time": 521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If I was gonna be a prostitute, I was gonna ... That was the dope part, prostitutes control the situation, \"Don't kiss me here, don't touch me here, leave my money on the table.\" At the end of the day, you gonna get fucked either way. You just gotta pick out what type of condom you want, you want a ribbed or glow-in-the-dark, you know what I mean."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "e9370f41-44fc-4eae-a21f-92c857c3f905"
+    },
+    {
+      "start_time": 521,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, once I realized that I was a prostitute, it made more sense to me. It was okay. So, when Fox called me about doing a film, to choreograph, I said, \"Yeah, I want $20000, upfront.\" Oh no. When Disney called, \"This is what I want.\" No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "b848db2c-5dae-4cb9-bd4b-7178e66b8b12"
+    },
+    {
+      "start_time": 541,
+      "end_time": 548,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cause I don't have a problem. I know what the money is and I'm not gonna work from the bottom. I worked too long to not ..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "1fb38a30-8379-4f4b-814e-ecd1cc3914ae"
+    },
+    {
+      "start_time": 549,
+      "end_time": 574,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Disney, fuck they ... This is for, originally, they were looking for me to do Lion King, like 1994/95/96 and I shouldn't have did it 'cause I wasn't ready choreographically, I wasn't. It was a right choice anyway. But I remember them following us. We went to Africa. They wanted to do this and they other kinda thing and then after all of then, so all the shows came back and said, \"We want you to come audition.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "0c829743-a2c1-45e9-abdb-27a66556984d"
+    },
+    {
+      "start_time": 576,
+      "end_time": 587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I said, \"First of all, if I do this, it has to say Lion Kind featuring Rennie Harris, Puremovement. And we're not auditioning.\" And we didn't get the call back."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "23fa6d33-39b3-476d-883f-9dac0eba47f7"
+    },
+    {
+      "start_time": 589,
+      "end_time": 632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the dynamic where I started to become like, \"Forget that, no.\" I'm arguing with people about water. \"Well, Pina Bausch paid for her own water backstage. Why do you need water? You can bring your own water.\" I said, \"We're not doing the show.\" Like, I'm coming into your house, you gonna give water, give me shelter and a place to rest, hands down. Just changing some things, and I know some places won't bring me back because of that. I was a little bit ... I was just straightforward back then. Now, I'm a little diplomatic and I can use some language and talk to them and make them see. Before it was just like, \"This is what it is. Blah blah blah, blah blah blah.\" That was the real hardcore hip-hip part of me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "5049b029-8f62-41c9-bc8c-e444cedf2696"
+    },
+    {
+      "start_time": 635,
+      "end_time": 686,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Those are the things I like in regards to challenging what people think is the norm, challenging cultural misunderstandings and cultural, the lack of bilingualism and feeling like black folk have to always be bilingual. At some point, if I apply for a job, I have to know at some point, I'm very cognizant of what I'm saying and how I'm saying it and I need to pronounce my words correctly and use my tongue and not my lips and my sense of phonetic understanding in order to get that job. And I need to walk in straight and not with my dip, not with my ... you know, whatever that is. So, there's a sense that, black folk, the sense of coat switching all the time and having to do that purposely."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "ec32dfa9-a41c-4597-b96e-edbebf91d55d"
+    },
+    {
+      "start_time": 687,
+      "end_time": 708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I go home to my neighborhood, I'm a whole nother person. So, I try not to stay and get me in my neighborhood because I know I can get caught up, even at this age that I am now, because I know too many people who do too many things and I can't walk down the street with them, I can't hang on the corner with them. If I say, \"Hey!\" I stay at my mom's house and I stay right there on the stoop. I don't go visit people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Rennie Harris",
+          "category": "People"
+        }
+      ],
+      "uuid": "e1c94d95-2f0d-4194-aefd-4ec02aa1de19"
+    },
+    {
+      "start_time": 709,
+      "end_time": 717,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How would you say that Philly influences your work? Or where you grew up and how you grew up, is present in the work that you make?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gesel Mason",
+          "category": "People"
+        }
+      ],
+      "uuid": "cace3b4f-34a8-4379-973d-aa0632565c4f"
+    }
+  ],
   "set": "2013 Rennie Harris Interview (3 of 6)",
   "event_id": "fc8fe5a5-7553-4def-a8c3-823b9aaedbba",
   "source_id": "e785665a-0a36-4c05-8515-f325b5400b55"
